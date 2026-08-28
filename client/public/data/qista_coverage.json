@@ -1,0 +1,47 @@
+{
+  "FRL05": {
+    "name": "Var",
+    "bornes_count": 400,
+    "original_score": 36,
+    "protected_score": 24,
+    "reduction_pct": 32.0,
+    "original_class": "B",
+    "protected_class": "A"
+  },
+  "FRL04": {
+    "name": "Bouches-du-Rh\u00f4ne",
+    "bornes_count": 3,
+    "original_score": 54,
+    "protected_score": 54,
+    "reduction_pct": 0.2,
+    "original_class": "C",
+    "protected_class": "C"
+  },
+  "ES511": {
+    "name": "Barcelona",
+    "bornes_count": 1,
+    "original_score": 46,
+    "protected_score": 46,
+    "reduction_pct": 0.1,
+    "original_class": "C",
+    "protected_class": "C"
+  },
+  "ITI43": {
+    "name": "Roma",
+    "bornes_count": 1,
+    "original_score": 45,
+    "protected_score": 45,
+    "reduction_pct": 0.1,
+    "original_class": "C",
+    "protected_class": "C"
+  },
+  "FRJ13": {
+    "name": "H\u00e9rault",
+    "bornes_count": 1,
+    "original_score": 46,
+    "protected_score": 46,
+    "reduction_pct": 0.1,
+    "original_class": "C",
+    "protected_class": "C"
+  }
+}

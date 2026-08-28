@@ -1,0 +1,4194 @@
+{
+  "BE100": {
+    "density": 7770.2,
+    "name": "Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad"
+  },
+  "BE211": {
+    "density": 1132.1,
+    "name": "Arr. Antwerpen"
+  },
+  "BE212": {
+    "density": 718.7,
+    "name": "Arr. Mechelen"
+  },
+  "BE213": {
+    "density": 356.1,
+    "name": "Arr. Turnhout"
+  },
+  "BE223": {
+    "density": 334.3,
+    "name": "Arr. Tongeren"
+  },
+  "BE231": {
+    "density": 642.3,
+    "name": "Arr. Aalst"
+  },
+  "BE232": {
+    "density": 610.8,
+    "name": "Arr. Dendermonde"
+  },
+  "BE233": {
+    "density": 267.2,
+    "name": "Arr. Eeklo"
+  },
+  "BE234": {
+    "density": 613.7,
+    "name": "Arr. Gent"
+  },
+  "BE235": {
+    "density": 302.3,
+    "name": "Arr. Oudenaarde"
+  },
+  "BE236": {
+    "density": 573.3,
+    "name": "Arr. Sint-Niklaas"
+  },
+  "BE241": {
+    "density": 705.1,
+    "name": "Arr. Halle-Vilvoorde"
+  },
+  "BE242": {
+    "density": 450.0,
+    "name": "Arr. Leuven"
+  },
+  "AT111": {
+    "density": 54.4,
+    "name": "Mittelburgenland"
+  },
+  "AT112": {
+    "density": 100.8,
+    "name": "Nordburgenland"
+  },
+  "AT113": {
+    "density": 67.9,
+    "name": "S\u00fcdburgenland"
+  },
+  "AT121": {
+    "density": 75.9,
+    "name": "Mostviertel-Eisenwurzen"
+  },
+  "AT122": {
+    "density": 79.7,
+    "name": "Nieder\u00f6sterreich-S\u00fcd"
+  },
+  "AT123": {
+    "density": 132.8,
+    "name": "Sankt P\u00f6lten"
+  },
+  "AT124": {
+    "density": 47.5,
+    "name": "Waldviertel"
+  },
+  "AT125": {
+    "density": 53.4,
+    "name": "Weinviertel"
+  },
+  "AT126": {
+    "density": 129.5,
+    "name": "Wiener Umland/Nordteil"
+  },
+  "AT127": {
+    "density": 245.9,
+    "name": "Wiener Umland/S\u00fcdteil"
+  },
+  "AT130": {
+    "density": 5035.2,
+    "name": "Wien"
+  },
+  "AT211": {
+    "density": 151.8,
+    "name": "Klagenfurt-Villach"
+  },
+  "AT212": {
+    "density": 30.5,
+    "name": "Oberk\u00e4rnten"
+  },
+  "AT213": {
+    "density": 44.4,
+    "name": "Unterk\u00e4rnten"
+  },
+  "AT221": {
+    "density": 386.7,
+    "name": "Graz"
+  },
+  "AT222": {
+    "density": 24.3,
+    "name": "Liezen"
+  },
+  "AT223": {
+    "density": 49.5,
+    "name": "\u00d6stliche Obersteiermark"
+  },
+  "AT224": {
+    "density": 81.8,
+    "name": "Oststeiermark"
+  },
+  "AT225": {
+    "density": 88.4,
+    "name": "West- und S\u00fcdsteiermark"
+  },
+  "AT226": {
+    "density": 32.5,
+    "name": "Westliche Obersteiermark"
+  },
+  "AT311": {
+    "density": 107.0,
+    "name": "Innviertel"
+  },
+  "AT312": {
+    "density": 360.0,
+    "name": "Linz-Wels"
+  },
+  "AT313": {
+    "density": 81.5,
+    "name": "M\u00fchlviertel"
+  },
+  "AT314": {
+    "density": 71.5,
+    "name": "Steyr-Kirchdorf"
+  },
+  "AT315": {
+    "density": 102.4,
+    "name": "Traunviertel"
+  },
+  "AT321": {
+    "density": 20.2,
+    "name": "Lungau"
+  },
+  "AT322": {
+    "density": 39.7,
+    "name": "Pinzgau-Pongau"
+  },
+  "AT323": {
+    "density": 223.4,
+    "name": "Salzburg und Umgebung"
+  },
+  "AT331": {
+    "density": 27.8,
+    "name": "Au\u00dferfern"
+  },
+  "AT332": {
+    "density": 152.6,
+    "name": "Innsbruck"
+  },
+  "AT333": {
+    "density": 24.4,
+    "name": "Osttirol"
+  },
+  "AT334": {
+    "density": 32.7,
+    "name": "Tiroler Oberland"
+  },
+  "AT335": {
+    "density": 67.9,
+    "name": "Tiroler Unterland"
+  },
+  "AT341": {
+    "density": 51.1,
+    "name": "Bludenz-Bregenzer Wald"
+  },
+  "AT342": {
+    "density": 462.4,
+    "name": "Rheintal-Bodenseegebiet"
+  },
+  "BE251": {
+    "density": 439.9,
+    "name": "Arr. Brugge"
+  },
+  "BE252": {
+    "density": 144.3,
+    "name": "Arr. Diksmuide"
+  },
+  "BE253": {
+    "density": 195.9,
+    "name": "Arr. Ieper"
+  },
+  "BE254": {
+    "density": 742.2,
+    "name": "Arr. Kortrijk"
+  },
+  "BE255": {
+    "density": 547.9,
+    "name": "Arr. Oostende"
+  },
+  "BE256": {
+    "density": 580.3,
+    "name": "Arr. Roeselare"
+  },
+  "BE257": {
+    "density": 287.8,
+    "name": "Arr. Tielt"
+  },
+  "BE258": {
+    "density": 223.8,
+    "name": "Arr. Veurne"
+  },
+  "BE310": {
+    "density": 378.0,
+    "name": "Arr. Nivelles"
+  },
+  "BE323": {
+    "density": 447.0,
+    "name": "Arr. Mons"
+  },
+  "BE331": {
+    "density": 176.5,
+    "name": "Arr. Huy"
+  },
+  "DE914": {
+    "density": 112.1,
+    "name": "Gifhorn"
+  },
+  "DE916": {
+    "density": 133.2,
+    "name": "Goslar"
+  },
+  "DE917": {
+    "density": 134.8,
+    "name": "Helmstedt"
+  },
+  "DE918": {
+    "density": 99.9,
+    "name": "Northeim"
+  },
+  "DE91A": {
+    "density": 257.2,
+    "name": "Peine"
+  },
+  "DE91B": {
+    "density": 163.8,
+    "name": "Wolfenb\u00fcttel"
+  },
+  "DE91C": {
+    "density": 187.6,
+    "name": "G\u00f6ttingen"
+  },
+  "DE922": {
+    "density": 111.5,
+    "name": "Diepholz"
+  },
+  "DE923": {
+    "density": 189.5,
+    "name": "Hameln-Pyrmont"
+  },
+  "DE925": {
+    "density": 222.7,
+    "name": "Hildesheim"
+  },
+  "DE926": {
+    "density": 95.5,
+    "name": "Holzminden"
+  },
+  "DE927": {
+    "density": 87.5,
+    "name": "Nienburg (Weser)"
+  },
+  "DE928": {
+    "density": 233.1,
+    "name": "Schaumburg"
+  },
+  "DE929": {
+    "density": 502.5,
+    "name": "Region Hannover"
+  },
+  "DE931": {
+    "density": 111.6,
+    "name": "Celle"
+  },
+  "DE932": {
+    "density": 97.7,
+    "name": "Cuxhaven"
+  },
+  "DE933": {
+    "density": 213.0,
+    "name": "Harburg"
+  },
+  "DE934": {
+    "density": 38.5,
+    "name": "L\u00fcchow-Dannenberg"
+  },
+  "DE935": {
+    "density": 136.0,
+    "name": "L\u00fcneburg, Landkreis"
+  },
+  "DE936": {
+    "density": 176.1,
+    "name": "Osterholz"
+  },
+  "DE937": {
+    "density": 79.7,
+    "name": "Rotenburg (W\u00fcmme)"
+  },
+  "DE938": {
+    "density": 75.9,
+    "name": "Heidekreis"
+  },
+  "DE939": {
+    "density": 174.3,
+    "name": "Stade"
+  },
+  "DE93A": {
+    "density": 62.5,
+    "name": "Uelzen"
+  },
+  "DE93B": {
+    "density": 176.1,
+    "name": "Verden"
+  },
+  "DE941": {
+    "density": 1313.7,
+    "name": "Delmenhorst, Kreisfreie Stadt"
+  },
+  "DE942": {
+    "density": 455.3,
+    "name": "Emden, Kreisfreie Stadt"
+  },
+  "DE943": {
+    "density": 1719.1,
+    "name": "Oldenburg (Oldenburg), Kreisfreie Stadt"
+  },
+  "DE944": {
+    "density": 1380.9,
+    "name": "Osnabr\u00fcck, Kreisfreie Stadt"
+  },
+  "DE945": {
+    "density": 730.1,
+    "name": "Wilhelmshaven, Kreisfreie Stadt"
+  },
+  "DE946": {
+    "density": 175.2,
+    "name": "Ammerland"
+  },
+  "DE947": {
+    "density": 147.5,
+    "name": "Aurich"
+  },
+  "DE948": {
+    "density": 124.4,
+    "name": "Cloppenburg"
+  },
+  "DE949": {
+    "density": 115.9,
+    "name": "Emsland"
+  },
+  "DE94A": {
+    "density": 165.5,
+    "name": "Friesland (DE)"
+  },
+  "DE94B": {
+    "density": 146.6,
+    "name": "Grafschaft Bentheim"
+  },
+  "DE94C": {
+    "density": 158.6,
+    "name": "Leer"
+  },
+  "DE94D": {
+    "density": 123.8,
+    "name": "Oldenburg, Landkreis"
+  },
+  "DE94E": {
+    "density": 168.1,
+    "name": "Osnabr\u00fcck, Landkreis"
+  },
+  "DE94F": {
+    "density": 179.3,
+    "name": "Vechta"
+  },
+  "DE94G": {
+    "density": 110.7,
+    "name": "Wesermarsch"
+  },
+  "DE94H": {
+    "density": 85.5,
+    "name": "Wittmund"
+  },
+  "FRK27": {
+    "density": 72.6,
+    "name": "Savoie"
+  },
+  "FRK28": {
+    "density": 188.2,
+    "name": "Haute-Savoie"
+  },
+  "FRL01": {
+    "density": 24.2,
+    "name": "Alpes-de-Haute-Provence"
+  },
+  "FRL02": {
+    "density": 25.0,
+    "name": "Hautes-Alpes"
+  },
+  "FRL03": {
+    "density": 261.6,
+    "name": "Alpes-Maritimes"
+  },
+  "FRL04": {
+    "density": 437.8,
+    "name": "Bouches-du-Rh\u00f4ne"
+  },
+  "FRL05": {
+    "density": 186.9,
+    "name": "Var"
+  },
+  "FRL06": {
+    "density": 160.7,
+    "name": "Vaucluse"
+  },
+  "FRM01": {
+    "density": 42.2,
+    "name": "Corse-du-Sud"
+  },
+  "FRM02": {
+    "density": 39.9,
+    "name": "Haute-Corse"
+  },
+  "FRY10": {
+    "density": 246.0,
+    "name": "Guadeloupe"
+  },
+  "FRY20": {
+    "density": 325.2,
+    "name": "Martinique"
+  },
+  "FRY30": {
+    "density": 3.5,
+    "name": "Guyane"
+  },
+  "FRY40": {
+    "density": 358.9,
+    "name": "La R\u00e9union"
+  },
+  "FRY50": {
+    "density": 863.7,
+    "name": "Mayotte"
+  },
+  "HR021": {
+    "density": 38.2,
+    "name": "Bjelovarsko-bilogorska \u017eupanija"
+  },
+  "HR022": {
+    "density": 34.2,
+    "name": "Viroviti\u010dko-podravska \u017eupanija"
+  },
+  "HR023": {
+    "density": 34.2,
+    "name": "Po\u017ee\u0161ko-slavonska \u017eupanija"
+  },
+  "HR024": {
+    "density": 64.3,
+    "name": "Brodsko-posavska \u017eupanija"
+  },
+  "HR025": {
+    "density": 62.5,
+    "name": "Osje\u010dko-baranjska \u017eupanija"
+  },
+  "HR026": {
+    "density": 58.2,
+    "name": "Vukovarsko-srijemska \u017eupanija"
+  },
+  "HR027": {
+    "density": 30.7,
+    "name": "Karlova\u010dka \u017eupanija"
+  },
+  "HR028": {
+    "density": 30.8,
+    "name": "Sisa\u010dko-moslava\u010dka \u017eupanija"
+  },
+  "HR031": {
+    "density": 74.1,
+    "name": "Primorsko-goranska \u017eupanija"
+  },
+  "HR032": {
+    "density": 8.0,
+    "name": "Li\u010dko-senjska \u017eupanija"
+  },
+  "RO313": {
+    "density": 118.6,
+    "name": "D\u00e2mbovi\u0163a"
+  },
+  "RO314": {
+    "density": 75.0,
+    "name": "Giurgiu"
+  },
+  "RO315": {
+    "density": 57.4,
+    "name": "Ialomi\u0163a"
+  },
+  "RO316": {
+    "density": 147.4,
+    "name": "Prahova"
+  },
+  "RO317": {
+    "density": 55.8,
+    "name": "Teleorman"
+  },
+  "RO321": {
+    "density": 7461.2,
+    "name": "Bucure\u015fti"
+  },
+  "RO322": {
+    "density": 377.1,
+    "name": "Ilfov"
+  },
+  "RO411": {
+    "density": 82.3,
+    "name": "Dolj"
+  },
+  "RO412": {
+    "density": 56.0,
+    "name": "Gorj"
+  },
+  "RO413": {
+    "density": 47.9,
+    "name": "Mehedin\u0163i"
+  },
+  "RO414": {
+    "density": 70.4,
+    "name": "Olt"
+  },
+  "RO415": {
+    "density": 60.0,
+    "name": "V\u00e2lcea"
+  },
+  "RO421": {
+    "density": 53.3,
+    "name": "Arad"
+  },
+  "RO422": {
+    "density": 28.9,
+    "name": "Cara\u015f-Severin"
+  },
+  "RO423": {
+    "density": 50.6,
+    "name": "Hunedoara"
+  },
+  "RO424": {
+    "density": 76.5,
+    "name": "Timi\u015f"
+  },
+  "DEA11": {
+    "density": 2987.2,
+    "name": "D\u00fcsseldorf, Kreisfreie Stadt"
+  },
+  "DEA12": {
+    "density": 2347.8,
+    "name": "Duisburg, Kreisfreie Stadt"
+  },
+  "DEA13": {
+    "density": 2768.9,
+    "name": "Essen, Kreisfreie Stadt"
+  },
+  "DEA14": {
+    "density": 1706.5,
+    "name": "Krefeld, Kreisfreie Stadt"
+  },
+  "DEA15": {
+    "density": 1573.5,
+    "name": "M\u00f6nchengladbach, Kreisfreie Stadt"
+  },
+  "DEA16": {
+    "density": 1895.3,
+    "name": "M\u00fclheim an der Ruhr, Kreisfreie Stadt"
+  },
+  "DEA17": {
+    "density": 2771.2,
+    "name": "Oberhausen, Kreisfreie Stadt"
+  },
+  "DEA18": {
+    "density": 1539.1,
+    "name": "Remscheid, Kreisfreie Stadt"
+  },
+  "DEA19": {
+    "density": 1840.6,
+    "name": "Solingen, Kreisfreie Stadt"
+  },
+  "DEA1A": {
+    "density": 2134.4,
+    "name": "Wuppertal, Kreisfreie Stadt"
+  },
+  "DEA1B": {
+    "density": 264.5,
+    "name": "Kleve"
+  },
+  "DEA1C": {
+    "density": 1214.6,
+    "name": "Mettmann"
+  },
+  "DEA1D": {
+    "density": 806.7,
+    "name": "Rhein-Kreis Neuss"
+  },
+  "DEA1E": {
+    "density": 530.3,
+    "name": "Viersen"
+  },
+  "DEA1F": {
+    "density": 454.4,
+    "name": "Wesel"
+  },
+  "DEA22": {
+    "density": 2367.3,
+    "name": "Bonn, Kreisfreie Stadt"
+  },
+  "DEA23": {
+    "density": 2636.2,
+    "name": "K\u00f6ln, Kreisfreie Stadt"
+  },
+  "DEA24": {
+    "density": 2204.1,
+    "name": "Leverkusen, Kreisfreie Stadt"
+  },
+  "DEA26": {
+    "density": 297.2,
+    "name": "D\u00fcren"
+  },
+  "DEA27": {
+    "density": 678.6,
+    "name": "Rhein-Erft-Kreis"
+  },
+  "DEA28": {
+    "density": 161.2,
+    "name": "Euskirchen"
+  },
+  "DEA29": {
+    "density": 418.0,
+    "name": "Heinsberg"
+  },
+  "DEA2A": {
+    "density": 300.9,
+    "name": "Oberbergischer Kreis"
+  },
+  "DEA2B": {
+    "density": 654.3,
+    "name": "Rheinisch-Bergischer Kreis"
+  },
+  "DEA2C": {
+    "density": 528.1,
+    "name": "Rhein-Sieg-Kreis"
+  },
+  "DEA2D": {
+    "density": 828.2,
+    "name": "St\u00e4dteregion Aachen"
+  },
+  "DEA31": {
+    "density": 1186.2,
+    "name": "Bottrop, Kreisfreie Stadt"
+  },
+  "DEA32": {
+    "density": 2533.0,
+    "name": "Gelsenkirchen, Kreisfreie Stadt"
+  },
+  "DEA33": {
+    "density": 1013.7,
+    "name": "M\u00fcnster, Kreisfreie Stadt"
+  },
+  "DEA34": {
+    "density": 266.7,
+    "name": "Borken"
+  },
+  "DEA35": {
+    "density": 203.0,
+    "name": "Coesfeld"
+  },
+  "DEA36": {
+    "density": 826.6,
+    "name": "Recklinghausen"
+  },
+  "DEA37": {
+    "density": 249.9,
+    "name": "Steinfurt"
+  },
+  "HR033": {
+    "density": 45.0,
+    "name": "Zadarska \u017eupanija"
+  },
+  "HR034": {
+    "density": 32.5,
+    "name": "\u0160ibensko-kninska \u017eupanija"
+  },
+  "HR035": {
+    "density": 94.4,
+    "name": "Splitsko-dalmatinska \u017eupanija"
+  },
+  "HR036": {
+    "density": 71.0,
+    "name": "Istarska \u017eupanija"
+  },
+  "HR037": {
+    "density": 65.6,
+    "name": "Dubrova\u010dko-neretvanska \u017eupanija"
+  },
+  "HU110": {
+    "density": 3291.4,
+    "name": "Budapest"
+  },
+  "HU120": {
+    "density": 211.9,
+    "name": "Pest"
+  },
+  "HU211": {
+    "density": 97.8,
+    "name": "Fej\u00e9r"
+  },
+  "HU212": {
+    "density": 136.1,
+    "name": "Kom\u00e1rom-Esztergom"
+  },
+  "HU213": {
+    "density": 80.6,
+    "name": "Veszpr\u00e9m"
+  },
+  "HU221": {
+    "density": 113.8,
+    "name": "Gy\u0151r-Moson-Sopron"
+  },
+  "DEA38": {
+    "density": 213.7,
+    "name": "Warendorf"
+  },
+  "DEA41": {
+    "density": 1279.7,
+    "name": "Bielefeld, Kreisfreie Stadt"
+  },
+  "DEA42": {
+    "density": 374.8,
+    "name": "G\u00fctersloh"
+  },
+  "DEA43": {
+    "density": 566.2,
+    "name": "Herford"
+  },
+  "DEA44": {
+    "density": 115.8,
+    "name": "H\u00f6xter"
+  },
+  "DEA45": {
+    "density": 279.7,
+    "name": "Lippe"
+  },
+  "DEA46": {
+    "density": 281.6,
+    "name": "Minden-L\u00fcbbecke"
+  },
+  "DEA47": {
+    "density": 254.0,
+    "name": "Paderborn"
+  },
+  "DEA51": {
+    "density": 2459.4,
+    "name": "Bochum, Kreisfreie Stadt"
+  },
+  "DEA52": {
+    "density": 2144.1,
+    "name": "Dortmund, Kreisfreie Stadt"
+  },
+  "DEA53": {
+    "density": 1196.8,
+    "name": "Hagen, Kreisfreie Stadt"
+  },
+  "DEA54": {
+    "density": 793.9,
+    "name": "Hamm, Kreisfreie Stadt"
+  },
+  "DEA55": {
+    "density": 3056.4,
+    "name": "Herne, Kreisfreie Stadt"
+  },
+  "DEA56": {
+    "density": 774.4,
+    "name": "Ennepe-Ruhr-Kreis"
+  },
+  "DEA57": {
+    "density": 133.6,
+    "name": "Hochsauerlandkreis"
+  },
+  "DEA58": {
+    "density": 387.7,
+    "name": "M\u00e4rkischer Kreis"
+  },
+  "DEA59": {
+    "density": 188.2,
+    "name": "Olpe"
+  },
+  "DEA5A": {
+    "density": 242.7,
+    "name": "Siegen-Wittgenstein"
+  },
+  "DEA5B": {
+    "density": 227.8,
+    "name": "Soest"
+  },
+  "DEA5C": {
+    "density": 729.2,
+    "name": "Unna"
+  },
+  "DEB11": {
+    "density": 1133.2,
+    "name": "Koblenz, Kreisfreie Stadt"
+  },
+  "DEB12": {
+    "density": 164.4,
+    "name": "Ahrweiler"
+  },
+  "DEB13": {
+    "density": 205.5,
+    "name": "Altenkirchen (Westerwald)"
+  },
+  "DEB14": {
+    "density": 190.1,
+    "name": "Bad Kreuznach"
+  },
+  "DEB15": {
+    "density": 106.3,
+    "name": "Birkenfeld"
+  },
+  "DEB17": {
+    "density": 268.2,
+    "name": "Mayen-Koblenz"
+  },
+  "DEB18": {
+    "density": 304.2,
+    "name": "Neuwied"
+  },
+  "DEB1A": {
+    "density": 161.4,
+    "name": "Rhein-Lahn-Kreis"
+  },
+  "DEB1B": {
+    "density": 210.3,
+    "name": "Westerwaldkreis"
+  },
+  "DEB1C": {
+    "density": 86.7,
+    "name": "Cochem-Zell"
+  },
+  "DEB1D": {
+    "density": 110.5,
+    "name": "Rhein-Hunsr\u00fcck-Kreis"
+  },
+  "DEB21": {
+    "density": 909.2,
+    "name": "Trier, Kreisfreie Stadt"
+  },
+  "DEB22": {
+    "density": 97.9,
+    "name": "Bernkastel-Wittlich"
+  },
+  "DEB23": {
+    "density": 61.7,
+    "name": "Eifelkreis Bitburg-Pr\u00fcm"
+  },
+  "DEB24": {
+    "density": 65.3,
+    "name": "Vulkaneifel"
+  },
+  "DEB25": {
+    "density": 136.4,
+    "name": "Trier-Saarburg"
+  },
+  "DEB31": {
+    "density": 1117.6,
+    "name": "Frankenthal (Pfalz), Kreisfreie Stadt"
+  },
+  "DEB32": {
+    "density": 717.5,
+    "name": "Kaiserslautern, Kreisfreie Stadt"
+  },
+  "DEB33": {
+    "density": 576.2,
+    "name": "Landau in der Pfalz, Kreisfreie Stadt"
+  },
+  "DEB34": {
+    "density": 2331.2,
+    "name": "Ludwigshafen am Rhein, Kreisfreie Stadt"
+  },
+  "HU222": {
+    "density": 74.7,
+    "name": "Vas"
+  },
+  "HU223": {
+    "density": 70.4,
+    "name": "Zala"
+  },
+  "HU231": {
+    "density": 80.9,
+    "name": "Baranya"
+  },
+  "HU232": {
+    "density": 51.2,
+    "name": "Somogy"
+  },
+  "HU233": {
+    "density": 56.9,
+    "name": "Tolna"
+  },
+  "HU311": {
+    "density": 86.4,
+    "name": "Borsod-Aba\u00faj-Zempl\u00e9n"
+  },
+  "HU312": {
+    "density": 80.3,
+    "name": "Heves"
+  },
+  "HU313": {
+    "density": 71.4,
+    "name": "N\u00f3gr\u00e1d"
+  },
+  "HU321": {
+    "density": 85.4,
+    "name": "Hajd\u00fa-Bihar"
+  },
+  "HU322": {
+    "density": 65.0,
+    "name": "J\u00e1sz-Nagykun-Szolnok"
+  },
+  "DEB35": {
+    "density": 2344.1,
+    "name": "Mainz, Kreisfreie Stadt"
+  },
+  "DEB36": {
+    "density": 450.7,
+    "name": "Neustadt an der Weinstra\u00dfe, Kreisfreie Stadt"
+  },
+  "DEB37": {
+    "density": 646.7,
+    "name": "Pirmasens, Kreisfreie Stadt"
+  },
+  "DEB38": {
+    "density": 1312.6,
+    "name": "Speyer, Kreisfreie Stadt"
+  },
+  "DEB39": {
+    "density": 818.0,
+    "name": "Worms, Kreisfreie Stadt"
+  },
+  "DEB3A": {
+    "density": 469.1,
+    "name": "Zweibr\u00fccken, Kreisfreie Stadt"
+  },
+  "DEB3B": {
+    "density": 223.2,
+    "name": "Alzey-Worms"
+  },
+  "DEB3C": {
+    "density": 225.4,
+    "name": "Bad D\u00fcrkheim"
+  },
+  "DEB3D": {
+    "density": 116.0,
+    "name": "Donnersbergkreis"
+  },
+  "DEB3E": {
+    "density": 291.8,
+    "name": "Germersheim"
+  },
+  "DEB3F": {
+    "density": 165.5,
+    "name": "Kaiserslautern, Landkreis"
+  },
+  "DEB3G": {
+    "density": 121.9,
+    "name": "Kusel"
+  },
+  "DEB3H": {
+    "density": 176.6,
+    "name": "S\u00fcdliche Weinstra\u00dfe"
+  },
+  "DEB3I": {
+    "density": 528.2,
+    "name": "Rhein-Pfalz-Kreis"
+  },
+  "DEB3J": {
+    "density": 348.6,
+    "name": "Mainz-Bingen"
+  },
+  "DEB3K": {
+    "density": 94.5,
+    "name": "S\u00fcdwestpfalz"
+  },
+  "DEC01": {
+    "density": 806.7,
+    "name": "Regionalverband Saarbr\u00fccken"
+  },
+  "DEC02": {
+    "density": 197.4,
+    "name": "Merzig-Wadern"
+  },
+  "DEC03": {
+    "density": 534.4,
+    "name": "Neunkirchen"
+  },
+  "DEC04": {
+    "density": 449.6,
+    "name": "Saarlouis"
+  },
+  "DEC05": {
+    "density": 345.7,
+    "name": "Saarpfalz-Kreis"
+  },
+  "DEC06": {
+    "density": 185.7,
+    "name": "St. Wendel"
+  },
+  "DED21": {
+    "density": 1733.0,
+    "name": "Dresden, Kreisfreie Stadt"
+  },
+  "DED2C": {
+    "density": 128.2,
+    "name": "Bautzen"
+  },
+  "DED2D": {
+    "density": 119.7,
+    "name": "G\u00f6rlitz"
+  },
+  "DED2E": {
+    "density": 167.3,
+    "name": "Mei\u00dfen"
+  },
+  "DED2F": {
+    "density": 149.1,
+    "name": "S\u00e4chsische Schweiz-Osterzgebirge"
+  },
+  "DED41": {
+    "density": 1104.2,
+    "name": "Chemnitz, Kreisfreie Stadt"
+  },
+  "DED42": {
+    "density": 177.4,
+    "name": "Erzgebirgskreis"
+  },
+  "DED43": {
+    "density": 141.0,
+    "name": "Mittelsachsen"
+  },
+  "DED44": {
+    "density": 157.6,
+    "name": "Vogtlandkreis"
+  },
+  "DED45": {
+    "density": 326.9,
+    "name": "Zwickau"
+  },
+  "DED51": {
+    "density": 2067.6,
+    "name": "Leipzig, Kreisfreie Stadt"
+  },
+  "DED52": {
+    "density": 161.9,
+    "name": "Leipzig"
+  },
+  "DED53": {
+    "density": 100.5,
+    "name": "Nordsachsen"
+  },
+  "DEE01": {
+    "density": 316.9,
+    "name": "Dessau-Ro\u00dflau, Kreisfreie Stadt"
+  },
+  "DEE02": {
+    "density": 1698.0,
+    "name": "Halle (Saale), Kreisfreie Stadt"
+  },
+  "DEE03": {
+    "density": 1261.1,
+    "name": "Magdeburg, Kreisfreie Stadt"
+  },
+  "DEE04": {
+    "density": 35.4,
+    "name": "Altmarkkreis Salzwedel"
+  },
+  "ITC11": {
+    "density": 325.0,
+    "name": "Torino"
+  },
+  "ITC12": {
+    "density": 80.1,
+    "name": "Vercelli"
+  },
+  "ITC13": {
+    "density": 186.4,
+    "name": "Biella"
+  },
+  "ITC14": {
+    "density": 71.1,
+    "name": "Verbano-Cusio-Ossola"
+  },
+  "ITC15": {
+    "density": 278.4,
+    "name": "Novara"
+  },
+  "HU323": {
+    "density": 89.9,
+    "name": "Szabolcs-Szatm\u00e1r-Bereg"
+  },
+  "HU331": {
+    "density": 59.0,
+    "name": "B\u00e1cs-Kiskun"
+  },
+  "HU332": {
+    "density": 56.1,
+    "name": "B\u00e9k\u00e9s"
+  },
+  "HU333": {
+    "density": 93.2,
+    "name": "Csongr\u00e1d-Csan\u00e1d"
+  },
+  "SI031": {
+    "density": 85.8,
+    "name": "Pomurska"
+  },
+  "SI032": {
+    "density": 153.8,
+    "name": "Podravska"
+  },
+  "DEE05": {
+    "density": 108.7,
+    "name": "Anhalt-Bitterfeld"
+  },
+  "ITC16": {
+    "density": 84.4,
+    "name": "Cuneo"
+  },
+  "ITC17": {
+    "density": 137.8,
+    "name": "Asti"
+  },
+  "ITC18": {
+    "density": 115.0,
+    "name": "Alessandria"
+  },
+  "ITC20": {
+    "density": 37.9,
+    "name": "Valle d\u2019Aosta/Vall\u00e9e d\u2019Aoste"
+  },
+  "ITC31": {
+    "density": 180.9,
+    "name": "Imperia"
+  },
+  "ITC32": {
+    "density": 173.1,
+    "name": "Savona"
+  },
+  "ITC33": {
+    "density": 446.3,
+    "name": "Genova"
+  },
+  "ITC34": {
+    "density": 244.9,
+    "name": "La Spezia"
+  },
+  "ITC41": {
+    "density": 811.1,
+    "name": "Varese"
+  },
+  "ITC42": {
+    "density": 513.3,
+    "name": "Como"
+  },
+  "ITC43": {
+    "density": 451.9,
+    "name": "Lecco"
+  },
+  "ITC44": {
+    "density": 56.6,
+    "name": "Sondrio"
+  },
+  "ITC46": {
+    "density": 409.0,
+    "name": "Bergamo"
+  },
+  "ITC47": {
+    "density": 277.8,
+    "name": "Brescia"
+  },
+  "ITC48": {
+    "density": 184.3,
+    "name": "Pavia"
+  },
+  "ITC49": {
+    "density": 298.7,
+    "name": "Lodi"
+  },
+  "ITC4A": {
+    "density": 202.2,
+    "name": "Cremona"
+  },
+  "ITC4B": {
+    "density": 179.3,
+    "name": "Mantova"
+  },
+  "ITC4C": {
+    "density": 2074.8,
+    "name": "Milano"
+  },
+  "ITC4D": {
+    "density": 2166.3,
+    "name": "Monza e della Brianza"
+  },
+  "ITF11": {
+    "density": 57.1,
+    "name": "L\u2019Aquila"
+  },
+  "ITF12": {
+    "density": 153.2,
+    "name": "Teramo"
+  },
+  "ITF13": {
+    "density": 254.4,
+    "name": "Pescara"
+  },
+  "ITF14": {
+    "density": 143.3,
+    "name": "Chieti"
+  },
+  "ITF21": {
+    "density": 51.9,
+    "name": "Isernia"
+  },
+  "ITF22": {
+    "density": 72.3,
+    "name": "Campobasso"
+  },
+  "ITF31": {
+    "density": 343.7,
+    "name": "Caserta"
+  },
+  "ITF32": {
+    "density": 126.3,
+    "name": "Benevento"
+  },
+  "ITF33": {
+    "density": 2534.6,
+    "name": "Napoli"
+  },
+  "ITF34": {
+    "density": 142.2,
+    "name": "Avellino"
+  },
+  "ITF35": {
+    "density": 214.1,
+    "name": "Salerno"
+  },
+  "SI033": {
+    "density": 68.3,
+    "name": "Koro\u0161ka"
+  },
+  "SI034": {
+    "density": 114.0,
+    "name": "Savinjska"
+  },
+  "SI035": {
+    "density": 118.6,
+    "name": "Zasavska"
+  },
+  "SI036": {
+    "density": 79.2,
+    "name": "Posavska"
+  },
+  "SI037": {
+    "density": 55.3,
+    "name": "Jugovzhodna Slovenija"
+  },
+  "SI038": {
+    "density": 37.6,
+    "name": "Primorsko-notranjska"
+  },
+  "SI041": {
+    "density": 242.0,
+    "name": "Osrednjeslovenska"
+  },
+  "SI042": {
+    "density": 98.8,
+    "name": "Gorenjska"
+  },
+  "SI043": {
+    "density": 51.1,
+    "name": "Gori\u0161ka"
+  },
+  "SI044": {
+    "density": 114.2,
+    "name": "Obalno-kra\u0161ka"
+  },
+  "SK010": {
+    "density": 361.5,
+    "name": "Bratislavsk\u00fd kraj"
+  },
+  "SK021": {
+    "density": 139.2,
+    "name": "Trnavsk\u00fd kraj"
+  },
+  "SK022": {
+    "density": 127.0,
+    "name": "Tren\u010diansky kraj"
+  },
+  "SK023": {
+    "density": 106.4,
+    "name": "Nitriansky kraj"
+  },
+  "SK031": {
+    "density": 102.1,
+    "name": "\u017dilinsk\u00fd kraj"
+  },
+  "SK032": {
+    "density": 65.2,
+    "name": "Banskobystrick\u00fd kraj"
+  },
+  "SK041": {
+    "density": 90.3,
+    "name": "Pre\u0161ovsk\u00fd kraj"
+  },
+  "SK042": {
+    "density": 116.3,
+    "name": "Ko\u0161ick\u00fd kraj"
+  },
+  "DEE06": {
+    "density": 56.8,
+    "name": "Jerichower Land"
+  },
+  "DEE07": {
+    "density": 71.5,
+    "name": "B\u00f6rde"
+  },
+  "DEE08": {
+    "density": 124.2,
+    "name": "Burgenlandkreis"
+  },
+  "DEE09": {
+    "density": 99.1,
+    "name": "Harz"
+  },
+  "DEE0A": {
+    "density": 90.8,
+    "name": "Mansfeld-S\u00fcdharz"
+  },
+  "DEE0B": {
+    "density": 130.2,
+    "name": "Saalekreis"
+  },
+  "DEE0C": {
+    "density": 130.1,
+    "name": "Salzlandkreis"
+  },
+  "DEE0D": {
+    "density": 44.8,
+    "name": "Stendal"
+  },
+  "DEE0E": {
+    "density": 64.4,
+    "name": "Wittenberg"
+  },
+  "DEF01": {
+    "density": 1689.9,
+    "name": "Flensburg, Kreisfreie Stadt"
+  },
+  "DEF02": {
+    "density": 2144.5,
+    "name": "Kiel, Kreisfreie Stadt"
+  },
+  "DEF03": {
+    "density": 1139.9,
+    "name": "L\u00fcbeck, Kreisfreie Stadt"
+  },
+  "DEF04": {
+    "density": 1130.9,
+    "name": "Neum\u00fcnster, Kreisfreie Stadt"
+  },
+  "DEF05": {
+    "density": 95.4,
+    "name": "Dithmarschen"
+  },
+  "DEF06": {
+    "density": 167.4,
+    "name": "Herzogtum Lauenburg"
+  },
+  "DEF07": {
+    "density": 82.5,
+    "name": "Nordfriesland"
+  },
+  "DEF08": {
+    "density": 147.9,
+    "name": "Ostholstein"
+  },
+  "DEF09": {
+    "density": 504.4,
+    "name": "Pinneberg"
+  },
+  "DEF0A": {
+    "density": 132.0,
+    "name": "Pl\u00f6n"
+  },
+  "DEF0B": {
+    "density": 129.6,
+    "name": "Rendsburg-Eckernf\u00f6rde"
+  },
+  "DEF0C": {
+    "density": 99.3,
+    "name": "Schleswig-Flensburg"
+  },
+  "DEF0D": {
+    "density": 211.2,
+    "name": "Segeberg"
+  },
+  "DEF0E": {
+    "density": 130.0,
+    "name": "Steinburg"
+  },
+  "DEF0F": {
+    "density": 322.0,
+    "name": "Stormarn"
+  },
+  "DEG01": {
+    "density": 820.8,
+    "name": "Erfurt, Kreisfreie Stadt"
+  },
+  "DEG02": {
+    "density": 625.5,
+    "name": "Gera, Kreisfreie Stadt"
+  },
+  "DEG03": {
+    "density": 958.9,
+    "name": "Jena, Kreisfreie Stadt"
+  },
+  "DEG05": {
+    "density": 780.0,
+    "name": "Weimar, Kreisfreie Stadt"
+  },
+  "DEG06": {
+    "density": 107.1,
+    "name": "Eichsfeld"
+  },
+  "DEG07": {
+    "density": 115.2,
+    "name": "Nordhausen"
+  },
+  "DEG09": {
+    "density": 100.7,
+    "name": "Unstrut-Hainich-Kreis"
+  },
+  "DEG0A": {
+    "density": 70.2,
+    "name": "Kyffh\u00e4userkreis"
+  },
+  "DEG0C": {
+    "density": 147.1,
+    "name": "Gotha"
+  },
+  "DEG0D": {
+    "density": 85.1,
+    "name": "S\u00f6mmerda"
+  },
+  "ITF43": {
+    "density": 227.0,
+    "name": "Taranto"
+  },
+  "ITF44": {
+    "density": 204.0,
+    "name": "Brindisi"
+  },
+  "ITF45": {
+    "density": 276.3,
+    "name": "Lecce"
+  },
+  "ITF46": {
+    "density": 86.6,
+    "name": "Foggia"
+  },
+  "ITF47": {
+    "density": 316.8,
+    "name": "Bari"
+  },
+  "ITF48": {
+    "density": 254.0,
+    "name": "Barletta-Andria-Trani"
+  },
+  "ITF51": {
+    "density": 52.6,
+    "name": "Potenza"
+  },
+  "ITF52": {
+    "density": 55.1,
+    "name": "Matera"
+  },
+  "ITF61": {
+    "density": 100.5,
+    "name": "Cosenza"
+  },
+  "ITF62": {
+    "density": 93.7,
+    "name": "Crotone"
+  },
+  "ITF63": {
+    "density": 141.5,
+    "name": "Catanzaro"
+  },
+  "ITF64": {
+    "density": 131.4,
+    "name": "Vibo Valentia"
+  },
+  "ITF65": {
+    "density": 161.1,
+    "name": "Reggio Calabria"
+  },
+  "ITG11": {
+    "density": 169.2,
+    "name": "Trapani"
+  },
+  "ITG12": {
+    "density": 241.2,
+    "name": "Palermo"
+  },
+  "ITG13": {
+    "density": 183.8,
+    "name": "Messina"
+  },
+  "DEG0E": {
+    "density": 65.2,
+    "name": "Hildburghausen"
+  },
+  "DEG0G": {
+    "density": 103.2,
+    "name": "Weimarer Land"
+  },
+  "DEG0J": {
+    "density": 102.8,
+    "name": "Saale-Holzland-Kreis"
+  },
+  "DEG0K": {
+    "density": 68.8,
+    "name": "Saale-Orla-Kreis"
+  },
+  "DEG0L": {
+    "density": 112.7,
+    "name": "Greiz"
+  },
+  "DEG0M": {
+    "density": 155.2,
+    "name": "Altenburger Land"
+  },
+  "DEG0Q": {
+    "density": 97.7,
+    "name": "Schmalkalden-Meiningen"
+  },
+  "DEG0R": {
+    "density": 115.4,
+    "name": "Wartburgkreis"
+  },
+  "DEG0S": {
+    "density": 257.6,
+    "name": "Suhl, Kreisfreie Stadt"
+  },
+  "DEG0T": {
+    "density": 134.1,
+    "name": "Ilm-Kreis"
+  },
+  "DEG0U": {
+    "density": 101.7,
+    "name": "Saalfeld-Rudolstadt"
+  },
+  "DEG0V": {
+    "density": 122.9,
+    "name": "Sonneberg"
+  },
+  "ITG14": {
+    "density": 135.6,
+    "name": "Agrigento"
+  },
+  "ITG15": {
+    "density": 116.5,
+    "name": "Caltanissetta"
+  },
+  "ITG16": {
+    "density": 60.3,
+    "name": "Enna"
+  },
+  "ITG17": {
+    "density": 301.1,
+    "name": "Catania"
+  },
+  "ITG18": {
+    "density": 196.4,
+    "name": "Ragusa"
+  },
+  "ITG19": {
+    "density": 183.2,
+    "name": "Siracusa"
+  },
+  "ITH10": {
+    "density": 72.7,
+    "name": "Bolzano-Bozen"
+  },
+  "ITH20": {
+    "density": 88.4,
+    "name": "Trento"
+  },
+  "ITH31": {
+    "density": 318.5,
+    "name": "Verona"
+  },
+  "ITH32": {
+    "density": 313.7,
+    "name": "Vicenza"
+  },
+  "ITH33": {
+    "density": 54.3,
+    "name": "Belluno"
+  },
+  "ITH34": {
+    "density": 356.9,
+    "name": "Treviso"
+  },
+  "ITH35": {
+    "density": 433.2,
+    "name": "Venezia"
+  },
+  "ITH36": {
+    "density": 442.9,
+    "name": "Padova"
+  },
+  "ITH37": {
+    "density": 144.3,
+    "name": "Rovigo"
+  },
+  "ITH41": {
+    "density": 139.8,
+    "name": "Pordenone"
+  },
+  "ITH42": {
+    "density": 108.8,
+    "name": "Udine"
+  },
+  "ITH43": {
+    "density": 361.7,
+    "name": "Gorizia"
+  },
+  "ITH44": {
+    "density": 1073.0,
+    "name": "Trieste"
+  },
+  "ITH51": {
+    "density": 111.2,
+    "name": "Piacenza"
+  },
+  "ITH52": {
+    "density": 132.1,
+    "name": "Parma"
+  },
+  "ITH53": {
+    "density": 231.3,
+    "name": "Reggio nell\u2019Emilia"
+  },
+  "ITH54": {
+    "density": 263.3,
+    "name": "Modena"
+  },
+  "ITH55": {
+    "density": 276.3,
+    "name": "Bologna"
+  },
+  "ITH56": {
+    "density": 139.3,
+    "name": "Ferrara"
+  },
+  "ITH57": {
+    "density": 216.2,
+    "name": "Ravenna"
+  },
+  "ITH58": {
+    "density": 165.1,
+    "name": "Forl\u00ec-Cesena"
+  },
+  "ITH59": {
+    "density": 369.3,
+    "name": "Rimini"
+  },
+  "ITI11": {
+    "density": 162.3,
+    "name": "Massa-Carrara"
+  },
+  "ITI12": {
+    "density": 218.5,
+    "name": "Lucca"
+  },
+  "ITI13": {
+    "density": 303.2,
+    "name": "Pistoia"
+  },
+  "ITI14": {
+    "density": 283.2,
+    "name": "Firenze"
+  },
+  "ITI15": {
+    "density": 711.2,
+    "name": "Prato"
+  },
+  "EL301": {
+    "density": 4464.8,
+    "name": "Voreios Tomeas Athinon"
+  },
+  "EL302": {
+    "density": 6925.7,
+    "name": "Dytikos Tomeas Athinon"
+  },
+  "EL303": {
+    "density": 11265.3,
+    "name": "Kentrikos Tomeas Athinon"
+  },
+  "EL304": {
+    "density": 7484.6,
+    "name": "Notios Tomeas Athinon"
+  },
+  "EL305": {
+    "density": 348.1,
+    "name": "Anatoliki Attiki"
+  },
+  "EL306": {
+    "density": 164.6,
+    "name": "Dytiki Attiki"
+  },
+  "EL307": {
+    "density": 562.4,
+    "name": "Peiraias, Nisoi"
+  },
+  "EL411": {
+    "density": 48.7,
+    "name": "Lesvos, Limnos"
+  },
+  "EL412": {
+    "density": 55.2,
+    "name": "Ikaria, Samos"
+  },
+  "EL413": {
+    "density": 57.5,
+    "name": "Chios"
+  },
+  "EL421": {
+    "density": 77.9,
+    "name": "Kalymnos, Karpathos \u2013 Iroiki Nisos Kasos, Kos, Rodos"
+  },
+  "EL422": {
+    "density": 46.4,
+    "name": "Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos"
+  },
+  "EL431": {
+    "density": 115.3,
+    "name": "Irakleio"
+  },
+  "EL432": {
+    "density": 42.6,
+    "name": "Lasithi"
+  },
+  "EL433": {
+    "density": 57.1,
+    "name": "Rethymni"
+  },
+  "EL434": {
+    "density": 66.2,
+    "name": "Chania"
+  },
+  "EL511": {
+    "density": 31.9,
+    "name": "Evros"
+  },
+  "EL512": {
+    "density": 61.1,
+    "name": "Xanthi"
+  },
+  "EL513": {
+    "density": 41.9,
+    "name": "Rodopi"
+  },
+  "EL514": {
+    "density": 25.3,
+    "name": "Drama"
+  },
+  "EL515": {
+    "density": 60.5,
+    "name": "Thasos, Kavala"
+  },
+  "EL521": {
+    "density": 77.1,
+    "name": "Imathia"
+  },
+  "EL522": {
+    "density": 306.1,
+    "name": "Thessaloniki"
+  },
+  "EL523": {
+    "density": 27.8,
+    "name": "Kilkis"
+  },
+  "EL524": {
+    "density": 49.8,
+    "name": "Pella"
+  },
+  "EL525": {
+    "density": 77.1,
+    "name": "Pieria"
+  },
+  "EL526": {
+    "density": 39.1,
+    "name": "Serres"
+  },
+  "EL527": {
+    "density": 35.1,
+    "name": "Chalkidiki"
+  },
+  "EL531": {
+    "density": 27.9,
+    "name": "Grevena, Kozani"
+  },
+  "EL532": {
+    "density": 26.4,
+    "name": "Kastoria"
+  },
+  "EL533": {
+    "density": 24.3,
+    "name": "Florina"
+  },
+  "EL541": {
+    "density": 44.6,
+    "name": "Arta, Preveza"
+  },
+  "EL542": {
+    "density": 26.8,
+    "name": "Thesprotia"
+  },
+  "ITI16": {
+    "density": 271.1,
+    "name": "Livorno"
+  },
+  "ITI17": {
+    "density": 171.9,
+    "name": "Pisa"
+  },
+  "ITI18": {
+    "density": 103.8,
+    "name": "Arezzo"
+  },
+  "ITI19": {
+    "density": 68.4,
+    "name": "Siena"
+  },
+  "ITI1A": {
+    "density": 48.7,
+    "name": "Grosseto"
+  },
+  "ITI21": {
+    "density": 103.0,
+    "name": "Perugia"
+  },
+  "ITI22": {
+    "density": 102.7,
+    "name": "Terni"
+  },
+  "ITI31": {
+    "density": 139.6,
+    "name": "Pesaro e Urbino"
+  },
+  "ITI32": {
+    "density": 235.5,
+    "name": "Ancona"
+  },
+  "ITI33": {
+    "density": 109.4,
+    "name": "Macerata"
+  },
+  "ITI34": {
+    "density": 164.0,
+    "name": "Ascoli Piceno"
+  },
+  "ITI35": {
+    "density": 194.4,
+    "name": "Fermo"
+  },
+  "ITI41": {
+    "density": 88.5,
+    "name": "Viterbo"
+  },
+  "ITI42": {
+    "density": 54.9,
+    "name": "Rieti"
+  },
+  "ITI43": {
+    "density": 800.4,
+    "name": "Roma"
+  },
+  "ITI44": {
+    "density": 255.3,
+    "name": "Latina"
+  },
+  "ITI45": {
+    "density": 143.8,
+    "name": "Frosinone"
+  },
+  "BE332": {
+    "density": 804.4,
+    "name": "Arr. Li\u00e8ge"
+  },
+  "BE334": {
+    "density": 215.6,
+    "name": "Arr. Waremme"
+  },
+  "BE335": {
+    "density": 183.0,
+    "name": "Arr. Verviers \u2014 communes francophones"
+  },
+  "BE336": {
+    "density": 94.7,
+    "name": "Bezirk Verviers \u2014 Deutschsprachige Gemeinschaft"
+  },
+  "BE341": {
+    "density": 207.3,
+    "name": "Arr. Arlon"
+  },
+  "BE342": {
+    "density": 49.5,
+    "name": "Arr. Bastogne"
+  },
+  "BE343": {
+    "density": 61.4,
+    "name": "Arr. Marche-en-Famenne"
+  },
+  "BE344": {
+    "density": 48.8,
+    "name": "Arr. Neufch\u00e2teau"
+  },
+  "BE345": {
+    "density": 71.0,
+    "name": "Arr. Virton"
+  },
+  "BE351": {
+    "density": 71.9,
+    "name": "Arr. Dinant"
+  },
+  "BE352": {
+    "density": 279.3,
+    "name": "Arr. Namur"
+  },
+  "BE353": {
+    "density": 75.0,
+    "name": "Arr. Philippeville"
+  },
+  "BG311": {
+    "density": 24.2,
+    "name": "Vidin"
+  },
+  "BG312": {
+    "density": 32.3,
+    "name": "Montana"
+  },
+  "BG313": {
+    "density": 41.4,
+    "name": "Vratsa"
+  },
+  "BG314": {
+    "density": 47.9,
+    "name": "Pleven"
+  },
+  "BG315": {
+    "density": 27.3,
+    "name": "Lovech"
+  },
+  "BG321": {
+    "density": 43.9,
+    "name": "Veliko Tarnovo"
+  },
+  "BG322": {
+    "density": 47.3,
+    "name": "Gabrovo"
+  },
+  "BG323": {
+    "density": 67.2,
+    "name": "Ruse"
+  },
+  "BG324": {
+    "density": 41.9,
+    "name": "Razgrad"
+  },
+  "BG325": {
+    "density": 34.0,
+    "name": "Silistra"
+  },
+  "BG331": {
+    "density": 114.5,
+    "name": "Varna"
+  },
+  "BG332": {
+    "density": 31.2,
+    "name": "Dobrich"
+  },
+  "BG333": {
+    "density": 44.4,
+    "name": "Shumen"
+  },
+  "BG334": {
+    "density": 35.6,
+    "name": "Targovishte"
+  },
+  "BG341": {
+    "density": 50.0,
+    "name": "Burgas"
+  },
+  "BG342": {
+    "density": 48.4,
+    "name": "Sliven"
+  },
+  "BG343": {
+    "density": 32.0,
+    "name": "Yambol"
+  },
+  "BG344": {
+    "density": 57.1,
+    "name": "Stara Zagora"
+  },
+  "BG411": {
+    "density": 982.9,
+    "name": "Sofia (stolitsa)"
+  },
+  "EL543": {
+    "density": 32.9,
+    "name": "Ioannina"
+  },
+  "EL611": {
+    "density": 37.5,
+    "name": "Karditsa, Trikala"
+  },
+  "EL612": {
+    "density": 49.7,
+    "name": "Larisa"
+  },
+  "EL613": {
+    "density": 72.8,
+    "name": "Magnisia, Sporades"
+  },
+  "EL621": {
+    "density": 100.4,
+    "name": "Zakynthos"
+  },
+  "EL622": {
+    "density": 159.5,
+    "name": "Kerkyra"
+  },
+  "EL623": {
+    "density": 43.1,
+    "name": "Ithaki, Kefallinia"
+  },
+  "EL624": {
+    "density": 64.2,
+    "name": "Lefkada"
+  },
+  "EL631": {
+    "density": 36.3,
+    "name": "Aitoloakarnania"
+  },
+  "EL632": {
+    "density": 92.8,
+    "name": "Achaia"
+  },
+  "EL633": {
+    "density": 58.3,
+    "name": "Ileia"
+  },
+  "EL641": {
+    "density": 36.3,
+    "name": "Voiotia"
+  },
+  "EL642": {
+    "density": 50.7,
+    "name": "Evvoia"
+  },
+  "NL112": {
+    "density": 167.0,
+    "name": "Delfzijl en omgeving"
+  },
+  "NL126": {
+    "density": 190.6,
+    "name": "Zuidoost-Friesland"
+  },
+  "EL643": {
+    "density": 9.5,
+    "name": "Evrytania"
+  },
+  "EL644": {
+    "density": 30.4,
+    "name": "Fthiotida"
+  },
+  "EL645": {
+    "density": 17.3,
+    "name": "Fokida"
+  },
+  "EL651": {
+    "density": 25.6,
+    "name": "Argolida, Arkadia"
+  },
+  "EL652": {
+    "density": 59.8,
+    "name": "Korinthia"
+  },
+  "EL653": {
+    "density": 34.5,
+    "name": "Lakonia, Messinia"
+  },
+  "ES111": {
+    "density": 142.7,
+    "name": "A Coru\u00f1a"
+  },
+  "ES112": {
+    "density": 33.1,
+    "name": "Lugo"
+  },
+  "ES113": {
+    "density": 42.3,
+    "name": "Ourense"
+  },
+  "ES114": {
+    "density": 212.3,
+    "name": "Pontevedra"
+  },
+  "ES120": {
+    "density": 95.4,
+    "name": "Asturias"
+  },
+  "ES130": {
+    "density": 111.9,
+    "name": "Cantabria"
+  },
+  "ES211": {
+    "density": 112.0,
+    "name": "Araba/\u00c1lava"
+  },
+  "ES212": {
+    "density": 369.1,
+    "name": "Gipuzkoa"
+  },
+  "ES213": {
+    "density": 524.4,
+    "name": "Bizkaia"
+  },
+  "ES220": {
+    "density": 65.3,
+    "name": "Navarra"
+  },
+  "ES230": {
+    "density": 64.2,
+    "name": "La Rioja"
+  },
+  "ES241": {
+    "density": 14.7,
+    "name": "Huesca"
+  },
+  "ES242": {
+    "density": 9.1,
+    "name": "Teruel"
+  },
+  "NL131": {
+    "density": 185.5,
+    "name": "Noord-Drenthe"
+  },
+  "NL132": {
+    "density": 185.4,
+    "name": "Zuidoost-Drenthe"
+  },
+  "NL133": {
+    "density": 196.6,
+    "name": "Zuidwest-Drenthe"
+  },
+  "NL211": {
+    "density": 268.4,
+    "name": "Noord-Overijssel"
+  },
+  "NL212": {
+    "density": 381.6,
+    "name": "Zuidwest-Overijssel"
+  },
+  "NL213": {
+    "density": 426.0,
+    "name": "Twente"
+  },
+  "NL221": {
+    "density": 392.1,
+    "name": "Veluwe"
+  },
+  "NL224": {
+    "density": 363.0,
+    "name": "Zuidwest-Gelderland"
+  },
+  "NL225": {
+    "density": 261.6,
+    "name": "Achterhoek"
+  },
+  "NL226": {
+    "density": 836.7,
+    "name": "Arnhem/Nijmegen"
+  },
+  "NL230": {
+    "density": 312.0,
+    "name": "Flevoland"
+  },
+  "NL321": {
+    "density": 350.1,
+    "name": "Kop van Noord-Holland"
+  },
+  "NL323": {
+    "density": 1233.4,
+    "name": "IJmond"
+  },
+  "NL325": {
+    "density": 1451.5,
+    "name": "Zaanstreek"
+  },
+  "NL327": {
+    "density": 1215.3,
+    "name": "Het Gooi en Vechtstreek"
+  },
+  "NL328": {
+    "density": 853.2,
+    "name": "Alkmaar en omgeving"
+  },
+  "NL341": {
+    "density": 142.7,
+    "name": "Zeeuwsch-Vlaanderen"
+  },
+  "NL342": {
+    "density": 269.0,
+    "name": "Overig Zeeland"
+  },
+  "NL411": {
+    "density": 525.5,
+    "name": "West-Noord-Brabant"
+  },
+  "NL414": {
+    "density": 554.8,
+    "name": "Zuidoost-Noord-Brabant"
+  },
+  "BG412": {
+    "density": 32.2,
+    "name": "Sofia"
+  },
+  "BG413": {
+    "density": 44.7,
+    "name": "Blagoevgrad"
+  },
+  "BG414": {
+    "density": 46.8,
+    "name": "Pernik"
+  },
+  "BG415": {
+    "density": 35.5,
+    "name": "Kyustendil"
+  },
+  "BG421": {
+    "density": 107.1,
+    "name": "Plovdiv"
+  },
+  "BG422": {
+    "density": 37.9,
+    "name": "Haskovo"
+  },
+  "BG423": {
+    "density": 51.4,
+    "name": "Pazardzhik"
+  },
+  "BG424": {
+    "density": 29.1,
+    "name": "Smolyan"
+  },
+  "BG425": {
+    "density": 45.7,
+    "name": "Kardzhali"
+  },
+  "CZ010": {
+    "density": 2826.9,
+    "name": "Hlavn\u00ed m\u011bsto Praha"
+  },
+  "CZ020": {
+    "density": 135.1,
+    "name": "St\u0159edo\u010desk\u00fd kraj"
+  },
+  "CZ031": {
+    "density": 68.0,
+    "name": "Jiho\u010desk\u00fd kraj"
+  },
+  "CZ032": {
+    "density": 81.0,
+    "name": "Plze\u0148sk\u00fd kraj"
+  },
+  "CZ041": {
+    "density": 90.8,
+    "name": "Karlovarsk\u00fd kraj"
+  },
+  "CZ042": {
+    "density": 155.1,
+    "name": "\u00dasteck\u00fd kraj"
+  },
+  "CZ051": {
+    "density": 144.4,
+    "name": "Libereck\u00fd kraj"
+  },
+  "CZ052": {
+    "density": 118.8,
+    "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj"
+  },
+  "CZ053": {
+    "density": 118.9,
+    "name": "Pardubick\u00fd kraj"
+  },
+  "CZ063": {
+    "density": 77.4,
+    "name": "Kraj Vyso\u010dina"
+  },
+  "CZ064": {
+    "density": 173.8,
+    "name": "Jihomoravsk\u00fd kraj"
+  },
+  "CZ071": {
+    "density": 121.3,
+    "name": "Olomouck\u00fd kraj"
+  },
+  "CZ072": {
+    "density": 148.5,
+    "name": "Zl\u00ednsk\u00fd kraj"
+  },
+  "CZ080": {
+    "density": 223.8,
+    "name": "Moravskoslezsk\u00fd kraj"
+  },
+  "DE111": {
+    "density": 2973.7,
+    "name": "Stuttgart, Stadtkreis"
+  },
+  "DE112": {
+    "density": 635.6,
+    "name": "B\u00f6blingen"
+  },
+  "DE113": {
+    "density": 834.2,
+    "name": "Esslingen"
+  },
+  "DE114": {
+    "density": 402.3,
+    "name": "G\u00f6ppingen"
+  },
+  "DE115": {
+    "density": 778.8,
+    "name": "Ludwigsburg"
+  },
+  "DE116": {
+    "density": 511.8,
+    "name": "Rems-Murr-Kreis"
+  },
+  "DE117": {
+    "density": 1307.9,
+    "name": "Heilbronn, Stadtkreis"
+  },
+  "ES243": {
+    "density": 57.4,
+    "name": "Zaragoza"
+  },
+  "ES300": {
+    "density": 870.6,
+    "name": "Madrid"
+  },
+  "ES411": {
+    "density": 19.9,
+    "name": "\u00c1vila"
+  },
+  "ES412": {
+    "density": 25.1,
+    "name": "Burgos"
+  },
+  "ES413": {
+    "density": 28.9,
+    "name": "Le\u00f3n"
+  },
+  "ES414": {
+    "density": 19.7,
+    "name": "Palencia"
+  },
+  "ES415": {
+    "density": 26.7,
+    "name": "Salamanca"
+  },
+  "ES416": {
+    "density": 22.5,
+    "name": "Segovia"
+  },
+  "ES417": {
+    "density": 8.7,
+    "name": "Soria"
+  },
+  "ES418": {
+    "density": 64.7,
+    "name": "Valladolid"
+  },
+  "ES419": {
+    "density": 16.0,
+    "name": "Zamora"
+  },
+  "ES421": {
+    "density": 26.1,
+    "name": "Albacete"
+  },
+  "ES422": {
+    "density": 24.9,
+    "name": "Ciudad Real"
+  },
+  "ES423": {
+    "density": 11.7,
+    "name": "Cuenca"
+  },
+  "ES424": {
+    "density": 22.8,
+    "name": "Guadalajara"
+  },
+  "ES425": {
+    "density": 48.3,
+    "name": "Toledo"
+  },
+  "ES431": {
+    "density": 31.2,
+    "name": "Badajoz"
+  },
+  "NL421": {
+    "density": 345.8,
+    "name": "Noord-Limburg"
+  },
+  "NL422": {
+    "density": 362.3,
+    "name": "Midden-Limburg"
+  },
+  "NL423": {
+    "density": 920.1,
+    "name": "Zuid-Limburg"
+  },
+  "DE118": {
+    "density": 321.0,
+    "name": "Heilbronn, Landkreis"
+  },
+  "DE119": {
+    "density": 147.9,
+    "name": "Hohenlohekreis"
+  },
+  "DE11A": {
+    "density": 134.5,
+    "name": "Schw\u00e4bisch Hall"
+  },
+  "DE11B": {
+    "density": 102.2,
+    "name": "Main-Tauber-Kreis"
+  },
+  "DE11C": {
+    "density": 215.3,
+    "name": "Heidenheim"
+  },
+  "DE11D": {
+    "density": 209.8,
+    "name": "Ostalbkreis"
+  },
+  "DE121": {
+    "density": 405.1,
+    "name": "Baden-Baden, Stadtkreis"
+  },
+  "DE122": {
+    "density": 1819.0,
+    "name": "Karlsruhe, Stadtkreis"
+  },
+  "DE123": {
+    "density": 425.8,
+    "name": "Karlsruhe, Landkreis"
+  },
+  "DE124": {
+    "density": 319.5,
+    "name": "Rastatt"
+  },
+  "DE125": {
+    "density": 1447.4,
+    "name": "Heidelberg, Stadtkreis"
+  },
+  "DE126": {
+    "density": 2254.3,
+    "name": "Mannheim, Stadtkreis"
+  },
+  "DE127": {
+    "density": 129.4,
+    "name": "Neckar-Odenwald-Kreis"
+  },
+  "DE128": {
+    "density": 528.5,
+    "name": "Rhein-Neckar-Kreis"
+  },
+  "DE129": {
+    "density": 1372.4,
+    "name": "Pforzheim, Stadtkreis"
+  },
+  "DE12A": {
+    "density": 201.6,
+    "name": "Calw"
+  },
+  "DE12B": {
+    "density": 347.4,
+    "name": "Enzkreis"
+  },
+  "DE12C": {
+    "density": 140.0,
+    "name": "Freudenstadt"
+  },
+  "DE131": {
+    "density": 1540.0,
+    "name": "Freiburg im Breisgau, Stadtkreis"
+  },
+  "DE132": {
+    "density": 198.2,
+    "name": "Breisgau-Hochschwarzwald"
+  },
+  "DE133": {
+    "density": 249.2,
+    "name": "Emmendingen"
+  },
+  "DE134": {
+    "density": 239.9,
+    "name": "Ortenaukreis"
+  },
+  "DE135": {
+    "density": 182.3,
+    "name": "Rottweil"
+  },
+  "DE136": {
+    "density": 208.1,
+    "name": "Schwarzwald-Baar-Kreis"
+  },
+  "DE137": {
+    "density": 196.6,
+    "name": "Tuttlingen"
+  },
+  "DE138": {
+    "density": 377.3,
+    "name": "Konstanz"
+  },
+  "ES432": {
+    "density": 19.9,
+    "name": "C\u00e1ceres"
+  },
+  "ES511": {
+    "density": 756.6,
+    "name": "Barcelona"
+  },
+  "ES512": {
+    "density": 138.2,
+    "name": "Girona"
+  },
+  "ES513": {
+    "density": 37.1,
+    "name": "Lleida"
+  },
+  "ES514": {
+    "density": 136.8,
+    "name": "Tarragona"
+  },
+  "ES521": {
+    "density": 342.3,
+    "name": "Alicante/Alacant"
+  },
+  "ES522": {
+    "density": 92.1,
+    "name": "Castell\u00f3n/Castell\u00f3"
+  },
+  "ES523": {
+    "density": 249.7,
+    "name": "Valencia/Val\u00e8ncia"
+  },
+  "ES531": {
+    "density": 265.1,
+    "name": "Eivissa y Formentera"
+  },
+  "ES532": {
+    "density": 261.2,
+    "name": "Mallorca"
+  },
+  "ES533": {
+    "density": 144.6,
+    "name": "Menorca"
+  },
+  "ES611": {
+    "density": 86.4,
+    "name": "Almer\u00eda"
+  },
+  "ES612": {
+    "density": 171.9,
+    "name": "C\u00e1diz"
+  },
+  "ES613": {
+    "density": 56.8,
+    "name": "C\u00f3rdoba"
+  },
+  "ES614": {
+    "density": 74.4,
+    "name": "Granada"
+  },
+  "ES615": {
+    "density": 53.7,
+    "name": "Huelva"
+  },
+  "ES616": {
+    "density": 46.4,
+    "name": "Ja\u00e9n"
+  },
+  "ES617": {
+    "density": 242.8,
+    "name": "M\u00e1laga"
+  },
+  "ES618": {
+    "density": 141.5,
+    "name": "Sevilla"
+  },
+  "ES620": {
+    "density": 138.0,
+    "name": "Murcia"
+  },
+  "ES630": {
+    "density": 4155.8,
+    "name": "Ceuta"
+  },
+  "ES640": {
+    "density": 6124.2,
+    "name": "Melilla"
+  },
+  "ES703": {
+    "density": 43.9,
+    "name": "El Hierro"
+  },
+  "ES704": {
+    "density": 75.8,
+    "name": "Fuerteventura"
+  },
+  "DE139": {
+    "density": 294.6,
+    "name": "L\u00f6rrach"
+  },
+  "DE13A": {
+    "density": 152.4,
+    "name": "Waldshut"
+  },
+  "DE141": {
+    "density": 267.7,
+    "name": "Reutlingen"
+  },
+  "DE142": {
+    "density": 447.8,
+    "name": "T\u00fcbingen, Landkreis"
+  },
+  "DE143": {
+    "density": 210.3,
+    "name": "Zollernalbkreis"
+  },
+  "DE144": {
+    "density": 1079.5,
+    "name": "Ulm, Stadtkreis"
+  },
+  "DE145": {
+    "density": 148.3,
+    "name": "Alb-Donau-Kreis"
+  },
+  "DE146": {
+    "density": 146.5,
+    "name": "Biberach"
+  },
+  "DE147": {
+    "density": 494.2,
+    "name": "Bodenseekreis"
+  },
+  "DE148": {
+    "density": 177.2,
+    "name": "Ravensburg"
+  },
+  "DE149": {
+    "density": 110.5,
+    "name": "Sigmaringen"
+  },
+  "DE211": {
+    "density": 1068.5,
+    "name": "Ingolstadt, Kreisfreie Stadt"
+  },
+  "DE212": {
+    "density": 4805.2,
+    "name": "M\u00fcnchen, Kreisfreie Stadt"
+  },
+  "DE213": {
+    "density": 1731.0,
+    "name": "Rosenheim, Kreisfreie Stadt"
+  },
+  "DE214": {
+    "density": 200.1,
+    "name": "Alt\u00f6tting"
+  },
+  "DE215": {
+    "density": 125.9,
+    "name": "Berchtesgadener Land"
+  },
+  "DE216": {
+    "density": 119.3,
+    "name": "Bad T\u00f6lz-Wolfratshausen"
+  },
+  "DE217": {
+    "density": 262.1,
+    "name": "Dachau"
+  },
+  "DE218": {
+    "density": 260.7,
+    "name": "Ebersberg"
+  },
+  "DE219": {
+    "density": 111.2,
+    "name": "Eichst\u00e4tt"
+  },
+  "DE21A": {
+    "density": 159.9,
+    "name": "Erding"
+  },
+  "DE21B": {
+    "density": 229.0,
+    "name": "Freising"
+  },
+  "DE21C": {
+    "density": 497.0,
+    "name": "F\u00fcrstenfeldbruck"
+  },
+  "DE21D": {
+    "density": 89.3,
+    "name": "Garmisch-Partenkirchen"
+  },
+  "DE21E": {
+    "density": 160.6,
+    "name": "Landsberg am Lech"
+  },
+  "ES705": {
+    "density": 556.8,
+    "name": "Gran Canaria"
+  },
+  "ES706": {
+    "density": 61.1,
+    "name": "La Gomera"
+  },
+  "ES707": {
+    "density": 120.4,
+    "name": "La Palma"
+  },
+  "ES708": {
+    "density": 191.2,
+    "name": "Lanzarote"
+  },
+  "ES709": {
+    "density": 470.0,
+    "name": "Tenerife"
+  },
+  "PL213": {
+    "density": 2488.3,
+    "name": "Miasto Krak\u00f3w"
+  },
+  "PL214": {
+    "density": 186.9,
+    "name": "Krakowski"
+  },
+  "PL217": {
+    "density": 164.5,
+    "name": "Tarnowski"
+  },
+  "PL218": {
+    "density": 146.5,
+    "name": "Nowos\u0105decki"
+  },
+  "PL219": {
+    "density": 122.0,
+    "name": "Nowotarski"
+  },
+  "PL21A": {
+    "density": 259.6,
+    "name": "O\u015bwi\u0119cimski"
+  },
+  "PL224": {
+    "density": 157.1,
+    "name": "Cz\u0119stochowski"
+  },
+  "PL225": {
+    "density": 278.3,
+    "name": "Bielski"
+  },
+  "PL227": {
+    "density": 443.2,
+    "name": "Rybnicki"
+  },
+  "PL228": {
+    "density": 257.2,
+    "name": "Bytomski"
+  },
+  "PL229": {
+    "density": 492.1,
+    "name": "Gliwicki"
+  },
+  "PL22A": {
+    "density": 1797.6,
+    "name": "Katowicki"
+  },
+  "PL22B": {
+    "density": 355.1,
+    "name": "Sosnowiecki"
+  },
+  "PL22C": {
+    "density": 430.1,
+    "name": "Tyski"
+  },
+  "PL411": {
+    "density": 60.0,
+    "name": "Pilski"
+  },
+  "PL414": {
+    "density": 98.8,
+    "name": "Koni\u0144ski"
+  },
+  "PL415": {
+    "density": 2084.9,
+    "name": "Miasto Pozna\u0144"
+  },
+  "PL416": {
+    "density": 111.4,
+    "name": "Kaliski"
+  },
+  "PL417": {
+    "density": 91.8,
+    "name": "Leszczy\u0144ski"
+  },
+  "PL418": {
+    "density": 146.8,
+    "name": "Pozna\u0144ski"
+  },
+  "DE21F": {
+    "density": 113.2,
+    "name": "Miesbach"
+  },
+  "DE21G": {
+    "density": 150.8,
+    "name": "M\u00fchldorf a. Inn"
+  },
+  "DE21H": {
+    "density": 534.1,
+    "name": "M\u00fcnchen, Landkreis"
+  },
+  "DE21I": {
+    "density": 134.4,
+    "name": "Neuburg-Schrobenhausen"
+  },
+  "DE21J": {
+    "density": 171.1,
+    "name": "Pfaffenhofen a. d. Ilm"
+  },
+  "DE21K": {
+    "density": 180.8,
+    "name": "Rosenheim, Landkreis"
+  },
+  "DE21L": {
+    "density": 326.4,
+    "name": "Starnberg"
+  },
+  "DE21M": {
+    "density": 118.5,
+    "name": "Traunstein"
+  },
+  "DE21N": {
+    "density": 143.8,
+    "name": "Weilheim-Schongau"
+  },
+  "DE221": {
+    "density": 1041.5,
+    "name": "Landshut, Kreisfreie Stadt"
+  },
+  "DE222": {
+    "density": 809.7,
+    "name": "Passau, Kreisfreie Stadt"
+  },
+  "DE223": {
+    "density": 726.7,
+    "name": "Straubing, Kreisfreie Stadt"
+  },
+  "DE224": {
+    "density": 141.9,
+    "name": "Deggendorf"
+  },
+  "DE225": {
+    "density": 79.6,
+    "name": "Freyung-Grafenau"
+  },
+  "DE226": {
+    "density": 118.2,
+    "name": "Kelheim"
+  },
+  "DE227": {
+    "density": 119.7,
+    "name": "Landshut, Landkreis"
+  },
+  "DE228": {
+    "density": 127.7,
+    "name": "Passau, Landkreis"
+  },
+  "DE229": {
+    "density": 79.6,
+    "name": "Regen"
+  },
+  "DE22A": {
+    "density": 94.3,
+    "name": "Rottal-Inn"
+  },
+  "DE22B": {
+    "density": 86.8,
+    "name": "Straubing-Bogen"
+  },
+  "DE22C": {
+    "density": 114.8,
+    "name": "Dingolfing-Landau"
+  },
+  "DE231": {
+    "density": 843.0,
+    "name": "Amberg, Kreisfreie Stadt"
+  },
+  "DE232": {
+    "density": 1880.8,
+    "name": "Regensburg, Kreisfreie Stadt"
+  },
+  "DE233": {
+    "density": 596.3,
+    "name": "Weiden i. d. Opf, Kreisfreie Stadt"
+  },
+  "DE234": {
+    "density": 82.8,
+    "name": "Amberg-Sulzbach"
+  },
+  "DE235": {
+    "density": 84.3,
+    "name": "Cham"
+  },
+  "DE236": {
+    "density": 102.3,
+    "name": "Neumarkt i. d. OPf."
+  },
+  "DE237": {
+    "density": 67.5,
+    "name": "Neustadt a. d. Waldnaab"
+  },
+  "DE238": {
+    "density": 139.7,
+    "name": "Regensburg, Landkreis"
+  },
+  "DE239": {
+    "density": 102.5,
+    "name": "Schwandorf"
+  },
+  "FR101": {
+    "density": 20211.7,
+    "name": "Paris"
+  },
+  "FR102": {
+    "density": 249.6,
+    "name": "Seine-et-Marne"
+  },
+  "FR103": {
+    "density": 651.3,
+    "name": "Yvelines"
+  },
+  "FR104": {
+    "density": 737.2,
+    "name": "Essonne"
+  },
+  "FR105": {
+    "density": 9627.4,
+    "name": "Hauts-de-Seine"
+  },
+  "FR106": {
+    "density": 7191.3,
+    "name": "Seine-Saint-Denis"
+  },
+  "FR107": {
+    "density": 5881.3,
+    "name": "Val-de-Marne"
+  },
+  "FR108": {
+    "density": 1029.6,
+    "name": "Val-d'Oise"
+  },
+  "FRB01": {
+    "density": 40.9,
+    "name": "Cher"
+  },
+  "FRB02": {
+    "density": 73.2,
+    "name": "Eure-et-Loir"
+  },
+  "FRB03": {
+    "density": 31.5,
+    "name": "Indre"
+  },
+  "FRB04": {
+    "density": 101.4,
+    "name": "Indre-et-Loire"
+  },
+  "FRB05": {
+    "density": 51.6,
+    "name": "Loir-et-Cher"
+  },
+  "FRB06": {
+    "density": 102.0,
+    "name": "Loiret"
+  },
+  "FRC11": {
+    "density": 61.4,
+    "name": "C\u00f4te-d\u2019Or"
+  },
+  "PL424": {
+    "density": 1653.5,
+    "name": "Miasto Szczecin"
+  },
+  "PL426": {
+    "density": 77.6,
+    "name": "Koszali\u0144ski"
+  },
+  "PL427": {
+    "density": 37.8,
+    "name": "Szczecinecko-pyrzycki"
+  },
+  "PL428": {
+    "density": 66.7,
+    "name": "Szczeci\u0144ski"
+  },
+  "PL431": {
+    "density": 60.1,
+    "name": "Gorzowski"
+  },
+  "DE23A": {
+    "density": 67.2,
+    "name": "Tirschenreuth"
+  },
+  "DE241": {
+    "density": 1359.0,
+    "name": "Bamberg, Kreisfreie Stadt"
+  },
+  "DE242": {
+    "density": 1087.6,
+    "name": "Bayreuth, Kreisfreie Stadt"
+  },
+  "DE243": {
+    "density": 849.2,
+    "name": "Coburg, Kreisfreie Stadt"
+  },
+  "DE244": {
+    "density": 812.6,
+    "name": "Hof, Kreisfreie Stadt"
+  },
+  "DE245": {
+    "density": 127.2,
+    "name": "Bamberg, Landkreis"
+  },
+  "DE246": {
+    "density": 81.0,
+    "name": "Bayreuth, Landkreis"
+  },
+  "DE247": {
+    "density": 143.1,
+    "name": "Coburg, Landkreis"
+  },
+  "DE248": {
+    "density": 180.5,
+    "name": "Forchheim"
+  },
+  "DE249": {
+    "density": 104.1,
+    "name": "Hof, Landkreis"
+  },
+  "DE24A": {
+    "density": 99.9,
+    "name": "Kronach"
+  },
+  "DE24B": {
+    "density": 108.8,
+    "name": "Kulmbach"
+  },
+  "DE24C": {
+    "density": 130.7,
+    "name": "Lichtenfels"
+  },
+  "DE24D": {
+    "density": 117.1,
+    "name": "Wunsiedel i. Fichtelgebirge"
+  },
+  "DE251": {
+    "density": 396.5,
+    "name": "Ansbach, Kreisfreie Stadt"
+  },
+  "DE252": {
+    "density": 1508.1,
+    "name": "Erlangen, Kreisfreie Stadt"
+  },
+  "DE253": {
+    "density": 2085.5,
+    "name": "F\u00fcrth, Kreisfreie Stadt"
+  },
+  "DE254": {
+    "density": 2838.8,
+    "name": "N\u00fcrnberg, Kreisfreie Stadt"
+  },
+  "DE255": {
+    "density": 997.6,
+    "name": "Schwabach, Kreisfreie Stadt"
+  },
+  "DE256": {
+    "density": 94.8,
+    "name": "Ansbach, Landkreis"
+  },
+  "DE257": {
+    "density": 247.8,
+    "name": "Erlangen-H\u00f6chstadt"
+  },
+  "DE258": {
+    "density": 383.1,
+    "name": "F\u00fcrth, Landkreis"
+  },
+  "DE259": {
+    "density": 211.5,
+    "name": "N\u00fcrnberger Land"
+  },
+  "DE25A": {
+    "density": 79.5,
+    "name": "Neustadt a. d. Aisch-Bad Windsheim"
+  },
+  "DE25B": {
+    "density": 143.6,
+    "name": "Roth"
+  },
+  "DE25C": {
+    "density": 98.9,
+    "name": "Wei\u00dfenburg-Gunzenhausen"
+  },
+  "DE261": {
+    "density": 1185.3,
+    "name": "Aschaffenburg, Kreisfreie Stadt"
+  },
+  "DE262": {
+    "density": 1535.4,
+    "name": "Schweinfurt, Kreisfreie Stadt"
+  },
+  "DE263": {
+    "density": 1511.7,
+    "name": "W\u00fcrzburg, Kreisfreie Stadt"
+  },
+  "DE264": {
+    "density": 245.7,
+    "name": "Aschaffenburg, Landkreis"
+  },
+  "PL432": {
+    "density": 75.5,
+    "name": "Zielonog\u00f3rski"
+  },
+  "PL514": {
+    "density": 2346.3,
+    "name": "Miasto Wroc\u0142aw"
+  },
+  "PL515": {
+    "density": 92.1,
+    "name": "Jeleniog\u00f3rski"
+  },
+  "PL516": {
+    "density": 121.9,
+    "name": "Legnicko-g\u0142ogowski"
+  },
+  "PL517": {
+    "density": 139.1,
+    "name": "Wa\u0142brzyski"
+  },
+  "PL518": {
+    "density": 99.3,
+    "name": "Wroc\u0142awski"
+  },
+  "PL523": {
+    "density": 82.7,
+    "name": "Nyski"
+  },
+  "PL524": {
+    "density": 106.1,
+    "name": "Opolski"
+  },
+  "PL613": {
+    "density": 260.9,
+    "name": "Bydgosko-toru\u0144ski"
+  },
+  "PL616": {
+    "density": 90.5,
+    "name": "Grudzi\u0105dzki"
+  },
+  "PL617": {
+    "density": 85.2,
+    "name": "Inowroc\u0142awski"
+  },
+  "PL618": {
+    "density": 53.0,
+    "name": "\u015awiecki"
+  },
+  "PL619": {
+    "density": 91.9,
+    "name": "W\u0142oc\u0142awski"
+  },
+  "PL621": {
+    "density": 67.2,
+    "name": "Elbl\u0105ski"
+  },
+  "PL622": {
+    "density": 56.5,
+    "name": "Olszty\u0144ski"
+  },
+  "PL623": {
+    "density": 43.9,
+    "name": "E\u0142cki"
+  },
+  "PL633": {
+    "density": 1856.2,
+    "name": "Tr\u00f3jmiejski"
+  },
+  "PL634": {
+    "density": 149.1,
+    "name": "Gda\u0144ski"
+  },
+  "PL636": {
+    "density": 61.3,
+    "name": "S\u0142upski"
+  },
+  "PL637": {
+    "density": 53.7,
+    "name": "Chojnicki"
+  },
+  "DE265": {
+    "density": 90.8,
+    "name": "Bad Kissingen"
+  },
+  "DE266": {
+    "density": 77.6,
+    "name": "Rh\u00f6n-Grabfeld"
+  },
+  "DE267": {
+    "density": 87.8,
+    "name": "Ha\u00dfberge"
+  },
+  "DE268": {
+    "density": 133.5,
+    "name": "Kitzingen"
+  },
+  "DE269": {
+    "density": 179.3,
+    "name": "Miltenberg"
+  },
+  "DE26A": {
+    "density": 95.6,
+    "name": "Main-Spessart"
+  },
+  "DE26B": {
+    "density": 136.7,
+    "name": "Schweinfurt, Landkreis"
+  },
+  "DE26C": {
+    "density": 166.0,
+    "name": "W\u00fcrzburg, Landkreis"
+  },
+  "DE271": {
+    "density": 2026.1,
+    "name": "Augsburg, Kreisfreie Stadt"
+  },
+  "DE272": {
+    "density": 1144.1,
+    "name": "Kaufbeuren, Kreisfreie Stadt"
+  },
+  "FRC12": {
+    "density": 29.4,
+    "name": "Ni\u00e8vre"
+  },
+  "FRC13": {
+    "density": 64.0,
+    "name": "Sa\u00f4ne-et-Loire"
+  },
+  "FRC14": {
+    "density": 44.7,
+    "name": "Yonne"
+  },
+  "FRC21": {
+    "density": 105.0,
+    "name": "Doubs"
+  },
+  "FRC22": {
+    "density": 51.5,
+    "name": "Jura"
+  },
+  "FRC23": {
+    "density": 43.4,
+    "name": "Haute-Sa\u00f4ne"
+  },
+  "FRC24": {
+    "density": 231.7,
+    "name": "Territoire de Belfort"
+  },
+  "FRD11": {
+    "density": 126.4,
+    "name": "Calvados"
+  },
+  "FRD12": {
+    "density": 82.7,
+    "name": "Manche"
+  },
+  "FRD13": {
+    "density": 44.6,
+    "name": "Orne"
+  },
+  "FRD21": {
+    "density": 100.6,
+    "name": "Eure"
+  },
+  "FRD22": {
+    "density": 201.3,
+    "name": "Seine-Maritime"
+  },
+  "FRE11": {
+    "density": 456.7,
+    "name": "Nord"
+  },
+  "FRE12": {
+    "density": 217.7,
+    "name": "Pas-de-Calais"
+  },
+  "FRE21": {
+    "density": 70.7,
+    "name": "Aisne"
+  },
+  "FRE22": {
+    "density": 141.7,
+    "name": "Oise"
+  },
+  "FRE23": {
+    "density": 91.6,
+    "name": "Somme"
+  },
+  "FRF11": {
+    "density": 244.6,
+    "name": "Bas-Rhin"
+  },
+  "FRF12": {
+    "density": 218.4,
+    "name": "Haut-Rhin"
+  },
+  "FRF21": {
+    "density": 50.8,
+    "name": "Ardennes"
+  },
+  "FRF22": {
+    "density": 52.2,
+    "name": "Aube"
+  },
+  "FRF23": {
+    "density": 69.1,
+    "name": "Marne"
+  },
+  "FRF24": {
+    "density": 27.0,
+    "name": "Haute-Marne"
+  },
+  "FRF31": {
+    "density": 139.4,
+    "name": "Meurthe-et-Moselle"
+  },
+  "PL638": {
+    "density": 99.5,
+    "name": "Starogardzki"
+  },
+  "PL711": {
+    "density": 2217.7,
+    "name": "Miasto \u0141\u00f3d\u017a"
+  },
+  "PL712": {
+    "density": 175.1,
+    "name": "\u0141\u00f3dzki"
+  },
+  "PL713": {
+    "density": 91.9,
+    "name": "Piotrkowski"
+  },
+  "PL714": {
+    "density": 74.3,
+    "name": "Sieradzki"
+  },
+  "PL715": {
+    "density": 83.1,
+    "name": "Skierniewicki"
+  },
+  "PL721": {
+    "density": 138.4,
+    "name": "Kielecki"
+  },
+  "PL722": {
+    "density": 65.6,
+    "name": "Sandomiersko-j\u0119drzejowski"
+  },
+  "PL811": {
+    "density": 46.3,
+    "name": "Bialski"
+  },
+  "PL812": {
+    "density": 59.7,
+    "name": "Che\u0142msko-zamojski"
+  },
+  "PL814": {
+    "density": 163.0,
+    "name": "Lubelski"
+  },
+  "PL815": {
+    "density": 77.9,
+    "name": "Pu\u0142awski"
+  },
+  "PL821": {
+    "density": 79.2,
+    "name": "Kro\u015bnie\u0144ski"
+  },
+  "PL822": {
+    "density": 82.4,
+    "name": "Przemyski"
+  },
+  "PL823": {
+    "density": 174.5,
+    "name": "Rzeszowski"
+  },
+  "PL824": {
+    "density": 125.8,
+    "name": "Tarnobrzeski"
+  },
+  "DE273": {
+    "density": 1041.0,
+    "name": "Kempten (Allg\u00e4u), Kreisfreie Stadt"
+  },
+  "DE274": {
+    "density": 626.7,
+    "name": "Memmingen, Kreisfreie Stadt"
+  },
+  "DE275": {
+    "density": 174.5,
+    "name": "Aichach-Friedberg"
+  },
+  "DE276": {
+    "density": 243.4,
+    "name": "Augsburg, Landkreis"
+  },
+  "DE277": {
+    "density": 125.6,
+    "name": "Dillingen a.d. Donau"
+  },
+  "DE278": {
+    "density": 170.4,
+    "name": "G\u00fcnzburg"
+  },
+  "DE279": {
+    "density": 354.4,
+    "name": "Neu-Ulm"
+  },
+  "DE27A": {
+    "density": 288.9,
+    "name": "Lindau (Bodensee)"
+  },
+  "DE27B": {
+    "density": 102.6,
+    "name": "Ostallg\u00e4u"
+  },
+  "DE27C": {
+    "density": 117.6,
+    "name": "Unterallg\u00e4u"
+  },
+  "DE27D": {
+    "density": 105.9,
+    "name": "Donau-Ries"
+  },
+  "DE27E": {
+    "density": 100.7,
+    "name": "Oberallg\u00e4u"
+  },
+  "DE300": {
+    "density": 4311.6,
+    "name": "Berlin"
+  },
+  "DE401": {
+    "density": 376.4,
+    "name": "Brandenburg an der Havel, Kreisfreie Stadt"
+  },
+  "DE402": {
+    "density": 572.8,
+    "name": "Cottbus, Kreisfreie Stadt"
+  },
+  "DE403": {
+    "density": 394.1,
+    "name": "Frankfurt (Oder), Kreisfreie Stadt"
+  },
+  "DE404": {
+    "density": 1073.9,
+    "name": "Potsdam, Kreisfreie Stadt"
+  },
+  "DE405": {
+    "density": 134.0,
+    "name": "Barnim"
+  },
+  "DE406": {
+    "density": 80.2,
+    "name": "Dahme-Spreewald"
+  },
+  "DE407": {
+    "density": 52.7,
+    "name": "Elbe-Elster"
+  },
+  "DE408": {
+    "density": 99.1,
+    "name": "Havelland"
+  },
+  "DE409": {
+    "density": 92.7,
+    "name": "M\u00e4rkisch-Oderland"
+  },
+  "DE40A": {
+    "density": 122.5,
+    "name": "Oberhavel"
+  },
+  "DE40B": {
+    "density": 93.4,
+    "name": "Oberspreewald-Lausitz"
+  },
+  "DE40C": {
+    "density": 81.7,
+    "name": "Oder-Spree"
+  },
+  "DE40D": {
+    "density": 40.2,
+    "name": "Ostprignitz-Ruppin"
+  },
+  "DE40E": {
+    "density": 86.2,
+    "name": "Potsdam-Mittelmark"
+  },
+  "DE40F": {
+    "density": 35.9,
+    "name": "Prignitz"
+  },
+  "DE40G": {
+    "density": 68.0,
+    "name": "Spree-Nei\u00dfe"
+  },
+  "DE40H": {
+    "density": 84.5,
+    "name": "Teltow-Fl\u00e4ming"
+  },
+  "DE40I": {
+    "density": 39.5,
+    "name": "Uckermark"
+  },
+  "DE501": {
+    "density": 1873.0,
+    "name": "Bremen, Kreisfreie Stadt"
+  },
+  "DE502": {
+    "density": 1463.8,
+    "name": "Bremerhaven, Kreisfreie Stadt"
+  },
+  "DE600": {
+    "density": 2594.6,
+    "name": "Hamburg"
+  },
+  "DE711": {
+    "density": 1340.8,
+    "name": "Darmstadt, Kreisfreie Stadt"
+  },
+  "DE712": {
+    "density": 3055.1,
+    "name": "Frankfurt am Main, Kreisfreie Stadt"
+  },
+  "FRF32": {
+    "density": 28.8,
+    "name": "Meuse"
+  },
+  "FRF33": {
+    "density": 170.1,
+    "name": "Moselle"
+  },
+  "FRF34": {
+    "density": 60.3,
+    "name": "Vosges"
+  },
+  "FRG01": {
+    "density": 218.6,
+    "name": "Loire-Atlantique"
+  },
+  "PL841": {
+    "density": 95.3,
+    "name": "Bia\u0142ostocki"
+  },
+  "PL842": {
+    "density": 39.8,
+    "name": "\u0141om\u017cy\u0144ski"
+  },
+  "PL843": {
+    "density": 40.0,
+    "name": "Suwalski"
+  },
+  "PL911": {
+    "density": 3693.9,
+    "name": "Miasto Warszawa"
+  },
+  "PL912": {
+    "density": 223.9,
+    "name": "Warszawski wschodni"
+  },
+  "PL913": {
+    "density": 295.4,
+    "name": "Warszawski zachodni"
+  },
+  "PL921": {
+    "density": 98.7,
+    "name": "Radomski"
+  },
+  "PL922": {
+    "density": 61.3,
+    "name": "Ciechanowski"
+  },
+  "PL923": {
+    "density": 92.9,
+    "name": "P\u0142ocki"
+  },
+  "PL924": {
+    "density": 55.7,
+    "name": "Ostro\u0142\u0119cki"
+  },
+  "DE713": {
+    "density": 2981.7,
+    "name": "Offenbach am Main, Kreisfreie Stadt"
+  },
+  "DE714": {
+    "density": 1437.3,
+    "name": "Wiesbaden, Kreisfreie Stadt"
+  },
+  "DE715": {
+    "density": 385.2,
+    "name": "Bergstra\u00dfe"
+  },
+  "DE716": {
+    "density": 458.4,
+    "name": "Darmstadt-Dieburg"
+  },
+  "DE717": {
+    "density": 604.4,
+    "name": "Gro\u00df-Gerau"
+  },
+  "FRG02": {
+    "density": 115.9,
+    "name": "Maine-et-Loire"
+  },
+  "FRG03": {
+    "density": 58.4,
+    "name": "Mayenne"
+  },
+  "FRG04": {
+    "density": 90.7,
+    "name": "Sarthe"
+  },
+  "FRG05": {
+    "density": 105.8,
+    "name": "Vend\u00e9e"
+  },
+  "FRH01": {
+    "density": 87.8,
+    "name": "C\u00f4tes-d\u2019Armor"
+  },
+  "FRH02": {
+    "density": 138.1,
+    "name": "Finist\u00e8re"
+  },
+  "FRH03": {
+    "density": 164.7,
+    "name": "Ille-et-Vilaine"
+  },
+  "FRH04": {
+    "density": 114.2,
+    "name": "Morbihan"
+  },
+  "FRI11": {
+    "density": 45.4,
+    "name": "Dordogne"
+  },
+  "FRI12": {
+    "density": 171.6,
+    "name": "Gironde"
+  },
+  "FRI13": {
+    "density": 47.0,
+    "name": "Landes"
+  },
+  "FRI14": {
+    "density": 62.1,
+    "name": "Lot-et-Garonne"
+  },
+  "FRI15": {
+    "density": 92.2,
+    "name": "Pyr\u00e9n\u00e9es-Atlantiques"
+  },
+  "FRI21": {
+    "density": 40.9,
+    "name": "Corr\u00e8ze"
+  },
+  "FRI22": {
+    "density": 20.6,
+    "name": "Creuse"
+  },
+  "FRI23": {
+    "density": 67.3,
+    "name": "Haute-Vienne"
+  },
+  "FRI31": {
+    "density": 58.8,
+    "name": "Charente"
+  },
+  "FRI32": {
+    "density": 97.9,
+    "name": "Charente-Maritime"
+  },
+  "PL925": {
+    "density": 66.3,
+    "name": "Siedlecki"
+  },
+  "PL926": {
+    "density": 101.6,
+    "name": "\u017byrardowski"
+  },
+  "PT111": {
+    "density": 106.7,
+    "name": "Alto Minho"
+  },
+  "PT112": {
+    "density": 346.7,
+    "name": "C\u00e1vado"
+  },
+  "PT119": {
+    "density": 291.5,
+    "name": "Ave"
+  },
+  "PT11A": {
+    "density": 883.7,
+    "name": "\u00c1rea Metropolitana do Porto"
+  },
+  "PT11B": {
+    "density": 28.9,
+    "name": "Alto T\u00e2mega e Barroso"
+  },
+  "PT11C": {
+    "density": 225.7,
+    "name": "T\u00e2mega e Sousa"
+  },
+  "PT11D": {
+    "density": 46.3,
+    "name": "Douro"
+  },
+  "PT11E": {
+    "density": 19.5,
+    "name": "Terras de Tr\u00e1s-os-Montes"
+  },
+  "PT150": {
+    "density": 97.6,
+    "name": "Algarve"
+  },
+  "PT191": {
+    "density": 231.4,
+    "name": "Regi\u00e3o de Aveiro"
+  },
+  "PT192": {
+    "density": 103.4,
+    "name": "Regi\u00e3o de Coimbra"
+  },
+  "PT193": {
+    "density": 120.6,
+    "name": "Regi\u00e3o de Leiria"
+  },
+  "PT194": {
+    "density": 79.1,
+    "name": "Viseu D\u00e3o Laf\u00f5es"
+  },
+  "PT195": {
+    "density": 19.1,
+    "name": "Beira Baixa"
+  },
+  "PT196": {
+    "density": 33.3,
+    "name": "Beiras e Serra da Estrela"
+  },
+  "PT1A0": {
+    "density": 1597.7,
+    "name": "Grande Lisboa"
+  },
+  "PT1B0": {
+    "density": 549.5,
+    "name": "Pen\u00ednsula de Set\u00fabal"
+  },
+  "PT1C1": {
+    "density": 19.4,
+    "name": "Alentejo Litoral"
+  },
+  "PT1C2": {
+    "density": 13.7,
+    "name": "Baixo Alentejo"
+  },
+  "PT1C3": {
+    "density": 17.3,
+    "name": "Alto Alentejo"
+  },
+  "PT1C4": {
+    "density": 21.3,
+    "name": "Alentejo Central"
+  },
+  "PT1D1": {
+    "density": 173.8,
+    "name": "Oeste"
+  },
+  "PT1D2": {
+    "density": 80.4,
+    "name": "M\u00e9dio Tejo"
+  },
+  "PT1D3": {
+    "density": 58.0,
+    "name": "Lez\u00edria do Tejo"
+  },
+  "PT200": {
+    "density": 104.4,
+    "name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+  },
+  "DE718": {
+    "density": 497.0,
+    "name": "Hochtaunuskreis"
+  },
+  "DE719": {
+    "density": 299.4,
+    "name": "Main-Kinzig-Kreis"
+  },
+  "DE71A": {
+    "density": 1077.5,
+    "name": "Main-Taunus-Kreis"
+  },
+  "DE71B": {
+    "density": 151.3,
+    "name": "Odenwaldkreis"
+  },
+  "DE71C": {
+    "density": 1006.4,
+    "name": "Offenbach, Landkreis"
+  },
+  "DE71D": {
+    "density": 232.3,
+    "name": "Rheingau-Taunus-Kreis"
+  },
+  "DE71E": {
+    "density": 281.8,
+    "name": "Wetteraukreis"
+  },
+  "DE721": {
+    "density": 313.3,
+    "name": "Gie\u00dfen, Landkreis"
+  },
+  "DE722": {
+    "density": 238.3,
+    "name": "Lahn-Dill-Kreis"
+  },
+  "DE723": {
+    "density": 235.6,
+    "name": "Limburg-Weilburg"
+  },
+  "DE724": {
+    "density": 192.3,
+    "name": "Marburg-Biedenkopf"
+  },
+  "DE725": {
+    "density": 69.6,
+    "name": "Vogelsbergkreis"
+  },
+  "DE731": {
+    "density": 1856.8,
+    "name": "Kassel, Kreisfreie Stadt"
+  },
+  "DE732": {
+    "density": 160.9,
+    "name": "Fulda"
+  },
+  "DE733": {
+    "density": 107.7,
+    "name": "Hersfeld-Rotenburg"
+  },
+  "DE734": {
+    "density": 178.3,
+    "name": "Kassel, Landkreis"
+  },
+  "DE735": {
+    "density": 117.2,
+    "name": "Schwalm-Eder-Kreis"
+  },
+  "DE736": {
+    "density": 84.6,
+    "name": "Waldeck-Frankenberg"
+  },
+  "DE737": {
+    "density": 95.9,
+    "name": "Werra-Mei\u00dfner-Kreis"
+  },
+  "DE803": {
+    "density": 1135.7,
+    "name": "Rostock, Kreisfreie Stadt"
+  },
+  "DE804": {
+    "density": 1028.8,
+    "name": "Schwerin, Kreisfreie Stadt"
+  },
+  "DE80J": {
+    "density": 48.4,
+    "name": "Mecklenburgische Seenplatte"
+  },
+  "DE80K": {
+    "density": 64.7,
+    "name": "Landkreis Rostock"
+  },
+  "DE80L": {
+    "density": 67.9,
+    "name": "Vorpommern-R\u00fcgen"
+  },
+  "DE80M": {
+    "density": 76.2,
+    "name": "Nordwestmecklenburg"
+  },
+  "DE80N": {
+    "density": 58.0,
+    "name": "Vorpommern-Greifswald"
+  },
+  "DE80O": {
+    "density": 44.9,
+    "name": "Ludwigslust-Parchim"
+  },
+  "DE911": {
+    "density": 1319.6,
+    "name": "Braunschweig, Kreisfreie Stadt"
+  },
+  "DE912": {
+    "density": 474.3,
+    "name": "Salzgitter, Kreisfreie Stadt"
+  },
+  "DE913": {
+    "density": 630.7,
+    "name": "Wolfsburg, Kreisfreie Stadt"
+  },
+  "FRI33": {
+    "density": 62.2,
+    "name": "Deux-S\u00e8vres"
+  },
+  "FRI34": {
+    "density": 62.4,
+    "name": "Vienne"
+  },
+  "FRJ11": {
+    "density": 60.6,
+    "name": "Aude"
+  },
+  "FRJ12": {
+    "density": 133.0,
+    "name": "Gard"
+  },
+  "FRJ13": {
+    "density": 203.5,
+    "name": "H\u00e9rault"
+  },
+  "FRJ14": {
+    "density": 14.8,
+    "name": "Loz\u00e8re"
+  },
+  "FRJ15": {
+    "density": 121.9,
+    "name": "Pyr\u00e9n\u00e9es-Orientales"
+  },
+  "FRJ21": {
+    "density": 31.9,
+    "name": "Ari\u00e8ge"
+  },
+  "FRJ22": {
+    "density": 31.9,
+    "name": "Aveyron"
+  },
+  "FRJ23": {
+    "density": 234.2,
+    "name": "Haute-Garonne"
+  },
+  "FRJ24": {
+    "density": 30.7,
+    "name": "Gers"
+  },
+  "FRJ25": {
+    "density": 33.9,
+    "name": "Lot"
+  },
+  "FRJ26": {
+    "density": 51.5,
+    "name": "Hautes-Pyr\u00e9n\u00e9es"
+  },
+  "FRJ27": {
+    "density": 69.2,
+    "name": "Tarn"
+  },
+  "FRJ28": {
+    "density": 72.0,
+    "name": "Tarn-et-Garonne"
+  },
+  "FRK11": {
+    "density": 45.5,
+    "name": "Allier"
+  },
+  "FRK12": {
+    "density": 25.1,
+    "name": "Cantal"
+  },
+  "FRK13": {
+    "density": 45.6,
+    "name": "Haute-Loire"
+  },
+  "FRK14": {
+    "density": 83.0,
+    "name": "Puy-de-D\u00f4me"
+  },
+  "FRK21": {
+    "density": 121.0,
+    "name": "Ain"
+  },
+  "FRK22": {
+    "density": 60.5,
+    "name": "Ard\u00e8che"
+  },
+  "FRK23": {
+    "density": 80.1,
+    "name": "Dr\u00f4me"
+  },
+  "FRK24": {
+    "density": 166.4,
+    "name": "Is\u00e8re"
+  },
+  "FRK25": {
+    "density": 162.8,
+    "name": "Loire"
+  },
+  "FRK26": {
+    "density": 595.0,
+    "name": "Rh\u00f4ne"
+  },
+  "PT300": {
+    "density": 319.6,
+    "name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+  },
+  "RO111": {
+    "density": 74.0,
+    "name": "Bihor"
+  },
+  "RO112": {
+    "density": 55.5,
+    "name": "Bistri\u0163a-N\u0103s\u0103ud"
+  },
+  "RO113": {
+    "density": 104.2,
+    "name": "Cluj"
+  },
+  "RO114": {
+    "density": 71.9,
+    "name": "Maramure\u015f"
+  },
+  "RO115": {
+    "density": 75.2,
+    "name": "Satu Mare"
+  },
+  "RO116": {
+    "density": 54.7,
+    "name": "S\u0103laj"
+  },
+  "RO121": {
+    "density": 52.4,
+    "name": "Alba"
+  },
+  "RO122": {
+    "density": 104.0,
+    "name": "Bra\u015fov"
+  },
+  "RO123": {
+    "density": 54.0,
+    "name": "Covasna"
+  },
+  "RO124": {
+    "density": 44.1,
+    "name": "Harghita"
+  },
+  "RO125": {
+    "density": 77.8,
+    "name": "Mure\u015f"
+  },
+  "RO126": {
+    "density": 72.6,
+    "name": "Sibiu"
+  },
+  "RO211": {
+    "density": 91.2,
+    "name": "Bac\u0103u"
+  },
+  "RO212": {
+    "density": 79.4,
+    "name": "Boto\u015fani"
+  },
+  "RO213": {
+    "density": 143.8,
+    "name": "Ia\u015fi"
+  },
+  "RO214": {
+    "density": 76.7,
+    "name": "Neam\u0163"
+  },
+  "RO215": {
+    "density": 75.6,
+    "name": "Suceava"
+  },
+  "RO216": {
+    "density": 70.2,
+    "name": "Vaslui"
+  },
+  "RO221": {
+    "density": 60.1,
+    "name": "Br\u0103ila"
+  },
+  "RO222": {
+    "density": 66.0,
+    "name": "Buz\u0103u"
+  },
+  "RO223": {
+    "density": 97.5,
+    "name": "Constan\u0163a"
+  },
+  "RO224": {
+    "density": 112.8,
+    "name": "Gala\u0163i"
+  },
+  "RO225": {
+    "density": 26.8,
+    "name": "Tulcea"
+  },
+  "RO226": {
+    "density": 69.0,
+    "name": "Vrancea"
+  },
+  "RO311": {
+    "density": 83.5,
+    "name": "Arge\u015f"
+  },
+  "RO312": {
+    "density": 57.1,
+    "name": "C\u0103l\u0103ra\u015fi"
+  }
+}

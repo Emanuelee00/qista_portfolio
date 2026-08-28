@@ -1,0 +1,1602 @@
+[
+  {
+    "lat": 49.3858,
+    "lon": 2.9999,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2019-05-25",
+    "country": "France"
+  },
+  {
+    "lat": 49.3573,
+    "lon": 3.8409,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2020-05-21",
+    "country": "France"
+  },
+  {
+    "lat": 49.5444,
+    "lon": 2.63,
+    "count": 0,
+    "species": "Aedes rusticus",
+    "date": "2020-05-16",
+    "country": "France"
+  },
+  {
+    "lat": 49.4796,
+    "lon": 2.5821,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2018-05-20",
+    "country": "France"
+  },
+  {
+    "lat": 49.7886,
+    "lon": 3.4707,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2020-06-08",
+    "country": "France"
+  },
+  {
+    "lat": 49.4796,
+    "lon": 2.5821,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2018-06-19",
+    "country": "France"
+  },
+  {
+    "lat": 49.4796,
+    "lon": 2.5821,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2018-05-07",
+    "country": "France"
+  },
+  {
+    "lat": 44.8392,
+    "lon": 1.2704,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-08-07",
+    "country": "France"
+  },
+  {
+    "lat": 43.7219,
+    "lon": 3.3123,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2017-07-18",
+    "country": "France"
+  },
+  {
+    "lat": 43.7306,
+    "lon": 3.3058,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2017-07-18",
+    "country": "France"
+  },
+  {
+    "lat": 46.3001,
+    "lon": -1.2997,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2015-10-08",
+    "country": "France"
+  },
+  {
+    "lat": 42.7113,
+    "lon": 9.454,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2016-07-23",
+    "country": "France"
+  },
+  {
+    "lat": 45.7018,
+    "lon": 4.9489,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2014-08-01",
+    "country": "France"
+  },
+  {
+    "lat": 46.3191,
+    "lon": -1.3152,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2015-10-08",
+    "country": "France"
+  },
+  {
+    "lat": 45.8329,
+    "lon": -1.2253,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2013-05-16",
+    "country": "France"
+  },
+  {
+    "lat": 42.716,
+    "lon": 9.4274,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2016-07-23",
+    "country": "France"
+  },
+  {
+    "lat": 45.8382,
+    "lon": -1.2461,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2013-05-16",
+    "country": "France"
+  },
+  {
+    "lat": 45.6928,
+    "lon": 4.9869,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2014-08-01",
+    "country": "France"
+  },
+  {
+    "lat": 44.0344,
+    "lon": 5.1916,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 48.9284,
+    "lon": -0.4434,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2010-01-01",
+    "country": "France"
+  },
+  {
+    "lat": 44.98,
+    "lon": 1.8413,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 45.5949,
+    "lon": 5.6351,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 44.4837,
+    "lon": 4.2537,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 45.7967,
+    "lon": 4.8633,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2021-08-12",
+    "country": "France"
+  },
+  {
+    "lat": 44.8277,
+    "lon": 1.2787,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2023-10-10",
+    "country": "France"
+  },
+  {
+    "lat": 46.9444,
+    "lon": 4.7532,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 44.7837,
+    "lon": 1.377,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-26",
+    "country": "France"
+  },
+  {
+    "lat": 44.4273,
+    "lon": 4.3535,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2025-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 43.3069,
+    "lon": -0.3492,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2021-07-22",
+    "country": "France"
+  },
+  {
+    "lat": 48.0257,
+    "lon": 7.5756,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-10-13",
+    "country": "France"
+  },
+  {
+    "lat": 48.0257,
+    "lon": 7.5756,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-10-14",
+    "country": "France"
+  },
+  {
+    "lat": 49.4482,
+    "lon": 6.3593,
+    "count": 0,
+    "species": "Aedes japonicus",
+    "date": "2018-10-04",
+    "country": "France"
+  },
+  {
+    "lat": 47.8224,
+    "lon": 7.1465,
+    "count": 18,
+    "species": "Aedes japonicus",
+    "date": "2020",
+    "country": "France"
+  },
+  {
+    "lat": 47.8185,
+    "lon": 7.1574,
+    "count": 96,
+    "species": "Aedes japonicus",
+    "date": "2020-07-27",
+    "country": "France"
+  },
+  {
+    "lat": 47.8208,
+    "lon": 7.1495,
+    "count": 177,
+    "species": "Aedes japonicus",
+    "date": "2020-09-20",
+    "country": "France"
+  },
+  {
+    "lat": 47.8215,
+    "lon": 7.1504,
+    "count": 102,
+    "species": "Aedes japonicus",
+    "date": "2020",
+    "country": "France"
+  },
+  {
+    "lat": 47.8208,
+    "lon": 7.1495,
+    "count": 26,
+    "species": "Aedes japonicus",
+    "date": "2020",
+    "country": "France"
+  },
+  {
+    "lat": 47.8208,
+    "lon": 7.1495,
+    "count": 2,
+    "species": "Aedes japonicus",
+    "date": "2020",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes cinereus",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes cinereus",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes cinereus",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 47.8215,
+    "lon": 7.1504,
+    "count": 305,
+    "species": "Aedes japonicus",
+    "date": "2020-07-27",
+    "country": "France"
+  },
+  {
+    "lat": 48.5432,
+    "lon": 7.6212,
+    "count": 2,
+    "species": "Aedes japonicus",
+    "date": "2020-09-24",
+    "country": "France"
+  },
+  {
+    "lat": 45.5234,
+    "lon": 6.2732,
+    "count": 0,
+    "species": "Aedes cinereus",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.7173,
+    "lon": 5.7835,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.7173,
+    "lon": 5.7835,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 48.9284,
+    "lon": -0.4434,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2010-01-01",
+    "country": "France"
+  },
+  {
+    "lat": 45.88,
+    "lon": 5.818,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.4828,
+    "lon": 6.0004,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2014",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes cataphylla",
+    "date": "2014",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.4828,
+    "lon": 6.0004,
+    "count": 0,
+    "species": "Aedes cataphylla",
+    "date": "2014",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes cataphylla",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes rusticus",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes rusticus",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.5515,
+    "lon": 5.9743,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2016",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.5085,
+    "lon": 5.9753,
+    "count": 0,
+    "species": "Aedes rusticus",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.6536,
+    "lon": 5.9181,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2014",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.8279,
+    "lon": 5.8269,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2017",
+    "country": "France"
+  },
+  {
+    "lat": 45.5234,
+    "lon": 6.2732,
+    "count": 0,
+    "species": "Aedes sticticus",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.5234,
+    "lon": 6.2732,
+    "count": 0,
+    "species": "Aedes cantans",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 45.5234,
+    "lon": 6.2732,
+    "count": 0,
+    "species": "Aedes vexans",
+    "date": "2015",
+    "country": "France"
+  },
+  {
+    "lat": 47.7311,
+    "lon": 7.4996,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-31",
+    "country": "France"
+  },
+  {
+    "lat": 44.3952,
+    "lon": 4.1825,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2019-09-15",
+    "country": "France"
+  },
+  {
+    "lat": 42.4845,
+    "lon": 9.5289,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-08-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.1778,
+    "lon": 0.3978,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-10-10",
+    "country": "France"
+  },
+  {
+    "lat": 48.8695,
+    "lon": 8.0383,
+    "count": 0,
+    "species": "Aedes cinereus",
+    "date": "2006-06-03",
+    "country": "France"
+  },
+  {
+    "lat": 45.0725,
+    "lon": 5.8299,
+    "count": 0,
+    "species": "Aedes communis",
+    "date": "1969-08-31",
+    "country": "France"
+  },
+  {
+    "lat": 42.6005,
+    "lon": 2.9704,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-06-05",
+    "country": "France"
+  },
+  {
+    "lat": 42.4009,
+    "lon": 9.5331,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-06-20",
+    "country": "France"
+  },
+  {
+    "lat": 45.6976,
+    "lon": 5.1293,
+    "count": 14,
+    "species": "Aedes albopictus",
+    "date": "2017-08-22",
+    "country": "France"
+  },
+  {
+    "lat": 45.7232,
+    "lon": 5.984,
+    "count": 38,
+    "species": "Aedes albopictus",
+    "date": "2019-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 46.2902,
+    "lon": 4.8082,
+    "count": 1563,
+    "species": "Aedes albopictus",
+    "date": "2018-07-16",
+    "country": "France"
+  },
+  {
+    "lat": 44.9054,
+    "lon": 6.6288,
+    "count": 2,
+    "species": "Aedes albopictus",
+    "date": "2011-08-30",
+    "country": "France"
+  },
+  {
+    "lat": 45.2391,
+    "lon": 5.8161,
+    "count": 133,
+    "species": "Aedes albopictus",
+    "date": "2017-07-18",
+    "country": "France"
+  },
+  {
+    "lat": 45.6846,
+    "lon": 5.9002,
+    "count": 5,
+    "species": "Aedes albopictus",
+    "date": "2017-09-27",
+    "country": "France"
+  },
+  {
+    "lat": 45.3097,
+    "lon": 5.6154,
+    "count": 610,
+    "species": "Aedes albopictus",
+    "date": "2019-08-16",
+    "country": "France"
+  },
+  {
+    "lat": 46.0634,
+    "lon": 4.0771,
+    "count": 67,
+    "species": "Aedes albopictus",
+    "date": "2016-08-09",
+    "country": "France"
+  },
+  {
+    "lat": 45.0766,
+    "lon": 5.7762,
+    "count": 4500,
+    "species": "Aedes albopictus",
+    "date": "2019-08-16",
+    "country": "France"
+  },
+  {
+    "lat": 45.5327,
+    "lon": 5.9924,
+    "count": 397,
+    "species": "Aedes albopictus",
+    "date": "2019-08-28",
+    "country": "France"
+  },
+  {
+    "lat": 45.5569,
+    "lon": 6.2679,
+    "count": 1290,
+    "species": "Aedes albopictus",
+    "date": "2015-08-17",
+    "country": "France"
+  },
+  {
+    "lat": 45.2177,
+    "lon": 5.8659,
+    "count": 97,
+    "species": "Aedes albopictus",
+    "date": "2017-07-18",
+    "country": "France"
+  },
+  {
+    "lat": 45.1885,
+    "lon": 5.6853,
+    "count": 277,
+    "species": "Aedes albopictus",
+    "date": "2017-08-10",
+    "country": "France"
+  },
+  {
+    "lat": 45.5605,
+    "lon": 5.45,
+    "count": 36,
+    "species": "Aedes albopictus",
+    "date": "2019-08-06",
+    "country": "France"
+  },
+  {
+    "lat": 45.5861,
+    "lon": 5.9971,
+    "count": 114,
+    "species": "Aedes albopictus",
+    "date": "2019-08-28",
+    "country": "France"
+  },
+  {
+    "lat": 45.4459,
+    "lon": 4.7456,
+    "count": 336,
+    "species": "Aedes albopictus",
+    "date": "2019-08-05",
+    "country": "France"
+  },
+  {
+    "lat": 45.2614,
+    "lon": 5.6247,
+    "count": 167,
+    "species": "Aedes albopictus",
+    "date": "2019-08-16",
+    "country": "France"
+  },
+  {
+    "lat": 44.5554,
+    "lon": 4.5005,
+    "count": 55,
+    "species": "Aedes albopictus",
+    "date": "2017-08-07",
+    "country": "France"
+  },
+  {
+    "lat": 45.0762,
+    "lon": 4.8097,
+    "count": 658,
+    "species": "Aedes albopictus",
+    "date": "2019-08-05",
+    "country": "France"
+  },
+  {
+    "lat": 45.2725,
+    "lon": 5.9224,
+    "count": 2640,
+    "species": "Aedes albopictus",
+    "date": "2019-08-16",
+    "country": "France"
+  },
+  {
+    "lat": 45.8311,
+    "lon": 5.4084,
+    "count": 116,
+    "species": "Aedes albopictus",
+    "date": "2016-08-02",
+    "country": "France"
+  },
+  {
+    "lat": 44.4805,
+    "lon": 4.256,
+    "count": 22,
+    "species": "Aedes albopictus",
+    "date": "2014-07-07",
+    "country": "France"
+  },
+  {
+    "lat": 45.1543,
+    "lon": 5.7526,
+    "count": 1072,
+    "species": "Aedes albopictus",
+    "date": "2015-08-13",
+    "country": "France"
+  },
+  {
+    "lat": 45.1469,
+    "lon": 5.7317,
+    "count": 1994,
+    "species": "Aedes albopictus",
+    "date": "2019-08-16",
+    "country": "France"
+  },
+  {
+    "lat": 45.9134,
+    "lon": 6.1307,
+    "count": 58,
+    "species": "Aedes albopictus",
+    "date": "2019-08-09",
+    "country": "France"
+  },
+  {
+    "lat": 45.5315,
+    "lon": 5.956,
+    "count": 24,
+    "species": "Aedes albopictus",
+    "date": "2018-09-26",
+    "country": "France"
+  },
+  {
+    "lat": 45.3351,
+    "lon": 5.6211,
+    "count": 13,
+    "species": "Aedes albopictus",
+    "date": "2017-08-21",
+    "country": "France"
+  },
+  {
+    "lat": 45.1591,
+    "lon": 5.6944,
+    "count": 647,
+    "species": "Aedes albopictus",
+    "date": "2017-09-14",
+    "country": "France"
+  },
+  {
+    "lat": 45.5575,
+    "lon": 6.2066,
+    "count": 17,
+    "species": "Aedes albopictus",
+    "date": "2019-07-23",
+    "country": "France"
+  },
+  {
+    "lat": 45.6625,
+    "lon": 6.3724,
+    "count": 63,
+    "species": "Aedes albopictus",
+    "date": "2019-08-26",
+    "country": "France"
+  },
+  {
+    "lat": 47.0465,
+    "lon": 3.088,
+    "count": 1267,
+    "species": "Aedes albopictus",
+    "date": "2018-08-21",
+    "country": "France"
+  },
+  {
+    "lat": 45.1572,
+    "lon": 1.5242,
+    "count": 45,
+    "species": "Aedes albopictus",
+    "date": "2017-07-11",
+    "country": "France"
+  },
+  {
+    "lat": 44.6306,
+    "lon": 4.3597,
+    "count": 152,
+    "species": "Aedes albopictus",
+    "date": "2018-08-08",
+    "country": "France"
+  },
+  {
+    "lat": 45.1838,
+    "lon": 5.7756,
+    "count": 1847,
+    "species": "Aedes albopictus",
+    "date": "2015-08-13",
+    "country": "France"
+  },
+  {
+    "lat": 44.9413,
+    "lon": 4.8419,
+    "count": 153,
+    "species": "Aedes albopictus",
+    "date": "2017-08-07",
+    "country": "France"
+  },
+  {
+    "lat": 45.6174,
+    "lon": 5.9133,
+    "count": 60,
+    "species": "Aedes albopictus",
+    "date": "2019-07-31",
+    "country": "France"
+  },
+  {
+    "lat": 44.4545,
+    "lon": 4.3311,
+    "count": 308,
+    "species": "Aedes albopictus",
+    "date": "2013-08-26",
+    "country": "France"
+  },
+  {
+    "lat": 45.9128,
+    "lon": 6.14,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-08-09",
+    "country": "France"
+  },
+  {
+    "lat": 43.29,
+    "lon": 3.5164,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-09-17",
+    "country": "France"
+  },
+  {
+    "lat": 43.4943,
+    "lon": 3.4374,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-27",
+    "country": "France"
+  },
+  {
+    "lat": 42.6003,
+    "lon": 2.9704,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2023-05-20",
+    "country": "France"
+  },
+  {
+    "lat": 45.0908,
+    "lon": 5.8483,
+    "count": 0,
+    "species": "Aedes communis",
+    "date": "1969-08-31",
+    "country": "France"
+  },
+  {
+    "lat": 43.2892,
+    "lon": 3.5177,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-06-29",
+    "country": "France"
+  },
+  {
+    "lat": 45.2698,
+    "lon": 4.8868,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-08-28",
+    "country": "France"
+  },
+  {
+    "lat": 47.1911,
+    "lon": -1.5135,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-07-09",
+    "country": "France"
+  },
+  {
+    "lat": 45.1851,
+    "lon": 5.7637,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-08-22",
+    "country": "France"
+  },
+  {
+    "lat": 43.7997,
+    "lon": 4.4335,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2018-08-08",
+    "country": "France"
+  },
+  {
+    "lat": 43.8645,
+    "lon": 4.8386,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-07-14",
+    "country": "France"
+  },
+  {
+    "lat": 44.4545,
+    "lon": 4.3442,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-14",
+    "country": "France"
+  },
+  {
+    "lat": 43.3555,
+    "lon": -0.3741,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-08-03",
+    "country": "France"
+  },
+  {
+    "lat": 43.6579,
+    "lon": 3.9124,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-06-18",
+    "country": "France"
+  },
+  {
+    "lat": 43.9431,
+    "lon": 4.8238,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-09-15",
+    "country": "France"
+  },
+  {
+    "lat": 45.1,
+    "lon": 4.86,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-09-15",
+    "country": "France"
+  },
+  {
+    "lat": 46.1533,
+    "lon": 6.2947,
+    "count": 10,
+    "species": "Aedes albopictus",
+    "date": "2010-08-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.6602,
+    "lon": 6.9265,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-09-21",
+    "country": "France"
+  },
+  {
+    "lat": 43.9317,
+    "lon": 2.1479,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-27",
+    "country": "France"
+  },
+  {
+    "lat": 43.5718,
+    "lon": 1.5181,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-05-25",
+    "country": "France"
+  },
+  {
+    "lat": 45.9193,
+    "lon": 6.1432,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-09-06",
+    "country": "France"
+  },
+  {
+    "lat": 43.6046,
+    "lon": 1.4442,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-09-19",
+    "country": "France"
+  },
+  {
+    "lat": 44.0418,
+    "lon": 1.2291,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-19",
+    "country": "France"
+  },
+  {
+    "lat": 45.3783,
+    "lon": 4.6821,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-07-30",
+    "country": "France"
+  },
+  {
+    "lat": 43.5572,
+    "lon": 3.7155,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-11",
+    "country": "France"
+  },
+  {
+    "lat": 45.7259,
+    "lon": 4.8266,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-08-05",
+    "country": "France"
+  },
+  {
+    "lat": 43.6354,
+    "lon": 3.866,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-09-10",
+    "country": "France"
+  },
+  {
+    "lat": 43.7201,
+    "lon": 7.1332,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-07-03",
+    "country": "France"
+  },
+  {
+    "lat": 44.3855,
+    "lon": -1.1663,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-09-02",
+    "country": "France"
+  },
+  {
+    "lat": 45.6434,
+    "lon": -1.0618,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-19",
+    "country": "France"
+  },
+  {
+    "lat": 42.5393,
+    "lon": 9.5856,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-08-24",
+    "country": "France"
+  },
+  {
+    "lat": 43.6302,
+    "lon": 3.8865,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-10-04",
+    "country": "France"
+  },
+  {
+    "lat": 43.6171,
+    "lon": 3.974,
+    "count": 0,
+    "species": "Aedes caspius",
+    "date": "2021-10-05",
+    "country": "France"
+  },
+  {
+    "lat": 43.6208,
+    "lon": 3.9954,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-24",
+    "country": "France"
+  },
+  {
+    "lat": 48.8508,
+    "lon": 2.4689,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.9891,
+    "lon": 4.8006,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-09-24",
+    "country": "France"
+  },
+  {
+    "lat": 48.0127,
+    "lon": 7.5734,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-10-14",
+    "country": "France"
+  },
+  {
+    "lat": 42.6887,
+    "lon": 2.8948,
+    "count": 0,
+    "species": "Aedes caspius",
+    "date": "2023-06-22",
+    "country": "France"
+  },
+  {
+    "lat": 44.7964,
+    "lon": -0.6315,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-05-29",
+    "country": "France"
+  },
+  {
+    "lat": 44.4033,
+    "lon": 4.8371,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-07-19",
+    "country": "France"
+  },
+  {
+    "lat": 43.6719,
+    "lon": 2.2934,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-09-22",
+    "country": "France"
+  },
+  {
+    "lat": 44.728,
+    "lon": 0.6073,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-04",
+    "country": "France"
+  },
+  {
+    "lat": 43.5551,
+    "lon": 1.5458,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-08-15",
+    "country": "France"
+  },
+  {
+    "lat": 43.9651,
+    "lon": 4.7878,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-07-19",
+    "country": "France"
+  },
+  {
+    "lat": 43.4347,
+    "lon": 6.8746,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-08-21",
+    "country": "France"
+  },
+  {
+    "lat": 44.1033,
+    "lon": 4.889,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-10-10",
+    "country": "France"
+  },
+  {
+    "lat": 42.9874,
+    "lon": 1.1396,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-12-02",
+    "country": "France"
+  },
+  {
+    "lat": 43.939,
+    "lon": 5.9797,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-09-05",
+    "country": "France"
+  },
+  {
+    "lat": 43.6243,
+    "lon": 1.4558,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2018-07-13",
+    "country": "France"
+  },
+  {
+    "lat": 43.6355,
+    "lon": 3.8129,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-09-01",
+    "country": "France"
+  },
+  {
+    "lat": 43.6108,
+    "lon": 3.8767,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-08-18",
+    "country": "France"
+  },
+  {
+    "lat": 45.8064,
+    "lon": 4.8858,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-08-24",
+    "country": "France"
+  },
+  {
+    "lat": 43.3099,
+    "lon": 6.6419,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-10-05",
+    "country": "France"
+  },
+  {
+    "lat": 45.7847,
+    "lon": 4.8793,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-10-11",
+    "country": "France"
+  },
+  {
+    "lat": 45.633,
+    "lon": -1.0155,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-12",
+    "country": "France"
+  },
+  {
+    "lat": 45.4165,
+    "lon": 4.7029,
+    "count": 0,
+    "species": "Aedes geniculatus",
+    "date": "2018-06-02",
+    "country": "France"
+  },
+  {
+    "lat": 48.616,
+    "lon": 2.406,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-17",
+    "country": "France"
+  },
+  {
+    "lat": 46.1847,
+    "lon": 6.2099,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-09",
+    "country": "France"
+  },
+  {
+    "lat": 45.6246,
+    "lon": 5.1113,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-09-06",
+    "country": "France"
+  },
+  {
+    "lat": 45.9899,
+    "lon": 5.3701,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-07-10",
+    "country": "France"
+  },
+  {
+    "lat": 48.7887,
+    "lon": 2.4615,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-24",
+    "country": "France"
+  },
+  {
+    "lat": 48.4602,
+    "lon": 7.5009,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-07-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.0053,
+    "lon": 2.5256,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2019-10-12",
+    "country": "France"
+  },
+  {
+    "lat": 44.1527,
+    "lon": 4.5474,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-05-27",
+    "country": "France"
+  },
+  {
+    "lat": 42.5208,
+    "lon": 2.9333,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-09-19",
+    "country": "France"
+  },
+  {
+    "lat": 43.8507,
+    "lon": 5.8132,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-09-02",
+    "country": "France"
+  },
+  {
+    "lat": 45.2376,
+    "lon": 5.507,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-08-08",
+    "country": "France"
+  },
+  {
+    "lat": 45.7549,
+    "lon": 4.8522,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-09-08",
+    "country": "France"
+  },
+  {
+    "lat": 43.7465,
+    "lon": 3.7064,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-26",
+    "country": "France"
+  },
+  {
+    "lat": 43.6735,
+    "lon": 0.5041,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-23",
+    "country": "France"
+  },
+  {
+    "lat": 45.6517,
+    "lon": -1.0963,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-06-26",
+    "country": "France"
+  },
+  {
+    "lat": 42.6656,
+    "lon": 9.4339,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2024-11-20",
+    "country": "France"
+  },
+  {
+    "lat": 42.5439,
+    "lon": 3.015,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-31",
+    "country": "France"
+  },
+  {
+    "lat": 43.6958,
+    "lon": 7.3071,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-06-11",
+    "country": "France"
+  },
+  {
+    "lat": 48.6838,
+    "lon": 2.3907,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-09-04",
+    "country": "France"
+  },
+  {
+    "lat": 44.5761,
+    "lon": 0.1314,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2020-08-15",
+    "country": "France"
+  },
+  {
+    "lat": 44.9756,
+    "lon": 1.847,
+    "count": 1,
+    "species": "Aedes albopictus",
+    "date": "2017-07-11",
+    "country": "France"
+  },
+  {
+    "lat": 47.9489,
+    "lon": 6.7739,
+    "count": 0,
+    "species": "Aedes japonicus",
+    "date": "2023-10-01",
+    "country": "France"
+  },
+  {
+    "lat": 45.6415,
+    "lon": 5.8667,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-08-05",
+    "country": "France"
+  },
+  {
+    "lat": 44.21,
+    "lon": 2.1036,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.2198,
+    "lon": 2.0396,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2021-05-31",
+    "country": "France"
+  },
+  {
+    "lat": 45.9912,
+    "lon": -1.0516,
+    "count": 0,
+    "species": "Aedes caspius",
+    "date": "2024-05-09",
+    "country": "France"
+  },
+  {
+    "lat": 45.764,
+    "lon": 4.8357,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2023-08-23",
+    "country": "France"
+  },
+  {
+    "lat": 43.6249,
+    "lon": 7.0312,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2025-05-02",
+    "country": "France"
+  },
+  {
+    "lat": 42.5036,
+    "lon": 9.465,
+    "count": 0,
+    "species": "Aedes albopictus",
+    "date": "2022-08-04",
+    "country": "France"
+  }
+]

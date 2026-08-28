@@ -1,0 +1,110 @@
+{
+  "DE21": {
+    "name": "Oberbayern",
+    "nights_2023": 41606109
+  },
+  "DE30": {
+    "name": "Berlin",
+    "nights_2023": 29383378
+  },
+  "DE50": {
+    "name": "Bremen",
+    "nights_2023": 2710499
+  },
+  "DE71": {
+    "name": "Darmstadt",
+    "nights_2023": 19805806
+  },
+  "EL30": {
+    "name": "Attiki",
+    "nights_2023": 12409598
+  },
+  "EL42": {
+    "name": "Notio Aigaio",
+    "nights_2023": 38360186
+  },
+  "EL43": {
+    "name": "Kriti",
+    "nights_2023": 34342891
+  },
+  "ES30": {
+    "name": "Comunidad de Madrid",
+    "nights_2023": 30238007
+  },
+  "ES51": {
+    "name": "Catalu\u00f1a",
+    "nights_2023": 85635851
+  },
+  "ES52": {
+    "name": "Comunitat Valenciana",
+    "nights_2023": 52449694
+  },
+  "ES53": {
+    "name": "Illes Balears",
+    "nights_2023": 68791810
+  },
+  "ES61": {
+    "name": "Andaluc\u00eda",
+    "nights_2023": 73900351
+  },
+  "FR10": {
+    "name": "Ile de France",
+    "nights_2023": 85162673
+  },
+  "FRE2": {
+    "name": "Picardie",
+    "nights_2023": 6489556
+  },
+  "FRJ1": {
+    "name": "Languedoc-Roussillon",
+    "nights_2023": 38706486
+  },
+  "FRJ2": {
+    "name": "Midi-Pyr\u00e9n\u00e9es",
+    "nights_2023": 17469392
+  },
+  "FRK2": {
+    "name": "Rh\u00f4ne-Alpes",
+    "nights_2023": 53752587
+  },
+  "FRL0": {
+    "name": "Provence-Alpes-C\u00f4te d\u2019Azur",
+    "nights_2023": 55080043
+  },
+  "HR05": {
+    "name": "Grad Zagreb",
+    "nights_2023": 2507454
+  },
+  "ITC4": {
+    "name": "Lombardia",
+    "nights_2023": 41795073
+  },
+  "ITF3": {
+    "name": "Campania",
+    "nights_2023": 20695842
+  },
+  "ITG1": {
+    "name": "Sicilia",
+    "nights_2023": 16448284
+  },
+  "ITH3": {
+    "name": "Veneto",
+    "nights_2023": 71896863
+  },
+  "ITH5": {
+    "name": "Emilia-Romagna",
+    "nights_2023": 39176137
+  },
+  "ITI4": {
+    "name": "Lazio",
+    "nights_2023": 45727169
+  },
+  "HU11": {
+    "name": "Budapest",
+    "nights_2023": 9980022
+  },
+  "AT13": {
+    "name": "Wien",
+    "nights_2023": 16474060
+  }
+}

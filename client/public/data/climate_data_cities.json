@@ -1,0 +1,674 @@
+{
+  "marseille": {
+    "label": "Marseille",
+    "country": "FR",
+    "lat": 43.3,
+    "lon": 5.37,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 16.5,
+          "temp_min": 7.0,
+          "temp_mean": 11.9,
+          "humidity_mean": 34,
+          "precipitation": 0,
+          "mosquito_favorability": 0
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 16.7,
+          "temp_min": 8.1,
+          "temp_mean": 12.5,
+          "humidity_mean": 40,
+          "precipitation": 0,
+          "mosquito_favorability": 0.0
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 20.4,
+          "temp_min": 9.2,
+          "temp_mean": 14.7,
+          "humidity_mean": 40,
+          "precipitation": 0,
+          "mosquito_favorability": 0.0
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 20.8,
+          "temp_min": 9.5,
+          "temp_mean": 15.5,
+          "humidity_mean": 45,
+          "precipitation": 0,
+          "mosquito_favorability": 5.8
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 20.5,
+          "temp_min": 9.0,
+          "temp_mean": 14.9,
+          "humidity_mean": 54,
+          "precipitation": 0,
+          "mosquito_favorability": 10.5
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 21.5,
+          "temp_min": 8.5,
+          "temp_mean": 15.2,
+          "humidity_mean": 76,
+          "precipitation": 0,
+          "mosquito_favorability": 27.8
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 22.0,
+          "temp_min": 9.0,
+          "temp_mean": 15.9,
+          "humidity_mean": 55,
+          "precipitation": 0,
+          "mosquito_favorability": 14.9
+        }
+      ],
+      "avg_favorability_7d": 8.4
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 26.7,
+      "avg_temp_min": 18.4,
+      "avg_humidity": 63.3,
+      "total_precip": 155.6,
+      "avg_favorability_summer": 40.5,
+      "days_high_favorability": 29
+    }
+  },
+  "hyeres": {
+    "label": "Hyeres",
+    "country": "FR",
+    "lat": 43.12,
+    "lon": 6.13,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 16.1,
+          "temp_min": 7.1,
+          "temp_mean": 11.5,
+          "humidity_mean": 32,
+          "precipitation": 0,
+          "mosquito_favorability": 0
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 20.6,
+          "temp_min": 8.7,
+          "temp_mean": 14.3,
+          "humidity_mean": 31,
+          "precipitation": 0,
+          "mosquito_favorability": 0
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 18.8,
+          "temp_min": 11.1,
+          "temp_mean": 15.0,
+          "humidity_mean": 41,
+          "precipitation": 0,
+          "mosquito_favorability": 0.8
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 19.3,
+          "temp_min": 11.0,
+          "temp_mean": 15.0,
+          "humidity_mean": 53,
+          "precipitation": 0,
+          "mosquito_favorability": 9.8
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 17.7,
+          "temp_min": 9.8,
+          "temp_mean": 14.0,
+          "humidity_mean": 63,
+          "precipitation": 0,
+          "mosquito_favorability": 17.2
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 17.2,
+          "temp_min": 11.4,
+          "temp_mean": 14.5,
+          "humidity_mean": 78,
+          "precipitation": 0,
+          "mosquito_favorability": 28.5
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 18.2,
+          "temp_min": 11.0,
+          "temp_mean": 14.6,
+          "humidity_mean": 65,
+          "precipitation": 0,
+          "mosquito_favorability": 18.8
+        }
+      ],
+      "avg_favorability_7d": 10.7
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 28.5,
+      "avg_temp_min": 18.8,
+      "avg_humidity": 60.5,
+      "total_precip": 152.1,
+      "avg_favorability_summer": 41.9,
+      "days_high_favorability": 31
+    }
+  },
+  "lyon": {
+    "label": "Lyon",
+    "country": "FR",
+    "lat": 45.76,
+    "lon": 4.83,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 13.1,
+          "temp_min": 5.8,
+          "temp_mean": 8.8,
+          "humidity_mean": 52,
+          "precipitation": 0,
+          "mosquito_favorability": 9.0
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 14.9,
+          "temp_min": 5.2,
+          "temp_mean": 9.7,
+          "humidity_mean": 50,
+          "precipitation": 0,
+          "mosquito_favorability": 7.5
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 15.6,
+          "temp_min": 6.2,
+          "temp_mean": 11.1,
+          "humidity_mean": 62,
+          "precipitation": 0,
+          "mosquito_favorability": 16.5
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 18.9,
+          "temp_min": 8.5,
+          "temp_mean": 13.1,
+          "humidity_mean": 68,
+          "precipitation": 0,
+          "mosquito_favorability": 21.0
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 23.6,
+          "temp_min": 9.6,
+          "temp_mean": 16.1,
+          "humidity_mean": 54,
+          "precipitation": 0,
+          "mosquito_favorability": 14.9
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 23.5,
+          "temp_min": 8.9,
+          "temp_mean": 16.2,
+          "humidity_mean": 66,
+          "precipitation": 0,
+          "mosquito_favorability": 24.3
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 23.0,
+          "temp_min": 10.0,
+          "temp_mean": 16.3,
+          "humidity_mean": 52,
+          "precipitation": 0,
+          "mosquito_favorability": 14.2
+        }
+      ],
+      "avg_favorability_7d": 15.3
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 25.1,
+      "avg_temp_min": 15.2,
+      "avg_humidity": 71.3,
+      "total_precip": 463.3,
+      "avg_favorability_summer": 42.3,
+      "days_high_favorability": 34
+    }
+  },
+  "toulouse": {
+    "label": "Toulouse",
+    "country": "FR",
+    "lat": 43.6,
+    "lon": 1.44,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 12.2,
+          "temp_min": 7.3,
+          "temp_mean": 10.0,
+          "humidity_mean": 78,
+          "precipitation": 16.9,
+          "mosquito_favorability": 55.4
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 13.5,
+          "temp_min": 8.3,
+          "temp_mean": 10.5,
+          "humidity_mean": 75,
+          "precipitation": 16.6,
+          "mosquito_favorability": 52.9
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 14.5,
+          "temp_min": 8.9,
+          "temp_mean": 11.2,
+          "humidity_mean": 78,
+          "precipitation": 0,
+          "mosquito_favorability": 28.5
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 20.3,
+          "temp_min": 7.4,
+          "temp_mean": 13.6,
+          "humidity_mean": 70,
+          "precipitation": 0,
+          "mosquito_favorability": 22.5
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 21.7,
+          "temp_min": 10.2,
+          "temp_mean": 15.6,
+          "humidity_mean": 70,
+          "precipitation": 0,
+          "mosquito_favorability": 24.9
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 25.5,
+          "temp_min": 11.1,
+          "temp_mean": 17.5,
+          "humidity_mean": 68,
+          "precipitation": 0,
+          "mosquito_favorability": 31.0
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 22.5,
+          "temp_min": 11.2,
+          "temp_mean": 16.2,
+          "humidity_mean": 63,
+          "precipitation": 0,
+          "mosquito_favorability": 22.0
+        }
+      ],
+      "avg_favorability_7d": 33.9
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 25.5,
+      "avg_temp_min": 15.6,
+      "avg_humidity": 71.0,
+      "total_precip": 330.3,
+      "avg_favorability_summer": 42.3,
+      "days_high_favorability": 33
+    }
+  },
+  "rome": {
+    "label": "Rome",
+    "country": "IT",
+    "lat": 41.9,
+    "lon": 12.5,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 16.2,
+          "temp_min": 9.8,
+          "temp_mean": 12.0,
+          "humidity_mean": 48,
+          "precipitation": 0,
+          "mosquito_favorability": 6.0
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 17.3,
+          "temp_min": 10.3,
+          "temp_mean": 13.0,
+          "humidity_mean": 54,
+          "precipitation": 0,
+          "mosquito_favorability": 10.5
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 20.4,
+          "temp_min": 9.8,
+          "temp_mean": 14.6,
+          "humidity_mean": 53,
+          "precipitation": 0.2,
+          "mosquito_favorability": 9.8
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 22.4,
+          "temp_min": 8.1,
+          "temp_mean": 15.1,
+          "humidity_mean": 45,
+          "precipitation": 0,
+          "mosquito_favorability": 4.1
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 22.3,
+          "temp_min": 6.8,
+          "temp_mean": 14.4,
+          "humidity_mean": 58,
+          "precipitation": 0,
+          "mosquito_favorability": 13.5
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 22.0,
+          "temp_min": 6.6,
+          "temp_mean": 14.5,
+          "humidity_mean": 71,
+          "precipitation": 0,
+          "mosquito_favorability": 23.2
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 21.2,
+          "temp_min": 7.7,
+          "temp_mean": 14.2,
+          "humidity_mean": 77,
+          "precipitation": 0,
+          "mosquito_favorability": 27.8
+        }
+      ],
+      "avg_favorability_7d": 13.6
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 31.5,
+      "avg_temp_min": 20.1,
+      "avg_humidity": 63.1,
+      "total_precip": 220.0,
+      "avg_favorability_summer": 45.2,
+      "days_high_favorability": 36
+    }
+  },
+  "athens": {
+    "label": "Athenes",
+    "country": "EL",
+    "lat": 37.98,
+    "lon": 23.73,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 14.4,
+          "temp_min": 12.4,
+          "temp_mean": 13.6,
+          "humidity_mean": 85,
+          "precipitation": 51.1,
+          "mosquito_favorability": 60
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 15.8,
+          "temp_min": 12.0,
+          "temp_mean": 13.7,
+          "humidity_mean": 79,
+          "precipitation": 11.3,
+          "mosquito_favorability": 50.5
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 19.0,
+          "temp_min": 9.8,
+          "temp_mean": 14.5,
+          "humidity_mean": 73,
+          "precipitation": 0.5,
+          "mosquito_favorability": 24.8
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 18.8,
+          "temp_min": 9.9,
+          "temp_mean": 14.4,
+          "humidity_mean": 61,
+          "precipitation": 0,
+          "mosquito_favorability": 15.8
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 18.5,
+          "temp_min": 10.3,
+          "temp_mean": 14.2,
+          "humidity_mean": 60,
+          "precipitation": 0,
+          "mosquito_favorability": 15.0
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 20.3,
+          "temp_min": 9.5,
+          "temp_mean": 14.7,
+          "humidity_mean": 52,
+          "precipitation": 0,
+          "mosquito_favorability": 9.0
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 22.8,
+          "temp_min": 9.5,
+          "temp_mean": 16.4,
+          "humidity_mean": 50,
+          "precipitation": 0,
+          "mosquito_favorability": 13.1
+        }
+      ],
+      "avg_favorability_7d": 26.9
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 33.3,
+      "avg_temp_min": 23.2,
+      "avg_humidity": 43.6,
+      "total_precip": 89.9,
+      "avg_favorability_summer": 31.7,
+      "days_high_favorability": 9
+    }
+  },
+  "barcelona": {
+    "label": "Barcelone",
+    "country": "ES",
+    "lat": 41.39,
+    "lon": 2.17,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 17.0,
+          "temp_min": 9.1,
+          "temp_mean": 13.2,
+          "humidity_mean": 74,
+          "precipitation": 0,
+          "mosquito_favorability": 25.5
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 17.0,
+          "temp_min": 10.4,
+          "temp_mean": 13.5,
+          "humidity_mean": 72,
+          "precipitation": 2.0,
+          "mosquito_favorability": 27.8
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 21.0,
+          "temp_min": 7.7,
+          "temp_mean": 14.1,
+          "humidity_mean": 64,
+          "precipitation": 0,
+          "mosquito_favorability": 18.0
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 18.7,
+          "temp_min": 9.3,
+          "temp_mean": 14.2,
+          "humidity_mean": 72,
+          "precipitation": 0,
+          "mosquito_favorability": 24.0
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 19.4,
+          "temp_min": 8.7,
+          "temp_mean": 14.6,
+          "humidity_mean": 71,
+          "precipitation": 0,
+          "mosquito_favorability": 23.2
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 20.8,
+          "temp_min": 9.1,
+          "temp_mean": 15.2,
+          "humidity_mean": 58,
+          "precipitation": 0,
+          "mosquito_favorability": 14.3
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 20.9,
+          "temp_min": 7.0,
+          "temp_mean": 14.3,
+          "humidity_mean": 63,
+          "precipitation": 0,
+          "mosquito_favorability": 17.2
+        }
+      ],
+      "avg_favorability_7d": 21.4
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 27.0,
+      "avg_temp_min": 19.2,
+      "avg_humidity": 72.8,
+      "total_precip": 225.0,
+      "avg_favorability_summer": 50.5,
+      "days_high_favorability": 65
+    }
+  },
+  "munich": {
+    "label": "Munich",
+    "country": "DE",
+    "lat": 48.14,
+    "lon": 11.58,
+    "forecast_7d": {
+      "days": [
+        {
+          "date": "2026-04-01",
+          "temp_max": 7.4,
+          "temp_min": 1.0,
+          "temp_mean": 4.0,
+          "humidity_mean": 74,
+          "precipitation": 0.6,
+          "mosquito_favorability": 25.5
+        },
+        {
+          "date": "2026-04-02",
+          "temp_max": 9.6,
+          "temp_min": 1.0,
+          "temp_mean": 5.4,
+          "humidity_mean": 68,
+          "precipitation": 0,
+          "mosquito_favorability": 21.0
+        },
+        {
+          "date": "2026-04-03",
+          "temp_max": 11.6,
+          "temp_min": 3.4,
+          "temp_mean": 7.5,
+          "humidity_mean": 63,
+          "precipitation": 0,
+          "mosquito_favorability": 17.2
+        },
+        {
+          "date": "2026-04-04",
+          "temp_max": 12.6,
+          "temp_min": 7.1,
+          "temp_mean": 8.8,
+          "humidity_mean": 73,
+          "precipitation": 1.9,
+          "mosquito_favorability": 28.1
+        },
+        {
+          "date": "2026-04-05",
+          "temp_max": 20.0,
+          "temp_min": 4.7,
+          "temp_mean": 12.1,
+          "humidity_mean": 64,
+          "precipitation": 0,
+          "mosquito_favorability": 18.0
+        },
+        {
+          "date": "2026-04-06",
+          "temp_max": 16.5,
+          "temp_min": 9.1,
+          "temp_mean": 12.4,
+          "humidity_mean": 83,
+          "precipitation": 6.6,
+          "mosquito_favorability": 46.6
+        },
+        {
+          "date": "2026-04-07",
+          "temp_max": 19.6,
+          "temp_min": 6.2,
+          "temp_mean": 12.9,
+          "humidity_mean": 80,
+          "precipitation": 0,
+          "mosquito_favorability": 30
+        }
+      ],
+      "avg_favorability_7d": 26.6
+    },
+    "summer_2024": {
+      "period": "2024-06 to 2024-09",
+      "days_count": 122,
+      "avg_temp_max": 22.7,
+      "avg_temp_min": 13.4,
+      "avg_humidity": 78.3,
+      "total_precip": 656.1,
+      "avg_favorability_summer": 45.0,
+      "days_high_favorability": 40
+    }
+  }
+}

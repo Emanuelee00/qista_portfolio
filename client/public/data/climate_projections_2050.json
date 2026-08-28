@@ -1,0 +1,44 @@
+{
+  "marseille": {
+    "name": "Marseille",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "stockholm": {
+    "name": "Stockholm",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "paris": {
+    "name": "Paris",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "berlin": {
+    "name": "Berlin",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "rome": {
+    "name": "Rome",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "athens": {
+    "name": "Athenes",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  },
+  "barcelona": {
+    "name": "Barcelona",
+    "current_summer_avg": 0,
+    "projected_2050_avg": 0,
+    "delta": 0
+  }
+}

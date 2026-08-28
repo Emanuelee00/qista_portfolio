@@ -1,0 +1,255 @@
+{
+  "aedes_albopictus": {
+    "species_name": "Aedes albopictus",
+    "speciesKey": 1651430,
+    "counts_by_country": {
+      "FR": 2520,
+      "IT": 6799,
+      "ES": 18569,
+      "GR": 839,
+      "DE": 519,
+      "PT": 329,
+      "HR": 1476,
+      "RO": 163,
+      "BG": 150,
+      "HU": 1913,
+      "AT": 2528,
+      "SI": 113,
+      "SK": 16,
+      "CZ": 11,
+      "PL": 73,
+      "BE": 446,
+      "NL": 230,
+      "CH": 738,
+      "AL": 830,
+      "RS": 898,
+      "BA": 12,
+      "ME": 224,
+      "MK": 101,
+      "TR": 742,
+      "CY": 54,
+      "MT": 5,
+      "SE": 86,
+      "NO": 11,
+      "DK": 5,
+      "FI": 20,
+      "IE": 27,
+      "GB": 62,
+      "LU": 38,
+      "EE": 5,
+      "LV": 6,
+      "LT": 10
+    },
+    "total_observations": 40568,
+    "countries_with_presence": 36
+  },
+  "aedes_aegypti": {
+    "species_name": "Aedes aegypti",
+    "speciesKey": 1651228,
+    "counts_by_country": {
+      "SE": 31,
+      "NO": 13,
+      "FI": 154,
+      "EE": 4
+    },
+    "total_observations": 202,
+    "countries_with_presence": 4
+  },
+  "culex_pipiens": {
+    "species_name": "Culex pipiens",
+    "speciesKey": 1652259,
+    "counts_by_country": {},
+    "total_observations": 0,
+    "countries_with_presence": 0
+  },
+  "sample_observations": {
+    "FR": [
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.645987,
+        "lon": 7.009733,
+        "date": "2025-04-30T19:07:22",
+        "country": "France",
+        "stateProvince": "Provence-Alpes-C\u00f4te d'Azur",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.784758,
+        "lon": 7.511125,
+        "date": "2025-04-30T12:25:17",
+        "country": "France",
+        "stateProvince": "Provence-Alpes-C\u00f4te d'Azur",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.851031,
+        "lon": 4.301107,
+        "date": "2025-05-03T17:31:17",
+        "country": "France",
+        "stateProvince": "Languedoc-Roussillon",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.631143,
+        "lon": 7.126384,
+        "date": "2025-05-03T19:31:10",
+        "country": "France",
+        "stateProvince": "Provence-Alpes-C\u00f4te d'Azur",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.527404,
+        "lon": 3.952216,
+        "date": "2025-05-08T09:44:54",
+        "country": "France",
+        "stateProvince": "Languedoc-Roussillon",
+        "datasetName": "iNaturalist research-grade observations"
+      }
+    ],
+    "IT": [
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.810352,
+        "lon": 10.107496,
+        "date": "2025-01-30T12:30:01",
+        "country": "Italy",
+        "stateProvince": "Toscana",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 45.521379,
+        "lon": 10.250954,
+        "date": "2025-05-12T18:04:38",
+        "country": "Italy",
+        "stateProvince": "Lombardia",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 42.99988,
+        "lon": 12.662913,
+        "date": "2025-05-17T17:44:39",
+        "country": "Italy",
+        "stateProvince": "Umbria",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 38.167394,
+        "lon": 13.161325,
+        "date": "2025-05-12T12:00",
+        "country": "Italy",
+        "stateProvince": "Sicily",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 38.167205,
+        "lon": 13.16153,
+        "date": "2025-05-11T07:48",
+        "country": "Italy",
+        "stateProvince": "Sicily",
+        "datasetName": "iNaturalist research-grade observations"
+      }
+    ],
+    "ES": [
+      {
+        "species": "Aedes albopictus",
+        "lat": 43.055109,
+        "lon": -2.177208,
+        "date": "2025-04-11T17:33",
+        "country": "Spain",
+        "stateProvince": "Pa\u00eds Vasco",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 36.418691,
+        "lon": -5.154771,
+        "date": "2025-04-18T09:39:28",
+        "country": "Spain",
+        "stateProvince": "Andaluc\u00eda",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 37.93433,
+        "lon": -4.803338,
+        "date": "2025-04-27T18:46",
+        "country": "Spain",
+        "stateProvince": "Andaluc\u00eda",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 41.492334,
+        "lon": 1.956911,
+        "date": "2025-04-28T11:24:49",
+        "country": "Spain",
+        "stateProvince": "Catalu\u00f1a",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 39.419022,
+        "lon": 3.274527,
+        "date": "2025-05-18T00:00",
+        "country": "Spain",
+        "stateProvince": "",
+        "datasetName": ""
+      }
+    ],
+    "GR": [
+      {
+        "species": "Aedes albopictus",
+        "lat": 36.961463,
+        "lon": 22.142691,
+        "date": "2025-05-05T15:37",
+        "country": "Greece",
+        "stateProvince": "Peloponnese, Western Greece and the Ionian Islands",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 38.653917,
+        "lon": 23.217583,
+        "date": "2025-05-05T19:27:32",
+        "country": "Greece",
+        "stateProvince": "Thessaly and Central Greece",
+        "datasetName": "iNaturalist research-grade observations"
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 37.975325,
+        "lon": 23.756747,
+        "date": "2025-06-18",
+        "country": "Greece",
+        "stateProvince": "",
+        "datasetName": ""
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 39.498542,
+        "lon": 21.722239,
+        "date": "2025-06-18",
+        "country": "Greece",
+        "stateProvince": "",
+        "datasetName": ""
+      },
+      {
+        "species": "Aedes albopictus",
+        "lat": 41.129922,
+        "lon": 24.129241,
+        "date": "2025-06-20/2025-06-21",
+        "country": "Greece",
+        "stateProvince": "",
+        "datasetName": ""
+      }
+    ]
+  }
+}

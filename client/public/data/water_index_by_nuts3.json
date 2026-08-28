@@ -1,0 +1,4587 @@
+{
+  "AL011": {
+    "water_area_km2": 11.69,
+    "water_bodies_count": 1,
+    "water_pct": 0.47
+  },
+  "AL012": {
+    "water_area_km2": 2.86,
+    "water_bodies_count": 2,
+    "water_pct": 0.41
+  },
+  "AL013": {
+    "water_area_km2": 91.77,
+    "water_bodies_count": 1,
+    "water_pct": 3.98
+  },
+  "AL014": {
+    "water_area_km2": 3.81,
+    "water_bodies_count": 2,
+    "water_pct": 0.23
+  },
+  "AL015": {
+    "water_area_km2": 254.49,
+    "water_bodies_count": 6,
+    "water_pct": 7.26
+  },
+  "AL021": {
+    "water_area_km2": 6.49,
+    "water_bodies_count": 4,
+    "water_pct": 0.21
+  },
+  "AL022": {
+    "water_area_km2": 0.68,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "AL031": {
+    "water_area_km2": 0.01,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "AL032": {
+    "water_area_km2": 20.69,
+    "water_bodies_count": 6,
+    "water_pct": 1.04
+  },
+  "AL034": {
+    "water_area_km2": 92.72,
+    "water_bodies_count": 3,
+    "water_pct": 2.49
+  },
+  "AL035": {
+    "water_area_km2": 18.81,
+    "water_bodies_count": 3,
+    "water_pct": 0.75
+  },
+  "AT112": {
+    "water_area_km2": 142.1,
+    "water_bodies_count": 5,
+    "water_pct": 8.01
+  },
+  "AT121": {
+    "water_area_km2": 1.81,
+    "water_bodies_count": 2,
+    "water_pct": 0.05
+  },
+  "AT123": {
+    "water_area_km2": 1.71,
+    "water_bodies_count": 2,
+    "water_pct": 0.15
+  },
+  "AT124": {
+    "water_area_km2": 10.76,
+    "water_bodies_count": 7,
+    "water_pct": 0.24
+  },
+  "AT126": {
+    "water_area_km2": 18.77,
+    "water_bodies_count": 8,
+    "water_pct": 0.7
+  },
+  "AT127": {
+    "water_area_km2": 15.98,
+    "water_bodies_count": 3,
+    "water_pct": 1.04
+  },
+  "AT211": {
+    "water_area_km2": 26.59,
+    "water_bodies_count": 7,
+    "water_pct": 1.31
+  },
+  "AT212": {
+    "water_area_km2": 25.54,
+    "water_bodies_count": 4,
+    "water_pct": 0.64
+  },
+  "AT213": {
+    "water_area_km2": 8.16,
+    "water_bodies_count": 2,
+    "water_pct": 0.24
+  },
+  "AT222": {
+    "water_area_km2": 5.36,
+    "water_bodies_count": 3,
+    "water_pct": 0.16
+  },
+  "AT311": {
+    "water_area_km2": 9.52,
+    "water_bodies_count": 2,
+    "water_pct": 0.34
+  },
+  "AT312": {
+    "water_area_km2": 0.81,
+    "water_bodies_count": 1,
+    "water_pct": 0.05
+  },
+  "AT313": {
+    "water_area_km2": 0.13,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "AT314": {
+    "water_area_km2": 0.46,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "AT315": {
+    "water_area_km2": 86.12,
+    "water_bodies_count": 7,
+    "water_pct": 3.46
+  },
+  "AT322": {
+    "water_area_km2": 6.71,
+    "water_bodies_count": 3,
+    "water_pct": 0.15
+  },
+  "AT323": {
+    "water_area_km2": 29.52,
+    "water_bodies_count": 11,
+    "water_pct": 1.58
+  },
+  "AT331": {
+    "water_area_km2": 6.16,
+    "water_bodies_count": 4,
+    "water_pct": 0.48
+  },
+  "AT335": {
+    "water_area_km2": 7.38,
+    "water_bodies_count": 2,
+    "water_pct": 0.18
+  },
+  "AT341": {
+    "water_area_km2": 0.74,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "AT342": {
+    "water_area_km2": 58.21,
+    "water_bodies_count": 1,
+    "water_pct": 7.41
+  },
+  "BE211": {
+    "water_area_km2": 20.41,
+    "water_bodies_count": 1,
+    "water_pct": 2.02
+  },
+  "BE212": {
+    "water_area_km2": 0.33,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "BE213": {
+    "water_area_km2": 1.0,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "BE232": {
+    "water_area_km2": 0.75,
+    "water_bodies_count": 1,
+    "water_pct": 0.2
+  },
+  "BE234": {
+    "water_area_km2": 2.71,
+    "water_bodies_count": 4,
+    "water_pct": 0.25
+  },
+  "BE236": {
+    "water_area_km2": 4.94,
+    "water_bodies_count": 1,
+    "water_pct": 1.03
+  },
+  "BE251": {
+    "water_area_km2": 0.51,
+    "water_bodies_count": 1,
+    "water_pct": 0.08
+  },
+  "BE252": {
+    "water_area_km2": 0.72,
+    "water_bodies_count": 1,
+    "water_pct": 0.23
+  },
+  "BE255": {
+    "water_area_km2": 0.59,
+    "water_bodies_count": 1,
+    "water_pct": 0.19
+  },
+  "BE323": {
+    "water_area_km2": 0.54,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "BE328": {
+    "water_area_km2": 0.65,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "BE32D": {
+    "water_area_km2": 1.76,
+    "water_bodies_count": 2,
+    "water_pct": 0.22
+  },
+  "BE335": {
+    "water_area_km2": 2.45,
+    "water_bodies_count": 2,
+    "water_pct": 0.2
+  },
+  "BE336": {
+    "water_area_km2": 2.18,
+    "water_bodies_count": 2,
+    "water_pct": 0.27
+  },
+  "BE342": {
+    "water_area_km2": 1.26,
+    "water_bodies_count": 1,
+    "water_pct": 0.11
+  },
+  "BE345": {
+    "water_area_km2": 0.74,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "BE353": {
+    "water_area_km2": 7.93,
+    "water_bodies_count": 1,
+    "water_pct": 0.8
+  },
+  "BG311": {
+    "water_area_km2": 46.82,
+    "water_bodies_count": 3,
+    "water_pct": 1.49
+  },
+  "BG312": {
+    "water_area_km2": 19.05,
+    "water_bodies_count": 2,
+    "water_pct": 0.54
+  },
+  "BG313": {
+    "water_area_km2": 7.46,
+    "water_bodies_count": 1,
+    "water_pct": 0.21
+  },
+  "BG314": {
+    "water_area_km2": 24.05,
+    "water_bodies_count": 5,
+    "water_pct": 0.53
+  },
+  "BG315": {
+    "water_area_km2": 3.37,
+    "water_bodies_count": 2,
+    "water_pct": 0.08
+  },
+  "BG321": {
+    "water_area_km2": 21.81,
+    "water_bodies_count": 2,
+    "water_pct": 0.48
+  },
+  "BG322": {
+    "water_area_km2": 1.7,
+    "water_bodies_count": 2,
+    "water_pct": 0.09
+  },
+  "BG323": {
+    "water_area_km2": 53.28,
+    "water_bodies_count": 1,
+    "water_pct": 1.78
+  },
+  "BG324": {
+    "water_area_km2": 2.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "BG325": {
+    "water_area_km2": 30.18,
+    "water_bodies_count": 3,
+    "water_pct": 1.02
+  },
+  "BG331": {
+    "water_area_km2": 17.42,
+    "water_bodies_count": 2,
+    "water_pct": 0.47
+  },
+  "BG332": {
+    "water_area_km2": 2.8,
+    "water_bodies_count": 2,
+    "water_pct": 0.06
+  },
+  "BG333": {
+    "water_area_km2": 1.63,
+    "water_bodies_count": 2,
+    "water_pct": 0.05
+  },
+  "BG334": {
+    "water_area_km2": 1.59,
+    "water_bodies_count": 3,
+    "water_pct": 0.06
+  },
+  "BG341": {
+    "water_area_km2": 66.53,
+    "water_bodies_count": 4,
+    "water_pct": 0.83
+  },
+  "BG342": {
+    "water_area_km2": 2.45,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "BG343": {
+    "water_area_km2": 7.2,
+    "water_bodies_count": 2,
+    "water_pct": 0.21
+  },
+  "BG344": {
+    "water_area_km2": 22.25,
+    "water_bodies_count": 9,
+    "water_pct": 0.42
+  },
+  "BG411": {
+    "water_area_km2": 15.76,
+    "water_bodies_count": 3,
+    "water_pct": 1.3
+  },
+  "BG412": {
+    "water_area_km2": 20.02,
+    "water_bodies_count": 3,
+    "water_pct": 0.28
+  },
+  "BG413": {
+    "water_area_km2": 5.97,
+    "water_bodies_count": 3,
+    "water_pct": 0.09
+  },
+  "BG414": {
+    "water_area_km2": 2.27,
+    "water_bodies_count": 2,
+    "water_pct": 0.09
+  },
+  "BG421": {
+    "water_area_km2": 17.93,
+    "water_bodies_count": 10,
+    "water_pct": 0.31
+  },
+  "BG422": {
+    "water_area_km2": 42.54,
+    "water_bodies_count": 13,
+    "water_pct": 0.76
+  },
+  "BG423": {
+    "water_area_km2": 40.72,
+    "water_bodies_count": 6,
+    "water_pct": 0.91
+  },
+  "BG424": {
+    "water_area_km2": 5.86,
+    "water_bodies_count": 1,
+    "water_pct": 0.18
+  },
+  "BG425": {
+    "water_area_km2": 38.54,
+    "water_bodies_count": 2,
+    "water_pct": 1.2
+  },
+  "CH011": {
+    "water_area_km2": 456.45,
+    "water_bodies_count": 5,
+    "water_pct": 14.33
+  },
+  "CH012": {
+    "water_area_km2": 8.85,
+    "water_bodies_count": 4,
+    "water_pct": 0.17
+  },
+  "CH013": {
+    "water_area_km2": 33.11,
+    "water_bodies_count": 1,
+    "water_pct": 14.36
+  },
+  "CH021": {
+    "water_area_km2": 112.87,
+    "water_bodies_count": 9,
+    "water_pct": 1.85
+  },
+  "CH022": {
+    "water_area_km2": 68.32,
+    "water_bodies_count": 4,
+    "water_pct": 3.98
+  },
+  "CH024": {
+    "water_area_km2": 98.48,
+    "water_bodies_count": 2,
+    "water_pct": 12.28
+  },
+  "CH033": {
+    "water_area_km2": 9.26,
+    "water_bodies_count": 1,
+    "water_pct": 0.63
+  },
+  "CH040": {
+    "water_area_km2": 70.67,
+    "water_bodies_count": 4,
+    "water_pct": 3.96
+  },
+  "CH052": {
+    "water_area_km2": 2.11,
+    "water_bodies_count": 1,
+    "water_pct": 0.97
+  },
+  "CH055": {
+    "water_area_km2": 83.43,
+    "water_bodies_count": 3,
+    "water_pct": 3.89
+  },
+  "CH056": {
+    "water_area_km2": 7.94,
+    "water_bodies_count": 4,
+    "water_pct": 0.11
+  },
+  "CH057": {
+    "water_area_km2": 49.76,
+    "water_bodies_count": 1,
+    "water_pct": 5.76
+  },
+  "CH061": {
+    "water_area_km2": 62.13,
+    "water_bodies_count": 6,
+    "water_pct": 4.25
+  },
+  "CH062": {
+    "water_area_km2": 15.67,
+    "water_bodies_count": 1,
+    "water_pct": 1.44
+  },
+  "CH063": {
+    "water_area_km2": 43.11,
+    "water_bodies_count": 7,
+    "water_pct": 4.99
+  },
+  "CH064": {
+    "water_area_km2": 8.45,
+    "water_bodies_count": 2,
+    "water_pct": 1.92
+  },
+  "CH065": {
+    "water_area_km2": 37.45,
+    "water_bodies_count": 2,
+    "water_pct": 13.43
+  },
+  "CH066": {
+    "water_area_km2": 32.28,
+    "water_bodies_count": 2,
+    "water_pct": 14.93
+  },
+  "CH070": {
+    "water_area_km2": 73.6,
+    "water_bodies_count": 5,
+    "water_pct": 2.61
+  },
+  "CY000": {
+    "water_area_km2": 31.72,
+    "water_bodies_count": 19,
+    "water_pct": 0.34
+  },
+  "CZ020": {
+    "water_area_km2": 28.36,
+    "water_bodies_count": 18,
+    "water_pct": 0.26
+  },
+  "CZ031": {
+    "water_area_km2": 150.82,
+    "water_bodies_count": 95,
+    "water_pct": 1.48
+  },
+  "CZ032": {
+    "water_area_km2": 19.31,
+    "water_bodies_count": 16,
+    "water_pct": 0.25
+  },
+  "CZ041": {
+    "water_area_km2": 14.5,
+    "water_bodies_count": 6,
+    "water_pct": 0.43
+  },
+  "CZ042": {
+    "water_area_km2": 21.8,
+    "water_bodies_count": 6,
+    "water_pct": 0.41
+  },
+  "CZ051": {
+    "water_area_km2": 6.49,
+    "water_bodies_count": 3,
+    "water_pct": 0.21
+  },
+  "CZ052": {
+    "water_area_km2": 1.45,
+    "water_bodies_count": 3,
+    "water_pct": 0.03
+  },
+  "CZ053": {
+    "water_area_km2": 4.52,
+    "water_bodies_count": 8,
+    "water_pct": 0.1
+  },
+  "CZ063": {
+    "water_area_km2": 14.37,
+    "water_bodies_count": 16,
+    "water_pct": 0.21
+  },
+  "CZ064": {
+    "water_area_km2": 11.32,
+    "water_bodies_count": 4,
+    "water_pct": 0.16
+  },
+  "CZ071": {
+    "water_area_km2": 0.81,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "CZ072": {
+    "water_area_km2": 0.5,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "CZ080": {
+    "water_area_km2": 3.61,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "DE111": {
+    "water_area_km2": 0.71,
+    "water_bodies_count": 1,
+    "water_pct": 0.43
+  },
+  "DE11C": {
+    "water_area_km2": 0.6,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "DE122": {
+    "water_area_km2": 2.79,
+    "water_bodies_count": 2,
+    "water_pct": 2.29
+  },
+  "DE123": {
+    "water_area_km2": 1.03,
+    "water_bodies_count": 3,
+    "water_pct": 0.09
+  },
+  "DE124": {
+    "water_area_km2": 3.24,
+    "water_bodies_count": 4,
+    "water_pct": 0.44
+  },
+  "DE12C": {
+    "water_area_km2": 0.8,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "DE132": {
+    "water_area_km2": 4.85,
+    "water_bodies_count": 3,
+    "water_pct": 0.36
+  },
+  "DE134": {
+    "water_area_km2": 1.3,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "DE138": {
+    "water_area_km2": 69.85,
+    "water_bodies_count": 3,
+    "water_pct": 7.89
+  },
+  "DE139": {
+    "water_area_km2": 0.11,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "DE13A": {
+    "water_area_km2": 6.04,
+    "water_bodies_count": 1,
+    "water_pct": 0.56
+  },
+  "DE145": {
+    "water_area_km2": 0.58,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DE146": {
+    "water_area_km2": 1.47,
+    "water_bodies_count": 1,
+    "water_pct": 0.11
+  },
+  "DE147": {
+    "water_area_km2": 269.04,
+    "water_bodies_count": 1,
+    "water_pct": 27.83
+  },
+  "DE148": {
+    "water_area_km2": 1.59,
+    "water_bodies_count": 2,
+    "water_pct": 0.09
+  },
+  "DE149": {
+    "water_area_km2": 1.37,
+    "water_bodies_count": 3,
+    "water_pct": 0.11
+  },
+  "DE212": {
+    "water_area_km2": 1.4,
+    "water_bodies_count": 1,
+    "water_pct": 0.49
+  },
+  "DE214": {
+    "water_area_km2": 2.15,
+    "water_bodies_count": 1,
+    "water_pct": 0.4
+  },
+  "DE215": {
+    "water_area_km2": 4.5,
+    "water_bodies_count": 2,
+    "water_pct": 0.56
+  },
+  "DE216": {
+    "water_area_km2": 23.53,
+    "water_bodies_count": 4,
+    "water_pct": 2.19
+  },
+  "DE218": {
+    "water_area_km2": 0.41,
+    "water_bodies_count": 3,
+    "water_pct": 0.08
+  },
+  "DE21A": {
+    "water_area_km2": 1.29,
+    "water_bodies_count": 2,
+    "water_pct": 0.15
+  },
+  "DE21B": {
+    "water_area_km2": 0.73,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "DE21D": {
+    "water_area_km2": 11.59,
+    "water_bodies_count": 4,
+    "water_pct": 1.17
+  },
+  "DE21E": {
+    "water_area_km2": 39.12,
+    "water_bodies_count": 1,
+    "water_pct": 4.79
+  },
+  "DE21F": {
+    "water_area_km2": 11.04,
+    "water_bodies_count": 3,
+    "water_pct": 1.31
+  },
+  "DE21H": {
+    "water_area_km2": 3.46,
+    "water_bodies_count": 2,
+    "water_pct": 0.47
+  },
+  "DE21I": {
+    "water_area_km2": 0.29,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DE21J": {
+    "water_area_km2": 0.57,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "DE21K": {
+    "water_area_km2": 25.45,
+    "water_bodies_count": 9,
+    "water_pct": 1.74
+  },
+  "DE21L": {
+    "water_area_km2": 61.76,
+    "water_bodies_count": 4,
+    "water_pct": 13.68
+  },
+  "DE21M": {
+    "water_area_km2": 75.99,
+    "water_bodies_count": 3,
+    "water_pct": 4.94
+  },
+  "DE21N": {
+    "water_area_km2": 6.38,
+    "water_bodies_count": 5,
+    "water_pct": 0.6
+  },
+  "DE226": {
+    "water_area_km2": 0.22,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "DE227": {
+    "water_area_km2": 4.73,
+    "water_bodies_count": 4,
+    "water_pct": 0.35
+  },
+  "DE22A": {
+    "water_area_km2": 6.88,
+    "water_bodies_count": 3,
+    "water_pct": 0.55
+  },
+  "DE22C": {
+    "water_area_km2": 0.87,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "DE234": {
+    "water_area_km2": 0.21,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "DE235": {
+    "water_area_km2": 1.84,
+    "water_bodies_count": 4,
+    "water_pct": 0.12
+  },
+  "DE237": {
+    "water_area_km2": 1.11,
+    "water_bodies_count": 2,
+    "water_pct": 0.08
+  },
+  "DE238": {
+    "water_area_km2": 0.79,
+    "water_bodies_count": 2,
+    "water_pct": 0.05
+  },
+  "DE239": {
+    "water_area_km2": 4.44,
+    "water_bodies_count": 4,
+    "water_pct": 0.3
+  },
+  "DE23A": {
+    "water_area_km2": 3.76,
+    "water_bodies_count": 7,
+    "water_pct": 0.39
+  },
+  "DE245": {
+    "water_area_km2": 0.7,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE246": {
+    "water_area_km2": 0.03,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "DE249": {
+    "water_area_km2": 1.13,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "DE24A": {
+    "water_area_km2": 1.76,
+    "water_bodies_count": 1,
+    "water_pct": 0.26
+  },
+  "DE24B": {
+    "water_area_km2": 0.36,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE24C": {
+    "water_area_km2": 1.08,
+    "water_bodies_count": 2,
+    "water_pct": 0.23
+  },
+  "DE24D": {
+    "water_area_km2": 0.81,
+    "water_bodies_count": 2,
+    "water_pct": 0.14
+  },
+  "DE267": {
+    "water_area_km2": 0.58,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE268": {
+    "water_area_km2": 0.4,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE26B": {
+    "water_area_km2": 0.45,
+    "water_bodies_count": 1,
+    "water_pct": 0.05
+  },
+  "DE275": {
+    "water_area_km2": 1.61,
+    "water_bodies_count": 1,
+    "water_pct": 0.19
+  },
+  "DE277": {
+    "water_area_km2": 1.44,
+    "water_bodies_count": 2,
+    "water_pct": 0.18
+  },
+  "DE278": {
+    "water_area_km2": 0.25,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "DE27A": {
+    "water_area_km2": 20.86,
+    "water_bodies_count": 1,
+    "water_pct": 6.45
+  },
+  "DE27B": {
+    "water_area_km2": 24.95,
+    "water_bodies_count": 5,
+    "water_pct": 1.86
+  },
+  "DE27D": {
+    "water_area_km2": 0.55,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DE27E": {
+    "water_area_km2": 2.98,
+    "water_bodies_count": 3,
+    "water_pct": 0.2
+  },
+  "DE300": {
+    "water_area_km2": 35.1,
+    "water_bodies_count": 5,
+    "water_pct": 4.02
+  },
+  "DE401": {
+    "water_area_km2": 18.47,
+    "water_bodies_count": 2,
+    "water_pct": 22.15
+  },
+  "DE402": {
+    "water_area_km2": 0.99,
+    "water_bodies_count": 4,
+    "water_pct": 0.58
+  },
+  "DE403": {
+    "water_area_km2": 1.57,
+    "water_bodies_count": 1,
+    "water_pct": 1.24
+  },
+  "DE404": {
+    "water_area_km2": 15.36,
+    "water_bodies_count": 7,
+    "water_pct": 9.35
+  },
+  "DE405": {
+    "water_area_km2": 38.33,
+    "water_bodies_count": 16,
+    "water_pct": 2.54
+  },
+  "DE406": {
+    "water_area_km2": 54.15,
+    "water_bodies_count": 27,
+    "water_pct": 2.31
+  },
+  "DE407": {
+    "water_area_km2": 4.67,
+    "water_bodies_count": 5,
+    "water_pct": 0.25
+  },
+  "DE408": {
+    "water_area_km2": 13.67,
+    "water_bodies_count": 7,
+    "water_pct": 0.78
+  },
+  "DE409": {
+    "water_area_km2": 13.72,
+    "water_bodies_count": 14,
+    "water_pct": 0.67
+  },
+  "DE40A": {
+    "water_area_km2": 26.36,
+    "water_bodies_count": 24,
+    "water_pct": 1.4
+  },
+  "DE40B": {
+    "water_area_km2": 14.45,
+    "water_bodies_count": 12,
+    "water_pct": 1.17
+  },
+  "DE40C": {
+    "water_area_km2": 49.83,
+    "water_bodies_count": 29,
+    "water_pct": 2.14
+  },
+  "DE40D": {
+    "water_area_km2": 51.04,
+    "water_bodies_count": 38,
+    "water_pct": 1.99
+  },
+  "DE40E": {
+    "water_area_km2": 57.12,
+    "water_bodies_count": 16,
+    "water_pct": 2.13
+  },
+  "DE40F": {
+    "water_area_km2": 15.16,
+    "water_bodies_count": 2,
+    "water_pct": 0.73
+  },
+  "DE40G": {
+    "water_area_km2": 23.79,
+    "water_bodies_count": 16,
+    "water_pct": 1.47
+  },
+  "DE40H": {
+    "water_area_km2": 10.88,
+    "water_bodies_count": 9,
+    "water_pct": 0.54
+  },
+  "DE40I": {
+    "water_area_km2": 74.52,
+    "water_bodies_count": 52,
+    "water_pct": 2.49
+  },
+  "DE501": {
+    "water_area_km2": 9.16,
+    "water_bodies_count": 1,
+    "water_pct": 2.68
+  },
+  "DE600": {
+    "water_area_km2": 27.46,
+    "water_bodies_count": 3,
+    "water_pct": 3.61
+  },
+  "DE714": {
+    "water_area_km2": 5.48,
+    "water_bodies_count": 1,
+    "water_pct": 3.56
+  },
+  "DE715": {
+    "water_area_km2": 0.71,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "DE717": {
+    "water_area_km2": 12.99,
+    "water_bodies_count": 1,
+    "water_pct": 2.68
+  },
+  "DE71D": {
+    "water_area_km2": 4.2,
+    "water_bodies_count": 1,
+    "water_pct": 0.55
+  },
+  "DE71E": {
+    "water_area_km2": 0.49,
+    "water_bodies_count": 1,
+    "water_pct": 0.05
+  },
+  "DE722": {
+    "water_area_km2": 0.7,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE725": {
+    "water_area_km2": 0.99,
+    "water_bodies_count": 3,
+    "water_pct": 0.07
+  },
+  "DE736": {
+    "water_area_km2": 15.2,
+    "water_bodies_count": 4,
+    "water_pct": 0.81
+  },
+  "DE737": {
+    "water_area_km2": 0.82,
+    "water_bodies_count": 1,
+    "water_pct": 0.08
+  },
+  "DE804": {
+    "water_area_km2": 22.65,
+    "water_bodies_count": 5,
+    "water_pct": 20.54
+  },
+  "DE80J": {
+    "water_area_km2": 385.68,
+    "water_bodies_count": 112,
+    "water_pct": 6.89
+  },
+  "DE80K": {
+    "water_area_km2": 48.76,
+    "water_bodies_count": 24,
+    "water_pct": 1.43
+  },
+  "DE80L": {
+    "water_area_km2": 30.0,
+    "water_bodies_count": 3,
+    "water_pct": 1.0
+  },
+  "DE80M": {
+    "water_area_km2": 42.42,
+    "water_bodies_count": 18,
+    "water_pct": 2.08
+  },
+  "DE80N": {
+    "water_area_km2": 28.75,
+    "water_bodies_count": 17,
+    "water_pct": 0.73
+  },
+  "DE80O": {
+    "water_area_km2": 112.69,
+    "water_bodies_count": 36,
+    "water_pct": 2.34
+  },
+  "DE912": {
+    "water_area_km2": 1.64,
+    "water_bodies_count": 3,
+    "water_pct": 0.67
+  },
+  "DE916": {
+    "water_area_km2": 11.47,
+    "water_bodies_count": 9,
+    "water_pct": 1.09
+  },
+  "DE91B": {
+    "water_area_km2": 0.25,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DE91C": {
+    "water_area_km2": 4.75,
+    "water_bodies_count": 4,
+    "water_pct": 0.28
+  },
+  "DE922": {
+    "water_area_km2": 12.57,
+    "water_bodies_count": 1,
+    "water_pct": 0.61
+  },
+  "DE928": {
+    "water_area_km2": 0.69,
+    "water_bodies_count": 1,
+    "water_pct": 0.09
+  },
+  "DE929": {
+    "water_area_km2": 28.39,
+    "water_bodies_count": 2,
+    "water_pct": 1.2
+  },
+  "DE931": {
+    "water_area_km2": 4.97,
+    "water_bodies_count": 2,
+    "water_pct": 0.33
+  },
+  "DE932": {
+    "water_area_km2": 10.3,
+    "water_bodies_count": 6,
+    "water_pct": 0.5
+  },
+  "DE933": {
+    "water_area_km2": 6.09,
+    "water_bodies_count": 1,
+    "water_pct": 0.47
+  },
+  "DE934": {
+    "water_area_km2": 16.42,
+    "water_bodies_count": 1,
+    "water_pct": 1.25
+  },
+  "DE935": {
+    "water_area_km2": 14.51,
+    "water_bodies_count": 1,
+    "water_pct": 1.15
+  },
+  "DE936": {
+    "water_area_km2": 4.17,
+    "water_bodies_count": 1,
+    "water_pct": 0.7
+  },
+  "DE942": {
+    "water_area_km2": 0.92,
+    "water_bodies_count": 1,
+    "water_pct": 0.87
+  },
+  "DE946": {
+    "water_area_km2": 5.05,
+    "water_bodies_count": 1,
+    "water_pct": 0.65
+  },
+  "DE947": {
+    "water_area_km2": 7.13,
+    "water_bodies_count": 3,
+    "water_pct": 0.6
+  },
+  "DE948": {
+    "water_area_km2": 1.52,
+    "water_bodies_count": 2,
+    "water_pct": 0.11
+  },
+  "DE94C": {
+    "water_area_km2": 10.52,
+    "water_bodies_count": 2,
+    "water_pct": 0.93
+  },
+  "DE94D": {
+    "water_area_km2": 1.38,
+    "water_bodies_count": 1,
+    "water_pct": 0.13
+  },
+  "DE94E": {
+    "water_area_km2": 1.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DE94G": {
+    "water_area_km2": 4.6,
+    "water_bodies_count": 1,
+    "water_pct": 0.53
+  },
+  "DEA11": {
+    "water_area_km2": 8.93,
+    "water_bodies_count": 1,
+    "water_pct": 4.79
+  },
+  "DEA12": {
+    "water_area_km2": 11.86,
+    "water_bodies_count": 2,
+    "water_pct": 5.66
+  },
+  "DEA13": {
+    "water_area_km2": 1.93,
+    "water_bodies_count": 1,
+    "water_pct": 0.91
+  },
+  "DEA14": {
+    "water_area_km2": 1.77,
+    "water_bodies_count": 1,
+    "water_pct": 1.59
+  },
+  "DEA1B": {
+    "water_area_km2": 19.97,
+    "water_bodies_count": 3,
+    "water_pct": 1.54
+  },
+  "DEA1C": {
+    "water_area_km2": 3.29,
+    "water_bodies_count": 2,
+    "water_pct": 0.71
+  },
+  "DEA1D": {
+    "water_area_km2": 5.85,
+    "water_bodies_count": 1,
+    "water_pct": 1.03
+  },
+  "DEA1E": {
+    "water_area_km2": 1.27,
+    "water_bodies_count": 2,
+    "water_pct": 0.22
+  },
+  "DEA1F": {
+    "water_area_km2": 17.07,
+    "water_bodies_count": 3,
+    "water_pct": 1.61
+  },
+  "DEA22": {
+    "water_area_km2": 5.13,
+    "water_bodies_count": 1,
+    "water_pct": 3.72
+  },
+  "DEA23": {
+    "water_area_km2": 12.43,
+    "water_bodies_count": 1,
+    "water_pct": 3.01
+  },
+  "DEA24": {
+    "water_area_km2": 0.35,
+    "water_bodies_count": 1,
+    "water_pct": 0.61
+  },
+  "DEA26": {
+    "water_area_km2": 8.47,
+    "water_bodies_count": 4,
+    "water_pct": 0.92
+  },
+  "DEA27": {
+    "water_area_km2": 0.43,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DEA28": {
+    "water_area_km2": 5.01,
+    "water_bodies_count": 4,
+    "water_pct": 0.36
+  },
+  "DEA2A": {
+    "water_area_km2": 12.07,
+    "water_bodies_count": 7,
+    "water_pct": 1.3
+  },
+  "DEA2B": {
+    "water_area_km2": 1.82,
+    "water_bodies_count": 2,
+    "water_pct": 0.4
+  },
+  "DEA2C": {
+    "water_area_km2": 11.8,
+    "water_bodies_count": 2,
+    "water_pct": 1.06
+  },
+  "DEA2D": {
+    "water_area_km2": 3.27,
+    "water_bodies_count": 2,
+    "water_pct": 0.44
+  },
+  "DEA35": {
+    "water_area_km2": 0.79,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "DEA36": {
+    "water_area_km2": 2.71,
+    "water_bodies_count": 2,
+    "water_pct": 0.35
+  },
+  "DEA42": {
+    "water_area_km2": 0.37,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DEA47": {
+    "water_area_km2": 1.56,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "DEA52": {
+    "water_area_km2": 0.34,
+    "water_bodies_count": 1,
+    "water_pct": 0.15
+  },
+  "DEA53": {
+    "water_area_km2": 0.34,
+    "water_bodies_count": 1,
+    "water_pct": 0.28
+  },
+  "DEA56": {
+    "water_area_km2": 4.18,
+    "water_bodies_count": 4,
+    "water_pct": 0.9
+  },
+  "DEA57": {
+    "water_area_km2": 5.75,
+    "water_bodies_count": 3,
+    "water_pct": 0.29
+  },
+  "DEA58": {
+    "water_area_km2": 4.61,
+    "water_bodies_count": 3,
+    "water_pct": 0.44
+  },
+  "DEA59": {
+    "water_area_km2": 6.74,
+    "water_bodies_count": 2,
+    "water_pct": 1.01
+  },
+  "DEA5A": {
+    "water_area_km2": 2.31,
+    "water_bodies_count": 2,
+    "water_pct": 0.2
+  },
+  "DEA5B": {
+    "water_area_km2": 9.53,
+    "water_bodies_count": 1,
+    "water_pct": 0.71
+  },
+  "DEB11": {
+    "water_area_km2": 5.43,
+    "water_bodies_count": 1,
+    "water_pct": 4.92
+  },
+  "DEB12": {
+    "water_area_km2": 3.24,
+    "water_bodies_count": 1,
+    "water_pct": 0.44
+  },
+  "DEB15": {
+    "water_area_km2": 0.47,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "DEB17": {
+    "water_area_km2": 15.25,
+    "water_bodies_count": 2,
+    "water_pct": 1.74
+  },
+  "DEB18": {
+    "water_area_km2": 5.13,
+    "water_bodies_count": 1,
+    "water_pct": 0.91
+  },
+  "DEB1A": {
+    "water_area_km2": 7.26,
+    "water_bodies_count": 1,
+    "water_pct": 0.94
+  },
+  "DEB1B": {
+    "water_area_km2": 2.37,
+    "water_bodies_count": 3,
+    "water_pct": 0.23
+  },
+  "DEB1D": {
+    "water_area_km2": 5.51,
+    "water_bodies_count": 1,
+    "water_pct": 0.57
+  },
+  "DEB25": {
+    "water_area_km2": 1.09,
+    "water_bodies_count": 2,
+    "water_pct": 0.1
+  },
+  "DEB39": {
+    "water_area_km2": 5.49,
+    "water_bodies_count": 1,
+    "water_pct": 4.99
+  },
+  "DEB3B": {
+    "water_area_km2": 0.7,
+    "water_bodies_count": 1,
+    "water_pct": 0.11
+  },
+  "DEB3E": {
+    "water_area_km2": 4.1,
+    "water_bodies_count": 1,
+    "water_pct": 0.93
+  },
+  "DEB3I": {
+    "water_area_km2": 2.07,
+    "water_bodies_count": 2,
+    "water_pct": 0.67
+  },
+  "DEB3J": {
+    "water_area_km2": 20.3,
+    "water_bodies_count": 1,
+    "water_pct": 2.9
+  },
+  "DEC06": {
+    "water_area_km2": 1.25,
+    "water_bodies_count": 1,
+    "water_pct": 0.27
+  },
+  "DED21": {
+    "water_area_km2": 0.45,
+    "water_bodies_count": 1,
+    "water_pct": 0.16
+  },
+  "DED2C": {
+    "water_area_km2": 34.93,
+    "water_bodies_count": 25,
+    "water_pct": 1.45
+  },
+  "DED2D": {
+    "water_area_km2": 21.5,
+    "water_bodies_count": 25,
+    "water_pct": 0.99
+  },
+  "DED2E": {
+    "water_area_km2": 6.43,
+    "water_bodies_count": 13,
+    "water_pct": 0.44
+  },
+  "DED2F": {
+    "water_area_km2": 5.27,
+    "water_bodies_count": 4,
+    "water_pct": 0.32
+  },
+  "DED42": {
+    "water_area_km2": 7.75,
+    "water_bodies_count": 5,
+    "water_pct": 0.43
+  },
+  "DED43": {
+    "water_area_km2": 4.12,
+    "water_bodies_count": 3,
+    "water_pct": 0.19
+  },
+  "DED44": {
+    "water_area_km2": 8.7,
+    "water_bodies_count": 5,
+    "water_pct": 0.6
+  },
+  "DED45": {
+    "water_area_km2": 1.49,
+    "water_bodies_count": 3,
+    "water_pct": 0.15
+  },
+  "DED52": {
+    "water_area_km2": 11.51,
+    "water_bodies_count": 15,
+    "water_pct": 0.74
+  },
+  "DED53": {
+    "water_area_km2": 3.16,
+    "water_bodies_count": 6,
+    "water_pct": 0.16
+  },
+  "DEE02": {
+    "water_area_km2": 0.88,
+    "water_bodies_count": 1,
+    "water_pct": 0.85
+  },
+  "DEE04": {
+    "water_area_km2": 4.94,
+    "water_bodies_count": 1,
+    "water_pct": 0.22
+  },
+  "DEE05": {
+    "water_area_km2": 8.81,
+    "water_bodies_count": 6,
+    "water_pct": 0.59
+  },
+  "DEE06": {
+    "water_area_km2": 0.57,
+    "water_bodies_count": 2,
+    "water_pct": 0.04
+  },
+  "DEE07": {
+    "water_area_km2": 1.7,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "DEE08": {
+    "water_area_km2": 2.25,
+    "water_bodies_count": 4,
+    "water_pct": 0.15
+  },
+  "DEE09": {
+    "water_area_km2": 8.89,
+    "water_bodies_count": 3,
+    "water_pct": 0.42
+  },
+  "DEE0A": {
+    "water_area_km2": 9.83,
+    "water_bodies_count": 3,
+    "water_pct": 0.64
+  },
+  "DEE0B": {
+    "water_area_km2": 6.05,
+    "water_bodies_count": 5,
+    "water_pct": 0.41
+  },
+  "DEE0C": {
+    "water_area_km2": 1.19,
+    "water_bodies_count": 2,
+    "water_pct": 0.08
+  },
+  "DEE0D": {
+    "water_area_km2": 12.28,
+    "water_bodies_count": 4,
+    "water_pct": 0.51
+  },
+  "DEE0E": {
+    "water_area_km2": 3.51,
+    "water_bodies_count": 5,
+    "water_pct": 0.17
+  },
+  "DEF02": {
+    "water_area_km2": 0.0,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "DEF03": {
+    "water_area_km2": 3.15,
+    "water_bodies_count": 2,
+    "water_pct": 1.4
+  },
+  "DEF05": {
+    "water_area_km2": 6.12,
+    "water_bodies_count": 1,
+    "water_pct": 0.42
+  },
+  "DEF06": {
+    "water_area_km2": 39.4,
+    "water_bodies_count": 11,
+    "water_pct": 3.03
+  },
+  "DEF07": {
+    "water_area_km2": 10.29,
+    "water_bodies_count": 4,
+    "water_pct": 0.52
+  },
+  "DEF08": {
+    "water_area_km2": 19.24,
+    "water_bodies_count": 14,
+    "water_pct": 1.5
+  },
+  "DEF0A": {
+    "water_area_km2": 94.74,
+    "water_bodies_count": 27,
+    "water_pct": 8.97
+  },
+  "DEF0B": {
+    "water_area_km2": 42.39,
+    "water_bodies_count": 19,
+    "water_pct": 1.93
+  },
+  "DEF0C": {
+    "water_area_km2": 48.54,
+    "water_bodies_count": 8,
+    "water_pct": 2.45
+  },
+  "DEF0D": {
+    "water_area_km2": 9.52,
+    "water_bodies_count": 8,
+    "water_pct": 0.74
+  },
+  "DEF0F": {
+    "water_area_km2": 1.73,
+    "water_bodies_count": 3,
+    "water_pct": 0.21
+  },
+  "DEG07": {
+    "water_area_km2": 0.22,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "DEG0C": {
+    "water_area_km2": 3.76,
+    "water_bodies_count": 3,
+    "water_pct": 0.42
+  },
+  "DEG0E": {
+    "water_area_km2": 1.11,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "DEG0K": {
+    "water_area_km2": 12.63,
+    "water_bodies_count": 6,
+    "water_pct": 1.15
+  },
+  "DEG0L": {
+    "water_area_km2": 5.01,
+    "water_bodies_count": 4,
+    "water_pct": 0.61
+  },
+  "DEG0M": {
+    "water_area_km2": 2.2,
+    "water_bodies_count": 2,
+    "water_pct": 0.39
+  },
+  "DEG0Q": {
+    "water_area_km2": 0.57,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "DEG0U": {
+    "water_area_km2": 6.15,
+    "water_bodies_count": 2,
+    "water_pct": 0.59
+  },
+  "DK011": {
+    "water_area_km2": 0.8,
+    "water_bodies_count": 1,
+    "water_pct": 0.48
+  },
+  "DK012": {
+    "water_area_km2": 2.29,
+    "water_bodies_count": 4,
+    "water_pct": 0.75
+  },
+  "DK013": {
+    "water_area_km2": 71.2,
+    "water_bodies_count": 10,
+    "water_pct": 4.87
+  },
+  "DK021": {
+    "water_area_km2": 1.69,
+    "water_bodies_count": 3,
+    "water_pct": 0.19
+  },
+  "DK022": {
+    "water_area_km2": 59.29,
+    "water_bodies_count": 17,
+    "water_pct": 0.95
+  },
+  "DK031": {
+    "water_area_km2": 6.81,
+    "water_bodies_count": 7,
+    "water_pct": 0.2
+  },
+  "DK032": {
+    "water_area_km2": 18.21,
+    "water_bodies_count": 19,
+    "water_pct": 0.21
+  },
+  "DK041": {
+    "water_area_km2": 254.31,
+    "water_bodies_count": 26,
+    "water_pct": 3.58
+  },
+  "DK042": {
+    "water_area_km2": 104.85,
+    "water_bodies_count": 28,
+    "water_pct": 1.69
+  },
+  "DK050": {
+    "water_area_km2": 447.06,
+    "water_bodies_count": 16,
+    "water_pct": 5.45
+  },
+  "EE001": {
+    "water_area_km2": 18.49,
+    "water_bodies_count": 7,
+    "water_pct": 0.41
+  },
+  "EE004": {
+    "water_area_km2": 66.62,
+    "water_bodies_count": 21,
+    "water_pct": 0.61
+  },
+  "EE008": {
+    "water_area_km2": 1463.99,
+    "water_bodies_count": 46,
+    "water_pct": 8.56
+  },
+  "EE009": {
+    "water_area_km2": 2.5,
+    "water_bodies_count": 4,
+    "water_pct": 0.03
+  },
+  "EE00A": {
+    "water_area_km2": 514.31,
+    "water_bodies_count": 7,
+    "water_pct": 14.73
+  },
+  "EL305": {
+    "water_area_km2": 4.27,
+    "water_bodies_count": 1,
+    "water_pct": 0.28
+  },
+  "EL511": {
+    "water_area_km2": 7.49,
+    "water_bodies_count": 4,
+    "water_pct": 0.18
+  },
+  "EL512": {
+    "water_area_km2": 17.64,
+    "water_bodies_count": 4,
+    "water_pct": 0.98
+  },
+  "EL513": {
+    "water_area_km2": 34.99,
+    "water_bodies_count": 6,
+    "water_pct": 1.46
+  },
+  "EL515": {
+    "water_area_km2": 22.8,
+    "water_bodies_count": 6,
+    "water_pct": 1.01
+  },
+  "EL522": {
+    "water_area_km2": 127.53,
+    "water_bodies_count": 6,
+    "water_pct": 3.39
+  },
+  "EL523": {
+    "water_area_km2": 41.39,
+    "water_bodies_count": 4,
+    "water_pct": 1.67
+  },
+  "EL524": {
+    "water_area_km2": 38.59,
+    "water_bodies_count": 1,
+    "water_pct": 1.55
+  },
+  "EL526": {
+    "water_area_km2": 51.17,
+    "water_bodies_count": 4,
+    "water_pct": 1.32
+  },
+  "EL531": {
+    "water_area_km2": 82.39,
+    "water_bodies_count": 1,
+    "water_pct": 1.43
+  },
+  "EL532": {
+    "water_area_km2": 26.85,
+    "water_bodies_count": 1,
+    "water_pct": 1.51
+  },
+  "EL533": {
+    "water_area_km2": 142.18,
+    "water_bodies_count": 6,
+    "water_pct": 7.34
+  },
+  "EL541": {
+    "water_area_km2": 31.45,
+    "water_bodies_count": 7,
+    "water_pct": 1.21
+  },
+  "EL543": {
+    "water_area_km2": 17.32,
+    "water_bodies_count": 1,
+    "water_pct": 0.35
+  },
+  "EL611": {
+    "water_area_km2": 23.26,
+    "water_bodies_count": 2,
+    "water_pct": 0.38
+  },
+  "EL631": {
+    "water_area_km2": 203.24,
+    "water_bodies_count": 11,
+    "water_pct": 3.78
+  },
+  "EL632": {
+    "water_area_km2": 1.44,
+    "water_bodies_count": 1,
+    "water_pct": 0.05
+  },
+  "EL633": {
+    "water_area_km2": 20.13,
+    "water_bodies_count": 4,
+    "water_pct": 0.75
+  },
+  "EL641": {
+    "water_area_km2": 24.86,
+    "water_bodies_count": 1,
+    "water_pct": 0.85
+  },
+  "EL642": {
+    "water_area_km2": 20.58,
+    "water_bodies_count": 2,
+    "water_pct": 0.47
+  },
+  "EL643": {
+    "water_area_km2": 48.41,
+    "water_bodies_count": 1,
+    "water_pct": 2.71
+  },
+  "EL651": {
+    "water_area_km2": 3.78,
+    "water_bodies_count": 2,
+    "water_pct": 0.06
+  },
+  "EL652": {
+    "water_area_km2": 4.6,
+    "water_bodies_count": 2,
+    "water_pct": 0.21
+  },
+  "ES111": {
+    "water_area_km2": 61.32,
+    "water_bodies_count": 6,
+    "water_pct": 0.8
+  },
+  "ES112": {
+    "water_area_km2": 47.99,
+    "water_bodies_count": 6,
+    "water_pct": 0.48
+  },
+  "ES113": {
+    "water_area_km2": 74.56,
+    "water_bodies_count": 12,
+    "water_pct": 1.03
+  },
+  "ES114": {
+    "water_area_km2": 9.03,
+    "water_bodies_count": 2,
+    "water_pct": 0.21
+  },
+  "ES120": {
+    "water_area_km2": 16.55,
+    "water_bodies_count": 3,
+    "water_pct": 0.16
+  },
+  "ES130": {
+    "water_area_km2": 51.17,
+    "water_bodies_count": 3,
+    "water_pct": 0.95
+  },
+  "ES211": {
+    "water_area_km2": 26.38,
+    "water_bodies_count": 3,
+    "water_pct": 0.86
+  },
+  "ES220": {
+    "water_area_km2": 72.54,
+    "water_bodies_count": 8,
+    "water_pct": 0.69
+  },
+  "ES230": {
+    "water_area_km2": 32.77,
+    "water_bodies_count": 7,
+    "water_pct": 0.64
+  },
+  "ES241": {
+    "water_area_km2": 116.16,
+    "water_bodies_count": 25,
+    "water_pct": 0.75
+  },
+  "ES242": {
+    "water_area_km2": 53.24,
+    "water_bodies_count": 13,
+    "water_pct": 0.36
+  },
+  "ES243": {
+    "water_area_km2": 129.1,
+    "water_bodies_count": 22,
+    "water_pct": 0.75
+  },
+  "ES300": {
+    "water_area_km2": 52.05,
+    "water_bodies_count": 10,
+    "water_pct": 0.65
+  },
+  "ES411": {
+    "water_area_km2": 31.18,
+    "water_bodies_count": 7,
+    "water_pct": 0.39
+  },
+  "ES412": {
+    "water_area_km2": 26.28,
+    "water_bodies_count": 7,
+    "water_pct": 0.19
+  },
+  "ES413": {
+    "water_area_km2": 79.34,
+    "water_bodies_count": 10,
+    "water_pct": 0.51
+  },
+  "ES414": {
+    "water_area_km2": 37.01,
+    "water_bodies_count": 6,
+    "water_pct": 0.46
+  },
+  "ES415": {
+    "water_area_km2": 115.81,
+    "water_bodies_count": 8,
+    "water_pct": 0.94
+  },
+  "ES416": {
+    "water_area_km2": 15.77,
+    "water_bodies_count": 4,
+    "water_pct": 0.23
+  },
+  "ES417": {
+    "water_area_km2": 21.32,
+    "water_bodies_count": 2,
+    "water_pct": 0.21
+  },
+  "ES418": {
+    "water_area_km2": 12.84,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "ES419": {
+    "water_area_km2": 190.39,
+    "water_bodies_count": 20,
+    "water_pct": 1.77
+  },
+  "ES421": {
+    "water_area_km2": 71.44,
+    "water_bodies_count": 13,
+    "water_pct": 0.48
+  },
+  "ES422": {
+    "water_area_km2": 38.74,
+    "water_bodies_count": 11,
+    "water_pct": 0.2
+  },
+  "ES423": {
+    "water_area_km2": 155.19,
+    "water_bodies_count": 8,
+    "water_pct": 0.91
+  },
+  "ES424": {
+    "water_area_km2": 98.71,
+    "water_bodies_count": 6,
+    "water_pct": 0.81
+  },
+  "ES425": {
+    "water_area_km2": 55.9,
+    "water_bodies_count": 11,
+    "water_pct": 0.37
+  },
+  "ES431": {
+    "water_area_km2": 328.1,
+    "water_bodies_count": 18,
+    "water_pct": 1.49
+  },
+  "ES432": {
+    "water_area_km2": 473.94,
+    "water_bodies_count": 15,
+    "water_pct": 2.39
+  },
+  "ES511": {
+    "water_area_km2": 18.66,
+    "water_bodies_count": 3,
+    "water_pct": 0.24
+  },
+  "ES512": {
+    "water_area_km2": 19.1,
+    "water_bodies_count": 6,
+    "water_pct": 0.32
+  },
+  "ES513": {
+    "water_area_km2": 90.43,
+    "water_bodies_count": 19,
+    "water_pct": 0.74
+  },
+  "ES514": {
+    "water_area_km2": 37.32,
+    "water_bodies_count": 6,
+    "water_pct": 0.59
+  },
+  "ES521": {
+    "water_area_km2": 41.84,
+    "water_bodies_count": 5,
+    "water_pct": 0.71
+  },
+  "ES522": {
+    "water_area_km2": 13.42,
+    "water_bodies_count": 4,
+    "water_pct": 0.2
+  },
+  "ES523": {
+    "water_area_km2": 107.71,
+    "water_bodies_count": 10,
+    "water_pct": 1.01
+  },
+  "ES531": {
+    "water_area_km2": 2.55,
+    "water_bodies_count": 1,
+    "water_pct": 0.39
+  },
+  "ES532": {
+    "water_area_km2": 0.1,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "ES533": {
+    "water_area_km2": 0.79,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "ES611": {
+    "water_area_km2": 1.47,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "ES612": {
+    "water_area_km2": 52.94,
+    "water_bodies_count": 6,
+    "water_pct": 0.72
+  },
+  "ES613": {
+    "water_area_km2": 107.7,
+    "water_bodies_count": 13,
+    "water_pct": 0.78
+  },
+  "ES614": {
+    "water_area_km2": 33.53,
+    "water_bodies_count": 5,
+    "water_pct": 0.26
+  },
+  "ES615": {
+    "water_area_km2": 49.85,
+    "water_bodies_count": 10,
+    "water_pct": 0.49
+  },
+  "ES616": {
+    "water_area_km2": 113.27,
+    "water_bodies_count": 9,
+    "water_pct": 0.83
+  },
+  "ES617": {
+    "water_area_km2": 31.36,
+    "water_bodies_count": 4,
+    "water_pct": 0.42
+  },
+  "ES618": {
+    "water_area_km2": 33.47,
+    "water_bodies_count": 6,
+    "water_pct": 0.24
+  },
+  "ES620": {
+    "water_area_km2": 32.42,
+    "water_bodies_count": 5,
+    "water_pct": 0.29
+  },
+  "FI196": {
+    "water_area_km2": 387.16,
+    "water_bodies_count": 50,
+    "water_pct": 4.62
+  },
+  "FI198": {
+    "water_area_km2": 2667.76,
+    "water_bodies_count": 232,
+    "water_pct": 13.99
+  },
+  "FI199": {
+    "water_area_km2": 418.19,
+    "water_bodies_count": 76,
+    "water_pct": 2.92
+  },
+  "FI19A": {
+    "water_area_km2": 47.82,
+    "water_bodies_count": 34,
+    "water_pct": 0.61
+  },
+  "FI19B": {
+    "water_area_km2": 1986.45,
+    "water_bodies_count": 144,
+    "water_pct": 12.73
+  },
+  "FI1B1": {
+    "water_area_km2": 393.92,
+    "water_bodies_count": 109,
+    "water_pct": 3.92
+  },
+  "FI1C1": {
+    "water_area_km2": 106.32,
+    "water_bodies_count": 39,
+    "water_pct": 0.89
+  },
+  "FI1C2": {
+    "water_area_km2": 396.77,
+    "water_bodies_count": 77,
+    "water_pct": 6.99
+  },
+  "FI1C5": {
+    "water_area_km2": 1419.76,
+    "water_bodies_count": 146,
+    "water_pct": 20.93
+  },
+  "FI1C6": {
+    "water_area_km2": 1126.37,
+    "water_bodies_count": 83,
+    "water_pct": 16.19
+  },
+  "FI1C7": {
+    "water_area_km2": 346.77,
+    "water_bodies_count": 86,
+    "water_pct": 6.74
+  },
+  "FI1D5": {
+    "water_area_km2": 117.16,
+    "water_bodies_count": 30,
+    "water_pct": 2.23
+  },
+  "FI1D7": {
+    "water_area_km2": 4534.92,
+    "water_bodies_count": 694,
+    "water_pct": 4.57
+  },
+  "FI1D8": {
+    "water_area_km2": 2032.12,
+    "water_bodies_count": 353,
+    "water_pct": 8.98
+  },
+  "FI1D9": {
+    "water_area_km2": 1640.23,
+    "water_bodies_count": 331,
+    "water_pct": 4.17
+  },
+  "FI1DA": {
+    "water_area_km2": 3985.56,
+    "water_bodies_count": 260,
+    "water_pct": 23.52
+  },
+  "FI1DB": {
+    "water_area_km2": 3459.86,
+    "water_bodies_count": 247,
+    "water_pct": 16.55
+  },
+  "FI1DC": {
+    "water_area_km2": 3701.95,
+    "water_bodies_count": 242,
+    "water_pct": 16.1
+  },
+  "FI200": {
+    "water_area_km2": 17.94,
+    "water_bodies_count": 14,
+    "water_pct": 0.87
+  },
+  "FR101": {
+    "water_area_km2": 3.1,
+    "water_bodies_count": 1,
+    "water_pct": 6.2
+  },
+  "FR102": {
+    "water_area_km2": 19.52,
+    "water_bodies_count": 3,
+    "water_pct": 0.32
+  },
+  "FR103": {
+    "water_area_km2": 35.32,
+    "water_bodies_count": 4,
+    "water_pct": 1.52
+  },
+  "FR104": {
+    "water_area_km2": 12.47,
+    "water_bodies_count": 1,
+    "water_pct": 0.68
+  },
+  "FR105": {
+    "water_area_km2": 6.59,
+    "water_bodies_count": 1,
+    "water_pct": 4.05
+  },
+  "FR106": {
+    "water_area_km2": 3.42,
+    "water_bodies_count": 1,
+    "water_pct": 1.17
+  },
+  "FR107": {
+    "water_area_km2": 5.15,
+    "water_bodies_count": 1,
+    "water_pct": 2.2
+  },
+  "FR108": {
+    "water_area_km2": 11.3,
+    "water_bodies_count": 3,
+    "water_pct": 0.9
+  },
+  "FRB01": {
+    "water_area_km2": 37.59,
+    "water_bodies_count": 6,
+    "water_pct": 0.51
+  },
+  "FRB02": {
+    "water_area_km2": 0.73,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "FRB03": {
+    "water_area_km2": 10.11,
+    "water_bodies_count": 13,
+    "water_pct": 0.15
+  },
+  "FRB04": {
+    "water_area_km2": 45.99,
+    "water_bodies_count": 5,
+    "water_pct": 0.76
+  },
+  "FRB05": {
+    "water_area_km2": 23.18,
+    "water_bodies_count": 3,
+    "water_pct": 0.35
+  },
+  "FRB06": {
+    "water_area_km2": 51.4,
+    "water_bodies_count": 9,
+    "water_pct": 0.74
+  },
+  "FRC11": {
+    "water_area_km2": 10.11,
+    "water_bodies_count": 11,
+    "water_pct": 0.12
+  },
+  "FRC12": {
+    "water_area_km2": 59.98,
+    "water_bodies_count": 10,
+    "water_pct": 0.87
+  },
+  "FRC13": {
+    "water_area_km2": 23.81,
+    "water_bodies_count": 15,
+    "water_pct": 0.27
+  },
+  "FRC14": {
+    "water_area_km2": 6.71,
+    "water_bodies_count": 7,
+    "water_pct": 0.09
+  },
+  "FRC21": {
+    "water_area_km2": 4.71,
+    "water_bodies_count": 2,
+    "water_pct": 0.09
+  },
+  "FRC22": {
+    "water_area_km2": 6.15,
+    "water_bodies_count": 5,
+    "water_pct": 0.12
+  },
+  "FRC23": {
+    "water_area_km2": 1.75,
+    "water_bodies_count": 3,
+    "water_pct": 0.03
+  },
+  "FRC24": {
+    "water_area_km2": 0.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "FRD11": {
+    "water_area_km2": 0.9,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "FRD12": {
+    "water_area_km2": 0.74,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "FRD13": {
+    "water_area_km2": 1.03,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "FRD21": {
+    "water_area_km2": 30.55,
+    "water_bodies_count": 4,
+    "water_pct": 0.51
+  },
+  "FRD22": {
+    "water_area_km2": 48.16,
+    "water_bodies_count": 1,
+    "water_pct": 0.78
+  },
+  "FRE11": {
+    "water_area_km2": 7.1,
+    "water_bodies_count": 7,
+    "water_pct": 0.12
+  },
+  "FRE12": {
+    "water_area_km2": 1.06,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "FRE21": {
+    "water_area_km2": 4.42,
+    "water_bodies_count": 7,
+    "water_pct": 0.06
+  },
+  "FRE23": {
+    "water_area_km2": 6.07,
+    "water_bodies_count": 8,
+    "water_pct": 0.1
+  },
+  "FRF11": {
+    "water_area_km2": 9.31,
+    "water_bodies_count": 3,
+    "water_pct": 0.19
+  },
+  "FRF12": {
+    "water_area_km2": 14.86,
+    "water_bodies_count": 2,
+    "water_pct": 0.42
+  },
+  "FRF21": {
+    "water_area_km2": 3.82,
+    "water_bodies_count": 4,
+    "water_pct": 0.07
+  },
+  "FRF22": {
+    "water_area_km2": 24.04,
+    "water_bodies_count": 2,
+    "water_pct": 0.39
+  },
+  "FRF23": {
+    "water_area_km2": 22.16,
+    "water_bodies_count": 2,
+    "water_pct": 0.27
+  },
+  "FRF24": {
+    "water_area_km2": 27.48,
+    "water_bodies_count": 4,
+    "water_pct": 0.44
+  },
+  "FRF31": {
+    "water_area_km2": 5.78,
+    "water_bodies_count": 3,
+    "water_pct": 0.11
+  },
+  "FRF32": {
+    "water_area_km2": 15.74,
+    "water_bodies_count": 7,
+    "water_pct": 0.25
+  },
+  "FRF33": {
+    "water_area_km2": 32.6,
+    "water_bodies_count": 22,
+    "water_pct": 0.52
+  },
+  "FRF34": {
+    "water_area_km2": 3.19,
+    "water_bodies_count": 3,
+    "water_pct": 0.05
+  },
+  "FRG01": {
+    "water_area_km2": 104.33,
+    "water_bodies_count": 12,
+    "water_pct": 1.53
+  },
+  "FRG02": {
+    "water_area_km2": 72.9,
+    "water_bodies_count": 4,
+    "water_pct": 1.0
+  },
+  "FRG03": {
+    "water_area_km2": 7.39,
+    "water_bodies_count": 9,
+    "water_pct": 0.14
+  },
+  "FRG04": {
+    "water_area_km2": 1.47,
+    "water_bodies_count": 3,
+    "water_pct": 0.02
+  },
+  "FRG05": {
+    "water_area_km2": 10.28,
+    "water_bodies_count": 3,
+    "water_pct": 0.15
+  },
+  "FRH01": {
+    "water_area_km2": 26.27,
+    "water_bodies_count": 12,
+    "water_pct": 0.38
+  },
+  "FRH02": {
+    "water_area_km2": 19.32,
+    "water_bodies_count": 9,
+    "water_pct": 0.31
+  },
+  "FRH03": {
+    "water_area_km2": 40.2,
+    "water_bodies_count": 32,
+    "water_pct": 0.57
+  },
+  "FRH04": {
+    "water_area_km2": 23.36,
+    "water_bodies_count": 6,
+    "water_pct": 0.34
+  },
+  "FRI11": {
+    "water_area_km2": 6.54,
+    "water_bodies_count": 3,
+    "water_pct": 0.07
+  },
+  "FRI12": {
+    "water_area_km2": 196.38,
+    "water_bodies_count": 10,
+    "water_pct": 1.94
+  },
+  "FRI13": {
+    "water_area_km2": 92.79,
+    "water_bodies_count": 21,
+    "water_pct": 0.99
+  },
+  "FRI14": {
+    "water_area_km2": 32.7,
+    "water_bodies_count": 7,
+    "water_pct": 0.6
+  },
+  "FRI15": {
+    "water_area_km2": 10.14,
+    "water_bodies_count": 5,
+    "water_pct": 0.13
+  },
+  "FRI21": {
+    "water_area_km2": 31.42,
+    "water_bodies_count": 11,
+    "water_pct": 0.54
+  },
+  "FRI22": {
+    "water_area_km2": 23.8,
+    "water_bodies_count": 12,
+    "water_pct": 0.42
+  },
+  "FRI23": {
+    "water_area_km2": 6.88,
+    "water_bodies_count": 5,
+    "water_pct": 0.13
+  },
+  "FRI31": {
+    "water_area_km2": 0.63,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "FRI33": {
+    "water_area_km2": 0.51,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "FRI34": {
+    "water_area_km2": 4.07,
+    "water_bodies_count": 7,
+    "water_pct": 0.06
+  },
+  "FRJ11": {
+    "water_area_km2": 55.3,
+    "water_bodies_count": 6,
+    "water_pct": 0.86
+  },
+  "FRJ12": {
+    "water_area_km2": 82.16,
+    "water_bodies_count": 13,
+    "water_pct": 1.4
+  },
+  "FRJ13": {
+    "water_area_km2": 136.89,
+    "water_bodies_count": 9,
+    "water_pct": 2.16
+  },
+  "FRJ14": {
+    "water_area_km2": 2.36,
+    "water_bodies_count": 1,
+    "water_pct": 0.05
+  },
+  "FRJ15": {
+    "water_area_km2": 40.85,
+    "water_bodies_count": 5,
+    "water_pct": 0.97
+  },
+  "FRJ21": {
+    "water_area_km2": 0.0,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "FRJ22": {
+    "water_area_km2": 37.83,
+    "water_bodies_count": 10,
+    "water_pct": 0.43
+  },
+  "FRJ23": {
+    "water_area_km2": 16.75,
+    "water_bodies_count": 2,
+    "water_pct": 0.26
+  },
+  "FRJ26": {
+    "water_area_km2": 0.7,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "FRJ27": {
+    "water_area_km2": 9.95,
+    "water_bodies_count": 3,
+    "water_pct": 0.18
+  },
+  "FRJ28": {
+    "water_area_km2": 22.84,
+    "water_bodies_count": 3,
+    "water_pct": 0.6
+  },
+  "FRK11": {
+    "water_area_km2": 35.19,
+    "water_bodies_count": 9,
+    "water_pct": 0.48
+  },
+  "FRK12": {
+    "water_area_km2": 34.22,
+    "water_bodies_count": 6,
+    "water_pct": 0.58
+  },
+  "FRK13": {
+    "water_area_km2": 6.07,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "FRK14": {
+    "water_area_km2": 17.93,
+    "water_bodies_count": 7,
+    "water_pct": 0.22
+  },
+  "FRK21": {
+    "water_area_km2": 17.76,
+    "water_bodies_count": 10,
+    "water_pct": 0.31
+  },
+  "FRK22": {
+    "water_area_km2": 21.7,
+    "water_bodies_count": 9,
+    "water_pct": 0.39
+  },
+  "FRK23": {
+    "water_area_km2": 4.93,
+    "water_bodies_count": 4,
+    "water_pct": 0.07
+  },
+  "FRK24": {
+    "water_area_km2": 22.55,
+    "water_bodies_count": 10,
+    "water_pct": 0.28
+  },
+  "FRK25": {
+    "water_area_km2": 2.76,
+    "water_bodies_count": 4,
+    "water_pct": 0.06
+  },
+  "FRK26": {
+    "water_area_km2": 5.18,
+    "water_bodies_count": 3,
+    "water_pct": 0.16
+  },
+  "FRK27": {
+    "water_area_km2": 49.72,
+    "water_bodies_count": 5,
+    "water_pct": 0.79
+  },
+  "FRK28": {
+    "water_area_km2": 170.19,
+    "water_bodies_count": 2,
+    "water_pct": 3.57
+  },
+  "FRL01": {
+    "water_area_km2": 32.7,
+    "water_bodies_count": 11,
+    "water_pct": 0.46
+  },
+  "FRL02": {
+    "water_area_km2": 43.48,
+    "water_bodies_count": 5,
+    "water_pct": 0.76
+  },
+  "FRL04": {
+    "water_area_km2": 360.42,
+    "water_bodies_count": 27,
+    "water_pct": 6.82
+  },
+  "FRL05": {
+    "water_area_km2": 4.3,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "FRL06": {
+    "water_area_km2": 26.36,
+    "water_bodies_count": 3,
+    "water_pct": 0.74
+  },
+  "FRM02": {
+    "water_area_km2": 10.24,
+    "water_bodies_count": 3,
+    "water_pct": 0.21
+  },
+  "HR021": {
+    "water_area_km2": 6.21,
+    "water_bodies_count": 3,
+    "water_pct": 0.23
+  },
+  "HR022": {
+    "water_area_km2": 11.28,
+    "water_bodies_count": 2,
+    "water_pct": 0.57
+  },
+  "HR024": {
+    "water_area_km2": 10.99,
+    "water_bodies_count": 4,
+    "water_pct": 0.54
+  },
+  "HR025": {
+    "water_area_km2": 67.1,
+    "water_bodies_count": 29,
+    "water_pct": 1.6
+  },
+  "HR026": {
+    "water_area_km2": 40.36,
+    "water_bodies_count": 7,
+    "water_pct": 1.6
+  },
+  "HR027": {
+    "water_area_km2": 1.35,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "HR028": {
+    "water_area_km2": 1.42,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "HR031": {
+    "water_area_km2": 5.64,
+    "water_bodies_count": 2,
+    "water_pct": 0.15
+  },
+  "HR032": {
+    "water_area_km2": 16.42,
+    "water_bodies_count": 3,
+    "water_pct": 0.31
+  },
+  "HR033": {
+    "water_area_km2": 57.54,
+    "water_bodies_count": 3,
+    "water_pct": 1.65
+  },
+  "HR034": {
+    "water_area_km2": 33.79,
+    "water_bodies_count": 4,
+    "water_pct": 1.11
+  },
+  "HR035": {
+    "water_area_km2": 23.45,
+    "water_bodies_count": 2,
+    "water_pct": 0.53
+  },
+  "HR037": {
+    "water_area_km2": 2.83,
+    "water_bodies_count": 4,
+    "water_pct": 0.2
+  },
+  "HR050": {
+    "water_area_km2": 3.82,
+    "water_bodies_count": 4,
+    "water_pct": 0.66
+  },
+  "HR063": {
+    "water_area_km2": 5.51,
+    "water_bodies_count": 2,
+    "water_pct": 0.3
+  },
+  "HR065": {
+    "water_area_km2": 15.75,
+    "water_bodies_count": 3,
+    "water_pct": 0.49
+  },
+  "HU110": {
+    "water_area_km2": 15.24,
+    "water_bodies_count": 1,
+    "water_pct": 2.91
+  },
+  "HU120": {
+    "water_area_km2": 83.5,
+    "water_bodies_count": 11,
+    "water_pct": 1.31
+  },
+  "HU211": {
+    "water_area_km2": 41.01,
+    "water_bodies_count": 5,
+    "water_pct": 0.93
+  },
+  "HU212": {
+    "water_area_km2": 55.79,
+    "water_bodies_count": 5,
+    "water_pct": 2.31
+  },
+  "HU213": {
+    "water_area_km2": 302.23,
+    "water_bodies_count": 1,
+    "water_pct": 6.61
+  },
+  "HU221": {
+    "water_area_km2": 57.19,
+    "water_bodies_count": 5,
+    "water_pct": 1.38
+  },
+  "HU223": {
+    "water_area_km2": 47.46,
+    "water_bodies_count": 2,
+    "water_pct": 1.28
+  },
+  "HU231": {
+    "water_area_km2": 36.76,
+    "water_bodies_count": 11,
+    "water_pct": 0.83
+  },
+  "HU232": {
+    "water_area_km2": 245.71,
+    "water_bodies_count": 9,
+    "water_pct": 4.07
+  },
+  "HU233": {
+    "water_area_km2": 33.38,
+    "water_bodies_count": 9,
+    "water_pct": 0.93
+  },
+  "HU311": {
+    "water_area_km2": 30.96,
+    "water_bodies_count": 4,
+    "water_pct": 0.44
+  },
+  "HU312": {
+    "water_area_km2": 49.57,
+    "water_bodies_count": 1,
+    "water_pct": 1.34
+  },
+  "HU321": {
+    "water_area_km2": 24.95,
+    "water_bodies_count": 11,
+    "water_pct": 0.39
+  },
+  "HU322": {
+    "water_area_km2": 66.23,
+    "water_bodies_count": 4,
+    "water_pct": 1.21
+  },
+  "HU323": {
+    "water_area_km2": 1.38,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "HU331": {
+    "water_area_km2": 101.28,
+    "water_bodies_count": 18,
+    "water_pct": 1.19
+  },
+  "HU332": {
+    "water_area_km2": 1.45,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "HU333": {
+    "water_area_km2": 21.47,
+    "water_bodies_count": 8,
+    "water_pct": 0.49
+  },
+  "IE041": {
+    "water_area_km2": 238.9,
+    "water_bodies_count": 119,
+    "water_pct": 2.1
+  },
+  "IE042": {
+    "water_area_km2": 566.59,
+    "water_bodies_count": 114,
+    "water_pct": 3.99
+  },
+  "IE051": {
+    "water_area_km2": 121.71,
+    "water_bodies_count": 30,
+    "water_pct": 1.18
+  },
+  "IE052": {
+    "water_area_km2": 28.76,
+    "water_bodies_count": 10,
+    "water_pct": 0.4
+  },
+  "IE053": {
+    "water_area_km2": 71.08,
+    "water_bodies_count": 26,
+    "water_pct": 0.59
+  },
+  "IE061": {
+    "water_area_km2": 0.49,
+    "water_bodies_count": 1,
+    "water_pct": 0.06
+  },
+  "IE062": {
+    "water_area_km2": 42.6,
+    "water_bodies_count": 11,
+    "water_pct": 0.6
+  },
+  "IE063": {
+    "water_area_km2": 137.17,
+    "water_bodies_count": 25,
+    "water_pct": 2.08
+  },
+  "IS001": {
+    "water_area_km2": 6.14,
+    "water_bodies_count": 5,
+    "water_pct": 0.61
+  },
+  "IS002": {
+    "water_area_km2": 1441.83,
+    "water_bodies_count": 487,
+    "water_pct": 1.41
+  },
+  "ITC11": {
+    "water_area_km2": 15.62,
+    "water_bodies_count": 7,
+    "water_pct": 0.22
+  },
+  "ITC12": {
+    "water_area_km2": 6.69,
+    "water_bodies_count": 1,
+    "water_pct": 0.32
+  },
+  "ITC13": {
+    "water_area_km2": 5.16,
+    "water_bodies_count": 1,
+    "water_pct": 0.63
+  },
+  "ITC14": {
+    "water_area_km2": 94.9,
+    "water_bodies_count": 3,
+    "water_pct": 4.12
+  },
+  "ITC15": {
+    "water_area_km2": 39.13,
+    "water_bodies_count": 3,
+    "water_pct": 2.87
+  },
+  "ITC17": {
+    "water_area_km2": 4.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.28
+  },
+  "ITC18": {
+    "water_area_km2": 38.77,
+    "water_bodies_count": 4,
+    "water_pct": 1.12
+  },
+  "ITC20": {
+    "water_area_km2": 0.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "ITC33": {
+    "water_area_km2": 7.15,
+    "water_bodies_count": 5,
+    "water_pct": 0.37
+  },
+  "ITC41": {
+    "water_area_km2": 79.6,
+    "water_bodies_count": 6,
+    "water_pct": 6.74
+  },
+  "ITC42": {
+    "water_area_km2": 138.88,
+    "water_bodies_count": 4,
+    "water_pct": 10.66
+  },
+  "ITC43": {
+    "water_area_km2": 31.3,
+    "water_bodies_count": 5,
+    "water_pct": 4.01
+  },
+  "ITC44": {
+    "water_area_km2": 14.97,
+    "water_bodies_count": 8,
+    "water_pct": 0.45
+  },
+  "ITC46": {
+    "water_area_km2": 24.09,
+    "water_bodies_count": 3,
+    "water_pct": 0.89
+  },
+  "ITC47": {
+    "water_area_km2": 263.09,
+    "water_bodies_count": 4,
+    "water_pct": 5.59
+  },
+  "ITC48": {
+    "water_area_km2": 95.01,
+    "water_bodies_count": 1,
+    "water_pct": 3.31
+  },
+  "ITC49": {
+    "water_area_km2": 26.36,
+    "water_bodies_count": 4,
+    "water_pct": 3.76
+  },
+  "ITC4A": {
+    "water_area_km2": 61.49,
+    "water_bodies_count": 4,
+    "water_pct": 3.28
+  },
+  "ITC4B": {
+    "water_area_km2": 60.4,
+    "water_bodies_count": 2,
+    "water_pct": 2.53
+  },
+  "ITC4C": {
+    "water_area_km2": 21.96,
+    "water_bodies_count": 2,
+    "water_pct": 1.33
+  },
+  "ITF11": {
+    "water_area_km2": 13.15,
+    "water_bodies_count": 2,
+    "water_pct": 0.26
+  },
+  "ITF13": {
+    "water_area_km2": 5.38,
+    "water_bodies_count": 1,
+    "water_pct": 0.45
+  },
+  "ITF14": {
+    "water_area_km2": 10.37,
+    "water_bodies_count": 4,
+    "water_pct": 0.42
+  },
+  "ITF22": {
+    "water_area_km2": 49.6,
+    "water_bodies_count": 3,
+    "water_pct": 1.69
+  },
+  "ITF31": {
+    "water_area_km2": 7.37,
+    "water_bodies_count": 2,
+    "water_pct": 0.27
+  },
+  "ITF32": {
+    "water_area_km2": 4.28,
+    "water_bodies_count": 1,
+    "water_pct": 0.21
+  },
+  "ITF35": {
+    "water_area_km2": 0.42,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "ITF43": {
+    "water_area_km2": 18.29,
+    "water_bodies_count": 1,
+    "water_pct": 0.76
+  },
+  "ITF45": {
+    "water_area_km2": 0.91,
+    "water_bodies_count": 2,
+    "water_pct": 0.03
+  },
+  "ITF46": {
+    "water_area_km2": 123.11,
+    "water_bodies_count": 7,
+    "water_pct": 1.77
+  },
+  "ITF51": {
+    "water_area_km2": 33.96,
+    "water_bodies_count": 3,
+    "water_pct": 0.5
+  },
+  "ITF52": {
+    "water_area_km2": 53.25,
+    "water_bodies_count": 3,
+    "water_pct": 1.58
+  },
+  "ITF61": {
+    "water_area_km2": 25.6,
+    "water_bodies_count": 3,
+    "water_pct": 0.38
+  },
+  "ITF62": {
+    "water_area_km2": 0.0,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "ITF63": {
+    "water_area_km2": 0.04,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "ITG11": {
+    "water_area_km2": 6.63,
+    "water_bodies_count": 1,
+    "water_pct": 0.27
+  },
+  "ITG12": {
+    "water_area_km2": 12.41,
+    "water_bodies_count": 4,
+    "water_pct": 0.25
+  },
+  "ITG13": {
+    "water_area_km2": 2.19,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "ITG14": {
+    "water_area_km2": 4.78,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "ITG15": {
+    "water_area_km2": 0.88,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "ITG16": {
+    "water_area_km2": 8.03,
+    "water_bodies_count": 2,
+    "water_pct": 0.32
+  },
+  "ITG17": {
+    "water_area_km2": 11.29,
+    "water_bodies_count": 1,
+    "water_pct": 0.32
+  },
+  "ITG18": {
+    "water_area_km2": 2.07,
+    "water_bodies_count": 2,
+    "water_pct": 0.14
+  },
+  "ITG19": {
+    "water_area_km2": 3.39,
+    "water_bodies_count": 2,
+    "water_pct": 0.15
+  },
+  "ITG2D": {
+    "water_area_km2": 24.78,
+    "water_bodies_count": 7,
+    "water_pct": 0.32
+  },
+  "ITG2E": {
+    "water_area_km2": 5.66,
+    "water_bodies_count": 2,
+    "water_pct": 0.1
+  },
+  "ITG2F": {
+    "water_area_km2": 28.67,
+    "water_bodies_count": 4,
+    "water_pct": 2.25
+  },
+  "ITG2G": {
+    "water_area_km2": 55.73,
+    "water_bodies_count": 8,
+    "water_pct": 1.92
+  },
+  "ITG2H": {
+    "water_area_km2": 24.66,
+    "water_bodies_count": 6,
+    "water_pct": 0.37
+  },
+  "ITH10": {
+    "water_area_km2": 8.46,
+    "water_bodies_count": 3,
+    "water_pct": 0.11
+  },
+  "ITH20": {
+    "water_area_km2": 39.19,
+    "water_bodies_count": 10,
+    "water_pct": 0.65
+  },
+  "ITH31": {
+    "water_area_km2": 140.9,
+    "water_bodies_count": 8,
+    "water_pct": 4.6
+  },
+  "ITH33": {
+    "water_area_km2": 22.42,
+    "water_bodies_count": 6,
+    "water_pct": 0.6
+  },
+  "ITH34": {
+    "water_area_km2": 34.64,
+    "water_bodies_count": 4,
+    "water_pct": 1.37
+  },
+  "ITH35": {
+    "water_area_km2": 42.82,
+    "water_bodies_count": 9,
+    "water_pct": 2.01
+  },
+  "ITH36": {
+    "water_area_km2": 3.46,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "ITH37": {
+    "water_area_km2": 82.99,
+    "water_bodies_count": 20,
+    "water_pct": 4.56
+  },
+  "ITH41": {
+    "water_area_km2": 12.33,
+    "water_bodies_count": 3,
+    "water_pct": 0.56
+  },
+  "ITH42": {
+    "water_area_km2": 10.97,
+    "water_bodies_count": 9,
+    "water_pct": 0.21
+  },
+  "ITH43": {
+    "water_area_km2": 4.14,
+    "water_bodies_count": 2,
+    "water_pct": 1.28
+  },
+  "ITH51": {
+    "water_area_km2": 32.22,
+    "water_bodies_count": 3,
+    "water_pct": 1.22
+  },
+  "ITH52": {
+    "water_area_km2": 26.14,
+    "water_bodies_count": 5,
+    "water_pct": 0.76
+  },
+  "ITH53": {
+    "water_area_km2": 14.85,
+    "water_bodies_count": 3,
+    "water_pct": 0.65
+  },
+  "ITH55": {
+    "water_area_km2": 2.12,
+    "water_bodies_count": 3,
+    "water_pct": 0.06
+  },
+  "ITH56": {
+    "water_area_km2": 134.28,
+    "water_bodies_count": 11,
+    "water_pct": 4.89
+  },
+  "ITH57": {
+    "water_area_km2": 17.7,
+    "water_bodies_count": 3,
+    "water_pct": 0.96
+  },
+  "ITI12": {
+    "water_area_km2": 15.37,
+    "water_bodies_count": 2,
+    "water_pct": 0.87
+  },
+  "ITI19": {
+    "water_area_km2": 1.43,
+    "water_bodies_count": 2,
+    "water_pct": 0.04
+  },
+  "ITI1A": {
+    "water_area_km2": 21.04,
+    "water_bodies_count": 3,
+    "water_pct": 0.45
+  },
+  "ITI21": {
+    "water_area_km2": 122.56,
+    "water_bodies_count": 2,
+    "water_pct": 1.91
+  },
+  "ITI22": {
+    "water_area_km2": 17.43,
+    "water_bodies_count": 3,
+    "water_pct": 0.83
+  },
+  "ITI41": {
+    "water_area_km2": 127.1,
+    "water_bodies_count": 3,
+    "water_pct": 3.59
+  },
+  "ITI42": {
+    "water_area_km2": 15.49,
+    "water_bodies_count": 5,
+    "water_pct": 0.57
+  },
+  "ITI43": {
+    "water_area_km2": 62.87,
+    "water_bodies_count": 4,
+    "water_pct": 1.15
+  },
+  "ITI44": {
+    "water_area_km2": 15.74,
+    "water_bodies_count": 6,
+    "water_pct": 0.68
+  },
+  "ITI45": {
+    "water_area_km2": 0.84,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "LT011": {
+    "water_area_km2": 99.89,
+    "water_bodies_count": 82,
+    "water_pct": 1.03
+  },
+  "LT021": {
+    "water_area_km2": 130.79,
+    "water_bodies_count": 54,
+    "water_pct": 2.46
+  },
+  "LT022": {
+    "water_area_km2": 93.14,
+    "water_bodies_count": 12,
+    "water_pct": 1.13
+  },
+  "LT023": {
+    "water_area_km2": 23.1,
+    "water_bodies_count": 4,
+    "water_pct": 0.48
+  },
+  "LT024": {
+    "water_area_km2": 18.41,
+    "water_bodies_count": 8,
+    "water_pct": 0.42
+  },
+  "LT025": {
+    "water_area_km2": 32.9,
+    "water_bodies_count": 16,
+    "water_pct": 0.42
+  },
+  "LT026": {
+    "water_area_km2": 17.07,
+    "water_bodies_count": 12,
+    "water_pct": 0.2
+  },
+  "LT027": {
+    "water_area_km2": 32.9,
+    "water_bodies_count": 8,
+    "water_pct": 0.75
+  },
+  "LT028": {
+    "water_area_km2": 47.14,
+    "water_bodies_count": 15,
+    "water_pct": 1.09
+  },
+  "LT029": {
+    "water_area_km2": 359.5,
+    "water_bodies_count": 138,
+    "water_pct": 5.01
+  },
+  "LU000": {
+    "water_area_km2": 1.52,
+    "water_bodies_count": 3,
+    "water_pct": 0.06
+  },
+  "LV005": {
+    "water_area_km2": 441.22,
+    "water_bodies_count": 122,
+    "water_pct": 3.03
+  },
+  "LV009": {
+    "water_area_km2": 64.77,
+    "water_bodies_count": 19,
+    "water_pct": 0.6
+  },
+  "LV00A": {
+    "water_area_km2": 119.71,
+    "water_bodies_count": 13,
+    "water_pct": 3.41
+  },
+  "LV00B": {
+    "water_area_km2": 212.72,
+    "water_bodies_count": 28,
+    "water_pct": 1.32
+  },
+  "LV00C": {
+    "water_area_km2": 217.44,
+    "water_bodies_count": 57,
+    "water_pct": 1.1
+  },
+  "ME000": {
+    "water_area_km2": 292.39,
+    "water_bodies_count": 12,
+    "water_pct": 2.1
+  },
+  "MK001": {
+    "water_area_km2": 0.83,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "MK003": {
+    "water_area_km2": 299.23,
+    "water_bodies_count": 2,
+    "water_pct": 8.33
+  },
+  "MK004": {
+    "water_area_km2": 23.36,
+    "water_bodies_count": 2,
+    "water_pct": 0.85
+  },
+  "MK005": {
+    "water_area_km2": 196.13,
+    "water_bodies_count": 1,
+    "water_pct": 4.03
+  },
+  "MK006": {
+    "water_area_km2": 11.99,
+    "water_bodies_count": 1,
+    "water_pct": 0.5
+  },
+  "NL112": {
+    "water_area_km2": 1.56,
+    "water_bodies_count": 2,
+    "water_pct": 0.81
+  },
+  "NL114": {
+    "water_area_km2": 0.62,
+    "water_bodies_count": 1,
+    "water_pct": 0.08
+  },
+  "NL115": {
+    "water_area_km2": 19.52,
+    "water_bodies_count": 6,
+    "water_pct": 1.33
+  },
+  "NL126": {
+    "water_area_km2": 3.47,
+    "water_bodies_count": 5,
+    "water_pct": 0.36
+  },
+  "NL127": {
+    "water_area_km2": 36.73,
+    "water_bodies_count": 10,
+    "water_pct": 2.64
+  },
+  "NL128": {
+    "water_area_km2": 513.7,
+    "water_bodies_count": 21,
+    "water_pct": 34.68
+  },
+  "NL131": {
+    "water_area_km2": 0.36,
+    "water_bodies_count": 2,
+    "water_pct": 0.04
+  },
+  "NL211": {
+    "water_area_km2": 53.97,
+    "water_bodies_count": 9,
+    "water_pct": 3.35
+  },
+  "NL221": {
+    "water_area_km2": 45.14,
+    "water_bodies_count": 3,
+    "water_pct": 2.32
+  },
+  "NL224": {
+    "water_area_km2": 30.38,
+    "water_bodies_count": 2,
+    "water_pct": 4.18
+  },
+  "NL226": {
+    "water_area_km2": 30.3,
+    "water_bodies_count": 2,
+    "water_pct": 3.56
+  },
+  "NL230": {
+    "water_area_km2": 980.75,
+    "water_bodies_count": 4,
+    "water_pct": 42.96
+  },
+  "NL321": {
+    "water_area_km2": 396.96,
+    "water_bodies_count": 4,
+    "water_pct": 25.07
+  },
+  "NL323": {
+    "water_area_km2": 2.92,
+    "water_bodies_count": 2,
+    "water_pct": 1.67
+  },
+  "NL325": {
+    "water_area_km2": 6.33,
+    "water_bodies_count": 2,
+    "water_pct": 6.25
+  },
+  "NL327": {
+    "water_area_km2": 65.02,
+    "water_bodies_count": 12,
+    "water_pct": 25.31
+  },
+  "NL328": {
+    "water_area_km2": 4.2,
+    "water_bodies_count": 2,
+    "water_pct": 1.18
+  },
+  "NL32A": {
+    "water_area_km2": 0.53,
+    "water_bodies_count": 1,
+    "water_pct": 0.5
+  },
+  "NL32B": {
+    "water_area_km2": 101.42,
+    "water_bodies_count": 11,
+    "water_pct": 11.3
+  },
+  "NL341": {
+    "water_area_km2": 4.04,
+    "water_bodies_count": 5,
+    "water_pct": 0.66
+  },
+  "NL342": {
+    "water_area_km2": 16.74,
+    "water_bodies_count": 1,
+    "water_pct": 1.45
+  },
+  "NL350": {
+    "water_area_km2": 46.44,
+    "water_bodies_count": 12,
+    "water_pct": 2.85
+  },
+  "NL361": {
+    "water_area_km2": 1.28,
+    "water_bodies_count": 1,
+    "water_pct": 0.47
+  },
+  "NL363": {
+    "water_area_km2": 11.11,
+    "water_bodies_count": 3,
+    "water_pct": 3.42
+  },
+  "NL364": {
+    "water_area_km2": 47.02,
+    "water_bodies_count": 2,
+    "water_pct": 10.94
+  },
+  "NL365": {
+    "water_area_km2": 16.51,
+    "water_bodies_count": 10,
+    "water_pct": 3.27
+  },
+  "NL366": {
+    "water_area_km2": 67.36,
+    "water_bodies_count": 6,
+    "water_pct": 4.6
+  },
+  "NL411": {
+    "water_area_km2": 30.04,
+    "water_bodies_count": 1,
+    "water_pct": 2.38
+  },
+  "NL414": {
+    "water_area_km2": 2.93,
+    "water_bodies_count": 4,
+    "water_pct": 0.19
+  },
+  "NL415": {
+    "water_area_km2": 22.19,
+    "water_bodies_count": 3,
+    "water_pct": 2.62
+  },
+  "NL416": {
+    "water_area_km2": 9.55,
+    "water_bodies_count": 4,
+    "water_pct": 0.71
+  },
+  "NL421": {
+    "water_area_km2": 2.07,
+    "water_bodies_count": 4,
+    "water_pct": 0.24
+  },
+  "NL422": {
+    "water_area_km2": 15.91,
+    "water_bodies_count": 6,
+    "water_pct": 2.3
+  },
+  "NO020": {
+    "water_area_km2": 1808.89,
+    "water_bodies_count": 355,
+    "water_pct": 3.47
+  },
+  "NO060": {
+    "water_area_km2": 1499.44,
+    "water_bodies_count": 367,
+    "water_pct": 3.48
+  },
+  "NO071": {
+    "water_area_km2": 1135.13,
+    "water_bodies_count": 336,
+    "water_pct": 2.84
+  },
+  "NO072": {
+    "water_area_km2": 408.18,
+    "water_bodies_count": 164,
+    "water_pct": 1.5
+  },
+  "NO073": {
+    "water_area_km2": 975.33,
+    "water_bodies_count": 506,
+    "water_pct": 1.98
+  },
+  "NO081": {
+    "water_area_km2": 11.83,
+    "water_bodies_count": 7,
+    "water_pct": 2.47
+  },
+  "NO083": {
+    "water_area_km2": 274.09,
+    "water_bodies_count": 41,
+    "water_pct": 6.71
+  },
+  "NO084": {
+    "water_area_km2": 279.08,
+    "water_bodies_count": 53,
+    "water_pct": 4.49
+  },
+  "NO085": {
+    "water_area_km2": 601.95,
+    "water_bodies_count": 123,
+    "water_pct": 4.14
+  },
+  "NO092": {
+    "water_area_km2": 570.96,
+    "water_bodies_count": 288,
+    "water_pct": 3.43
+  },
+  "NO093": {
+    "water_area_km2": 56.78,
+    "water_bodies_count": 16,
+    "water_pct": 2.65
+  },
+  "NO094": {
+    "water_area_km2": 886.34,
+    "water_bodies_count": 189,
+    "water_pct": 5.81
+  },
+  "NO0A1": {
+    "water_area_km2": 333.35,
+    "water_bodies_count": 151,
+    "water_pct": 3.46
+  },
+  "NO0A2": {
+    "water_area_km2": 734.53,
+    "water_bodies_count": 377,
+    "water_pct": 2.03
+  },
+  "NO0A3": {
+    "water_area_km2": 192.33,
+    "water_bodies_count": 109,
+    "water_pct": 1.27
+  },
+  "NO0B1": {
+    "water_area_km2": 7.16,
+    "water_bodies_count": 3,
+    "water_pct": 1.52
+  },
+  "PL217": {
+    "water_area_km2": 1.53,
+    "water_bodies_count": 2,
+    "water_pct": 0.06
+  },
+  "PL218": {
+    "water_area_km2": 12.11,
+    "water_bodies_count": 1,
+    "water_pct": 0.35
+  },
+  "PL219": {
+    "water_area_km2": 0.63,
+    "water_bodies_count": 2,
+    "water_pct": 0.02
+  },
+  "PL21A": {
+    "water_area_km2": 1.88,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "PL224": {
+    "water_area_km2": 0.48,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "PL225": {
+    "water_area_km2": 22.91,
+    "water_bodies_count": 3,
+    "water_pct": 0.95
+  },
+  "PL228": {
+    "water_area_km2": 3.38,
+    "water_bodies_count": 1,
+    "water_pct": 0.21
+  },
+  "PL229": {
+    "water_area_km2": 0.64,
+    "water_bodies_count": 1,
+    "water_pct": 0.08
+  },
+  "PL22C": {
+    "water_area_km2": 13.66,
+    "water_bodies_count": 2,
+    "water_pct": 1.43
+  },
+  "PL411": {
+    "water_area_km2": 70.5,
+    "water_bodies_count": 42,
+    "water_pct": 1.1
+  },
+  "PL414": {
+    "water_area_km2": 89.97,
+    "water_bodies_count": 37,
+    "water_pct": 1.4
+  },
+  "PL415": {
+    "water_area_km2": 3.28,
+    "water_bodies_count": 2,
+    "water_pct": 1.33
+  },
+  "PL416": {
+    "water_area_km2": 4.49,
+    "water_bodies_count": 7,
+    "water_pct": 0.08
+  },
+  "PL417": {
+    "water_area_km2": 61.95,
+    "water_bodies_count": 55,
+    "water_pct": 1.03
+  },
+  "PL418": {
+    "water_area_km2": 40.87,
+    "water_bodies_count": 36,
+    "water_pct": 0.83
+  },
+  "PL424": {
+    "water_area_km2": 57.16,
+    "water_bodies_count": 2,
+    "water_pct": 24.23
+  },
+  "PL426": {
+    "water_area_km2": 27.6,
+    "water_bodies_count": 17,
+    "water_pct": 0.64
+  },
+  "PL427": {
+    "water_area_km2": 312.24,
+    "water_bodies_count": 168,
+    "water_pct": 3.03
+  },
+  "PL428": {
+    "water_area_km2": 154.08,
+    "water_bodies_count": 56,
+    "water_pct": 1.99
+  },
+  "PL431": {
+    "water_area_km2": 69.59,
+    "water_bodies_count": 58,
+    "water_pct": 1.13
+  },
+  "PL432": {
+    "water_area_km2": 45.31,
+    "water_bodies_count": 36,
+    "water_pct": 0.58
+  },
+  "PL515": {
+    "water_area_km2": 17.95,
+    "water_bodies_count": 15,
+    "water_pct": 0.32
+  },
+  "PL516": {
+    "water_area_km2": 9.79,
+    "water_bodies_count": 5,
+    "water_pct": 0.28
+  },
+  "PL518": {
+    "water_area_km2": 23.73,
+    "water_bodies_count": 17,
+    "water_pct": 0.37
+  },
+  "PL523": {
+    "water_area_km2": 31.45,
+    "water_bodies_count": 2,
+    "water_pct": 0.77
+  },
+  "PL524": {
+    "water_area_km2": 39.11,
+    "water_bodies_count": 5,
+    "water_pct": 0.74
+  },
+  "PL613": {
+    "water_area_km2": 51.37,
+    "water_bodies_count": 14,
+    "water_pct": 1.82
+  },
+  "PL616": {
+    "water_area_km2": 87.44,
+    "water_bodies_count": 56,
+    "water_pct": 2.13
+  },
+  "PL617": {
+    "water_area_km2": 87.21,
+    "water_bodies_count": 49,
+    "water_pct": 2.19
+  },
+  "PL618": {
+    "water_area_km2": 64.09,
+    "water_bodies_count": 46,
+    "water_pct": 1.9
+  },
+  "PL619": {
+    "water_area_km2": 108.73,
+    "water_bodies_count": 32,
+    "water_pct": 2.92
+  },
+  "PL621": {
+    "water_area_km2": 215.46,
+    "water_bodies_count": 78,
+    "water_pct": 2.92
+  },
+  "PL622": {
+    "water_area_km2": 320.07,
+    "water_bodies_count": 117,
+    "water_pct": 3.07
+  },
+  "PL623": {
+    "water_area_km2": 477.51,
+    "water_bodies_count": 73,
+    "water_pct": 7.61
+  },
+  "PL633": {
+    "water_area_km2": 1.39,
+    "water_bodies_count": 2,
+    "water_pct": 0.31
+  },
+  "PL634": {
+    "water_area_km2": 63.99,
+    "water_bodies_count": 36,
+    "water_pct": 1.53
+  },
+  "PL636": {
+    "water_area_km2": 152.91,
+    "water_bodies_count": 49,
+    "water_pct": 2.85
+  },
+  "PL637": {
+    "water_area_km2": 137.81,
+    "water_bodies_count": 61,
+    "water_pct": 3.37
+  },
+  "PL638": {
+    "water_area_km2": 83.8,
+    "water_bodies_count": 33,
+    "water_pct": 2.04
+  },
+  "PL713": {
+    "water_area_km2": 1.52,
+    "water_bodies_count": 4,
+    "water_pct": 0.03
+  },
+  "PL714": {
+    "water_area_km2": 0.02,
+    "water_bodies_count": 1,
+    "water_pct": 0.0
+  },
+  "PL715": {
+    "water_area_km2": 10.16,
+    "water_bodies_count": 4,
+    "water_pct": 0.24
+  },
+  "PL721": {
+    "water_area_km2": 1.49,
+    "water_bodies_count": 4,
+    "water_pct": 0.03
+  },
+  "PL722": {
+    "water_area_km2": 18.7,
+    "water_bodies_count": 9,
+    "water_pct": 0.28
+  },
+  "PL811": {
+    "water_area_km2": 15.32,
+    "water_bodies_count": 10,
+    "water_pct": 0.25
+  },
+  "PL812": {
+    "water_area_km2": 8.5,
+    "water_bodies_count": 8,
+    "water_pct": 0.09
+  },
+  "PL814": {
+    "water_area_km2": 21.91,
+    "water_bodies_count": 21,
+    "water_pct": 0.53
+  },
+  "PL815": {
+    "water_area_km2": 68.33,
+    "water_bodies_count": 19,
+    "water_pct": 1.25
+  },
+  "PL821": {
+    "water_area_km2": 12.55,
+    "water_bodies_count": 2,
+    "water_pct": 0.22
+  },
+  "PL822": {
+    "water_area_km2": 1.91,
+    "water_bodies_count": 2,
+    "water_pct": 0.04
+  },
+  "PL823": {
+    "water_area_km2": 0.8,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "PL824": {
+    "water_area_km2": 10.37,
+    "water_bodies_count": 8,
+    "water_pct": 0.23
+  },
+  "PL841": {
+    "water_area_km2": 2.92,
+    "water_bodies_count": 4,
+    "water_pct": 0.06
+  },
+  "PL842": {
+    "water_area_km2": 0.63,
+    "water_bodies_count": 2,
+    "water_pct": 0.01
+  },
+  "PL843": {
+    "water_area_km2": 128.71,
+    "water_bodies_count": 52,
+    "water_pct": 2.04
+  },
+  "PL911": {
+    "water_area_km2": 16.37,
+    "water_bodies_count": 1,
+    "water_pct": 3.54
+  },
+  "PL912": {
+    "water_area_km2": 32.05,
+    "water_bodies_count": 3,
+    "water_pct": 1.0
+  },
+  "PL913": {
+    "water_area_km2": 43.02,
+    "water_bodies_count": 3,
+    "water_pct": 1.73
+  },
+  "PL921": {
+    "water_area_km2": 41.91,
+    "water_bodies_count": 5,
+    "water_pct": 0.72
+  },
+  "PL922": {
+    "water_area_km2": 18.03,
+    "water_bodies_count": 5,
+    "water_pct": 0.34
+  },
+  "PL923": {
+    "water_area_km2": 78.68,
+    "water_bodies_count": 11,
+    "water_pct": 2.39
+  },
+  "PL924": {
+    "water_area_km2": 1.67,
+    "water_bodies_count": 2,
+    "water_pct": 0.03
+  },
+  "PL925": {
+    "water_area_km2": 24.73,
+    "water_bodies_count": 2,
+    "water_pct": 0.41
+  },
+  "PL926": {
+    "water_area_km2": 16.9,
+    "water_bodies_count": 4,
+    "water_pct": 0.69
+  },
+  "PT111": {
+    "water_area_km2": 15.83,
+    "water_bodies_count": 1,
+    "water_pct": 0.71
+  },
+  "PT112": {
+    "water_area_km2": 8.42,
+    "water_bodies_count": 2,
+    "water_pct": 0.68
+  },
+  "PT119": {
+    "water_area_km2": 5.89,
+    "water_bodies_count": 2,
+    "water_pct": 0.4
+  },
+  "PT11A": {
+    "water_area_km2": 14.11,
+    "water_bodies_count": 1,
+    "water_pct": 0.65
+  },
+  "PT11B": {
+    "water_area_km2": 39.07,
+    "water_bodies_count": 6,
+    "water_pct": 1.36
+  },
+  "PT11C": {
+    "water_area_km2": 3.77,
+    "water_bodies_count": 1,
+    "water_pct": 0.22
+  },
+  "PT11D": {
+    "water_area_km2": 6.52,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "PT11E": {
+    "water_area_km2": 4.72,
+    "water_bodies_count": 3,
+    "water_pct": 0.09
+  },
+  "PT150": {
+    "water_area_km2": 12.94,
+    "water_bodies_count": 3,
+    "water_pct": 0.26
+  },
+  "PT191": {
+    "water_area_km2": 21.74,
+    "water_bodies_count": 3,
+    "water_pct": 1.39
+  },
+  "PT192": {
+    "water_area_km2": 42.99,
+    "water_bodies_count": 5,
+    "water_pct": 0.98
+  },
+  "PT193": {
+    "water_area_km2": 0.94,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "PT194": {
+    "water_area_km2": 12.38,
+    "water_bodies_count": 1,
+    "water_pct": 0.39
+  },
+  "PT195": {
+    "water_area_km2": 54.35,
+    "water_bodies_count": 6,
+    "water_pct": 1.03
+  },
+  "PT196": {
+    "water_area_km2": 0.42,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "PT1B0": {
+    "water_area_km2": 2.18,
+    "water_bodies_count": 2,
+    "water_pct": 0.15
+  },
+  "PT1C1": {
+    "water_area_km2": 52.0,
+    "water_bodies_count": 8,
+    "water_pct": 0.99
+  },
+  "PT1C2": {
+    "water_area_km2": 88.22,
+    "water_bodies_count": 9,
+    "water_pct": 1.03
+  },
+  "PT1C3": {
+    "water_area_km2": 99.71,
+    "water_bodies_count": 7,
+    "water_pct": 1.67
+  },
+  "PT1C4": {
+    "water_area_km2": 212.77,
+    "water_bodies_count": 8,
+    "water_pct": 2.82
+  },
+  "PT1D2": {
+    "water_area_km2": 39.95,
+    "water_bodies_count": 2,
+    "water_pct": 1.55
+  },
+  "PT1D3": {
+    "water_area_km2": 1.41,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "RO114": {
+    "water_area_km2": 0.73,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "RO124": {
+    "water_area_km2": 2.42,
+    "water_bodies_count": 1,
+    "water_pct": 0.04
+  },
+  "RO125": {
+    "water_area_km2": 0.89,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "RO212": {
+    "water_area_km2": 38.65,
+    "water_bodies_count": 16,
+    "water_pct": 0.75
+  },
+  "RO213": {
+    "water_area_km2": 4.18,
+    "water_bodies_count": 5,
+    "water_pct": 0.08
+  },
+  "RO214": {
+    "water_area_km2": 28.46,
+    "water_bodies_count": 1,
+    "water_pct": 0.49
+  },
+  "RO216": {
+    "water_area_km2": 4.02,
+    "water_bodies_count": 2,
+    "water_pct": 0.07
+  },
+  "RO221": {
+    "water_area_km2": 183.74,
+    "water_bodies_count": 26,
+    "water_pct": 3.85
+  },
+  "RO222": {
+    "water_area_km2": 11.44,
+    "water_bodies_count": 3,
+    "water_pct": 0.19
+  },
+  "RO223": {
+    "water_area_km2": 353.11,
+    "water_bodies_count": 23,
+    "water_pct": 4.91
+  },
+  "RO224": {
+    "water_area_km2": 72.0,
+    "water_bodies_count": 11,
+    "water_pct": 1.64
+  },
+  "RO225": {
+    "water_area_km2": 1011.86,
+    "water_bodies_count": 86,
+    "water_pct": 12.06
+  },
+  "RO226": {
+    "water_area_km2": 2.97,
+    "water_bodies_count": 3,
+    "water_pct": 0.06
+  },
+  "RO311": {
+    "water_area_km2": 11.24,
+    "water_bodies_count": 1,
+    "water_pct": 0.17
+  },
+  "RO312": {
+    "water_area_km2": 156.76,
+    "water_bodies_count": 8,
+    "water_pct": 3.05
+  },
+  "RO313": {
+    "water_area_km2": 7.8,
+    "water_bodies_count": 1,
+    "water_pct": 0.19
+  },
+  "RO314": {
+    "water_area_km2": 37.53,
+    "water_bodies_count": 1,
+    "water_pct": 1.07
+  },
+  "RO315": {
+    "water_area_km2": 77.43,
+    "water_bodies_count": 11,
+    "water_pct": 1.72
+  },
+  "RO317": {
+    "water_area_km2": 109.48,
+    "water_bodies_count": 9,
+    "water_pct": 1.9
+  },
+  "RO321": {
+    "water_area_km2": 0.29,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "RO322": {
+    "water_area_km2": 9.33,
+    "water_bodies_count": 4,
+    "water_pct": 0.64
+  },
+  "RO411": {
+    "water_area_km2": 204.34,
+    "water_bodies_count": 16,
+    "water_pct": 2.75
+  },
+  "RO413": {
+    "water_area_km2": 104.39,
+    "water_bodies_count": 7,
+    "water_pct": 2.11
+  },
+  "RO414": {
+    "water_area_km2": 91.71,
+    "water_bodies_count": 6,
+    "water_pct": 1.64
+  },
+  "RO421": {
+    "water_area_km2": 0.79,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "RO422": {
+    "water_area_km2": 50.58,
+    "water_bodies_count": 2,
+    "water_pct": 0.6
+  },
+  "RO423": {
+    "water_area_km2": 1.38,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "RS110": {
+    "water_area_km2": 86.58,
+    "water_bodies_count": 1,
+    "water_pct": 2.65
+  },
+  "RS121": {
+    "water_area_km2": 23.5,
+    "water_bodies_count": 6,
+    "water_pct": 1.02
+  },
+  "RS122": {
+    "water_area_km2": 45.08,
+    "water_bodies_count": 2,
+    "water_pct": 1.1
+  },
+  "RS123": {
+    "water_area_km2": 71.7,
+    "water_bodies_count": 3,
+    "water_pct": 1.85
+  },
+  "RS124": {
+    "water_area_km2": 0.58,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "RS125": {
+    "water_area_km2": 9.04,
+    "water_bodies_count": 2,
+    "water_pct": 0.5
+  },
+  "RS126": {
+    "water_area_km2": 21.43,
+    "water_bodies_count": 6,
+    "water_pct": 0.66
+  },
+  "RS127": {
+    "water_area_km2": 75.82,
+    "water_bodies_count": 1,
+    "water_pct": 2.11
+  },
+  "RS211": {
+    "water_area_km2": 9.56,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "RS213": {
+    "water_area_km2": 29.61,
+    "water_bodies_count": 1,
+    "water_pct": 0.91
+  },
+  "RS221": {
+    "water_area_km2": 68.09,
+    "water_bodies_count": 2,
+    "water_pct": 1.91
+  },
+  "RS222": {
+    "water_area_km2": 35.08,
+    "water_bodies_count": 1,
+    "water_pct": 0.93
+  },
+  "RS227": {
+    "water_area_km2": 9.05,
+    "water_bodies_count": 2,
+    "water_pct": 0.73
+  },
+  "RS228": {
+    "water_area_km2": 14.07,
+    "water_bodies_count": 1,
+    "water_pct": 0.4
+  },
+  "SE110": {
+    "water_area_km2": 733.17,
+    "water_bodies_count": 124,
+    "water_pct": 9.21
+  },
+  "SE121": {
+    "water_area_km2": 522.9,
+    "water_bodies_count": 82,
+    "water_pct": 5.97
+  },
+  "SE122": {
+    "water_area_km2": 985.35,
+    "water_bodies_count": 117,
+    "water_pct": 13.98
+  },
+  "SE123": {
+    "water_area_km2": 1495.02,
+    "water_bodies_count": 159,
+    "water_pct": 11.98
+  },
+  "SE124": {
+    "water_area_km2": 934.29,
+    "water_bodies_count": 152,
+    "water_pct": 9.76
+  },
+  "SE125": {
+    "water_area_km2": 480.4,
+    "water_bodies_count": 60,
+    "water_pct": 8.53
+  },
+  "SE211": {
+    "water_area_km2": 1160.26,
+    "water_bodies_count": 193,
+    "water_pct": 9.74
+  },
+  "SE212": {
+    "water_area_km2": 915.04,
+    "water_bodies_count": 171,
+    "water_pct": 9.9
+  },
+  "SE213": {
+    "water_area_km2": 460.47,
+    "water_bodies_count": 203,
+    "water_pct": 3.93
+  },
+  "SE214": {
+    "water_area_km2": 9.54,
+    "water_bodies_count": 7,
+    "water_pct": 0.3
+  },
+  "SE221": {
+    "water_area_km2": 43.79,
+    "water_bodies_count": 40,
+    "water_pct": 1.46
+  },
+  "SE224": {
+    "water_area_km2": 296.92,
+    "water_bodies_count": 62,
+    "water_pct": 2.65
+  },
+  "SE231": {
+    "water_area_km2": 169.35,
+    "water_bodies_count": 64,
+    "water_pct": 2.94
+  },
+  "SE232": {
+    "water_area_km2": 4694.71,
+    "water_bodies_count": 259,
+    "water_pct": 16.06
+  },
+  "SE311": {
+    "water_area_km2": 3975.01,
+    "water_bodies_count": 270,
+    "water_pct": 18.09
+  },
+  "SE312": {
+    "water_area_km2": 1529.66,
+    "water_bodies_count": 343,
+    "water_pct": 5.0
+  },
+  "SE313": {
+    "water_area_km2": 1069.72,
+    "water_bodies_count": 266,
+    "water_pct": 5.47
+  },
+  "SE321": {
+    "water_area_km2": 841.2,
+    "water_bodies_count": 299,
+    "water_pct": 3.62
+  },
+  "SE322": {
+    "water_area_km2": 3513.68,
+    "water_bodies_count": 541,
+    "water_pct": 6.48
+  },
+  "SE331": {
+    "water_area_km2": 2517.38,
+    "water_bodies_count": 597,
+    "water_pct": 4.24
+  },
+  "SE332": {
+    "water_area_km2": 4942.88,
+    "water_bodies_count": 828,
+    "water_pct": 4.66
+  },
+  "SI036": {
+    "water_area_km2": 1.25,
+    "water_bodies_count": 1,
+    "water_pct": 0.14
+  },
+  "SI042": {
+    "water_area_km2": 4.02,
+    "water_bodies_count": 2,
+    "water_pct": 0.19
+  },
+  "SK010": {
+    "water_area_km2": 16.14,
+    "water_bodies_count": 2,
+    "water_pct": 0.77
+  },
+  "SK021": {
+    "water_area_km2": 50.4,
+    "water_bodies_count": 5,
+    "water_pct": 1.25
+  },
+  "SK022": {
+    "water_area_km2": 5.23,
+    "water_bodies_count": 1,
+    "water_pct": 0.12
+  },
+  "SK023": {
+    "water_area_km2": 11.72,
+    "water_bodies_count": 4,
+    "water_pct": 0.19
+  },
+  "SK031": {
+    "water_area_km2": 25.34,
+    "water_bodies_count": 3,
+    "water_pct": 0.37
+  },
+  "SK041": {
+    "water_area_km2": 19.12,
+    "water_bodies_count": 1,
+    "water_pct": 0.21
+  },
+  "SK042": {
+    "water_area_km2": 19.57,
+    "water_bodies_count": 1,
+    "water_pct": 0.29
+  },
+  "TR100": {
+    "water_area_km2": 99.79,
+    "water_bodies_count": 5,
+    "water_pct": 1.96
+  },
+  "TR212": {
+    "water_area_km2": 22.07,
+    "water_bodies_count": 6,
+    "water_pct": 0.37
+  },
+  "TR213": {
+    "water_area_km2": 0.7,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "TR221": {
+    "water_area_km2": 198.54,
+    "water_bodies_count": 3,
+    "water_pct": 1.33
+  },
+  "TR222": {
+    "water_area_km2": 4.06,
+    "water_bodies_count": 2,
+    "water_pct": 0.04
+  },
+  "TR310": {
+    "water_area_km2": 3.69,
+    "water_bodies_count": 4,
+    "water_pct": 0.03
+  },
+  "TR321": {
+    "water_area_km2": 93.44,
+    "water_bodies_count": 5,
+    "water_pct": 1.16
+  },
+  "TR322": {
+    "water_area_km2": 154.09,
+    "water_bodies_count": 8,
+    "water_pct": 1.31
+  },
+  "TR323": {
+    "water_area_km2": 78.17,
+    "water_bodies_count": 6,
+    "water_pct": 0.59
+  },
+  "TR331": {
+    "water_area_km2": 98.54,
+    "water_bodies_count": 3,
+    "water_pct": 0.74
+  },
+  "TR332": {
+    "water_area_km2": 490.55,
+    "water_bodies_count": 12,
+    "water_pct": 3.5
+  },
+  "TR333": {
+    "water_area_km2": 15.99,
+    "water_bodies_count": 3,
+    "water_pct": 0.14
+  },
+  "TR334": {
+    "water_area_km2": 13.66,
+    "water_bodies_count": 1,
+    "water_pct": 0.24
+  },
+  "TR411": {
+    "water_area_km2": 447.39,
+    "water_bodies_count": 3,
+    "water_pct": 4.17
+  },
+  "TR412": {
+    "water_area_km2": 60.45,
+    "water_bodies_count": 11,
+    "water_pct": 0.44
+  },
+  "TR421": {
+    "water_area_km2": 16.73,
+    "water_bodies_count": 1,
+    "water_pct": 0.46
+  },
+  "TR422": {
+    "water_area_km2": 36.21,
+    "water_bodies_count": 6,
+    "water_pct": 0.76
+  },
+  "TR423": {
+    "water_area_km2": 4.28,
+    "water_bodies_count": 1,
+    "water_pct": 0.17
+  },
+  "TR424": {
+    "water_area_km2": 3.57,
+    "water_bodies_count": 3,
+    "water_pct": 0.04
+  },
+  "TR510": {
+    "water_area_km2": 695.63,
+    "water_bodies_count": 11,
+    "water_pct": 2.7
+  },
+  "TR521": {
+    "water_area_km2": 1374.71,
+    "water_bodies_count": 24,
+    "water_pct": 3.37
+  },
+  "TR522": {
+    "water_area_km2": 1.22,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "TR611": {
+    "water_area_km2": 21.57,
+    "water_bodies_count": 9,
+    "water_pct": 0.11
+  },
+  "TR612": {
+    "water_area_km2": 680.88,
+    "water_bodies_count": 6,
+    "water_pct": 7.83
+  },
+  "TR613": {
+    "water_area_km2": 360.57,
+    "water_bodies_count": 17,
+    "water_pct": 4.87
+  },
+  "TR621": {
+    "water_area_km2": 136.13,
+    "water_bodies_count": 9,
+    "water_pct": 0.98
+  },
+  "TR622": {
+    "water_area_km2": 11.87,
+    "water_bodies_count": 1,
+    "water_pct": 0.07
+  },
+  "TR631": {
+    "water_area_km2": 62.53,
+    "water_bodies_count": 2,
+    "water_pct": 1.12
+  },
+  "TR632": {
+    "water_area_km2": 30.27,
+    "water_bodies_count": 5,
+    "water_pct": 0.21
+  },
+  "TR633": {
+    "water_area_km2": 62.19,
+    "water_bodies_count": 2,
+    "water_pct": 1.84
+  },
+  "TR712": {
+    "water_area_km2": 258.58,
+    "water_bodies_count": 5,
+    "water_pct": 3.27
+  },
+  "TR715": {
+    "water_area_km2": 162.69,
+    "water_bodies_count": 3,
+    "water_pct": 2.48
+  },
+  "TR721": {
+    "water_area_km2": 37.18,
+    "water_bodies_count": 4,
+    "water_pct": 0.21
+  },
+  "TR722": {
+    "water_area_km2": 69.85,
+    "water_bodies_count": 4,
+    "water_pct": 0.25
+  },
+  "TR823": {
+    "water_area_km2": 0.95,
+    "water_bodies_count": 1,
+    "water_pct": 0.02
+  },
+  "TR831": {
+    "water_area_km2": 136.7,
+    "water_bodies_count": 7,
+    "water_pct": 1.39
+  },
+  "TR832": {
+    "water_area_km2": 66.05,
+    "water_bodies_count": 1,
+    "water_pct": 0.64
+  },
+  "TR833": {
+    "water_area_km2": 0.87,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "TRA11": {
+    "water_area_km2": 7.99,
+    "water_bodies_count": 1,
+    "water_pct": 0.03
+  },
+  "TRA12": {
+    "water_area_km2": 18.84,
+    "water_bodies_count": 1,
+    "water_pct": 0.16
+  },
+  "TRA21": {
+    "water_area_km2": 47.57,
+    "water_bodies_count": 4,
+    "water_pct": 0.41
+  },
+  "TRA22": {
+    "water_area_km2": 35.47,
+    "water_bodies_count": 5,
+    "water_pct": 0.35
+  },
+  "TRA23": {
+    "water_area_km2": 0.22,
+    "water_bodies_count": 1,
+    "water_pct": 0.01
+  },
+  "TRA24": {
+    "water_area_km2": 109.6,
+    "water_bodies_count": 2,
+    "water_pct": 2.2
+  },
+  "TRB11": {
+    "water_area_km2": 286.54,
+    "water_bodies_count": 3,
+    "water_pct": 2.31
+  },
+  "TRB12": {
+    "water_area_km2": 459.61,
+    "water_bodies_count": 5,
+    "water_pct": 4.97
+  },
+  "TRB14": {
+    "water_area_km2": 256.58,
+    "water_bodies_count": 2,
+    "water_pct": 3.37
+  },
+  "TRB21": {
+    "water_area_km2": 2095.83,
+    "water_bodies_count": 10,
+    "water_pct": 10.16
+  },
+  "TRB22": {
+    "water_area_km2": 28.66,
+    "water_bodies_count": 5,
+    "water_pct": 0.32
+  },
+  "TRB23": {
+    "water_area_km2": 1630.61,
+    "water_bodies_count": 5,
+    "water_pct": 20.04
+  },
+  "TRC11": {
+    "water_area_km2": 10.93,
+    "water_bodies_count": 2,
+    "water_pct": 0.16
+  },
+  "TRC12": {
+    "water_area_km2": 178.84,
+    "water_bodies_count": 5,
+    "water_pct": 2.43
+  },
+  "TRC21": {
+    "water_area_km2": 126.88,
+    "water_bodies_count": 2,
+    "water_pct": 0.66
+  },
+  "TRC22": {
+    "water_area_km2": 189.81,
+    "water_bodies_count": 4,
+    "water_pct": 1.28
+  },
+  "TRC31": {
+    "water_area_km2": 9.16,
+    "water_bodies_count": 1,
+    "water_pct": 0.1
+  },
+  "TRC32": {
+    "water_area_km2": 260.66,
+    "water_bodies_count": 2,
+    "water_pct": 5.92
+  },
+  "TRC33": {
+    "water_area_km2": 28.06,
+    "water_bodies_count": 1,
+    "water_pct": 0.39
+  },
+  "TRC34": {
+    "water_area_km2": 137.91,
+    "water_bodies_count": 3,
+    "water_pct": 2.48
+  },
+  "XK001": {
+    "water_area_km2": 2.43,
+    "water_bodies_count": 1,
+    "water_pct": 0.11
+  }
+}

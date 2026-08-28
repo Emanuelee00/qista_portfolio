@@ -1,0 +1,6 @@
+nuts3_id,name,bornes_count,original_score,protected_score,reduction_pct,original_class,protected_class
+FRL05,Var,400,50,34,32.0,C,B
+FRL04,Bouches-du-Rhône,3,69,69,0.2,D,D
+ES511,Barcelona,1,66,66,0.1,D,D
+ITI43,Roma,1,80,80,0.1,E,E
+FRJ13,Hérault,1,61,61,0.1,D,D

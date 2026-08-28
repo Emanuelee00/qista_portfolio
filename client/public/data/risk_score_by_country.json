@@ -1,0 +1,200 @@
+{
+  "FR": {
+    "country_name": "France",
+    "score_species": 20,
+    "score_climate": 15.3,
+    "score_disease": 16,
+    "score_observations": 15,
+    "total_score": 66.3,
+    "risk_class": "D"
+  },
+  "IT": {
+    "country_name": "Italie",
+    "score_species": 25,
+    "score_climate": 18.093333333333334,
+    "score_disease": 20,
+    "score_observations": 25,
+    "total_score": 88.09333333333333,
+    "risk_class": "E"
+  },
+  "ES": {
+    "country_name": "Espagne",
+    "score_species": 25,
+    "score_climate": 20.566666666666666,
+    "score_disease": 19,
+    "score_observations": 25,
+    "total_score": 89.56666666666666,
+    "risk_class": "E"
+  },
+  "EL": {
+    "country_name": "Grece",
+    "score_species": 0,
+    "score_climate": 10.46,
+    "score_disease": 13,
+    "score_observations": 15,
+    "total_score": 38.46,
+    "risk_class": "B"
+  },
+  "DE": {
+    "country_name": "Allemagne",
+    "score_species": 15,
+    "score_climate": 18.0,
+    "score_disease": 21,
+    "score_observations": 15,
+    "total_score": 69.0,
+    "risk_class": "D"
+  },
+  "HR": {
+    "country_name": "Croatie",
+    "score_species": 15,
+    "score_climate": 0,
+    "score_disease": 6,
+    "score_observations": 5,
+    "total_score": 26,
+    "risk_class": "B"
+  },
+  "RO": {
+    "country_name": "Roumanie",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 10,
+    "score_observations": 5,
+    "total_score": 25,
+    "risk_class": "B"
+  },
+  "BG": {
+    "country_name": "Bulgarie",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 5,
+    "score_observations": 10,
+    "total_score": 25,
+    "risk_class": "B"
+  },
+  "HU": {
+    "country_name": "Hongrie",
+    "score_species": 15,
+    "score_climate": 0,
+    "score_disease": 10,
+    "score_observations": 25,
+    "total_score": 50,
+    "risk_class": "C"
+  },
+  "AT": {
+    "country_name": "Autriche",
+    "score_species": 20,
+    "score_climate": 0,
+    "score_disease": 13,
+    "score_observations": 25,
+    "total_score": 58,
+    "risk_class": "C"
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 4,
+    "score_observations": 15,
+    "total_score": 29,
+    "risk_class": "B"
+  },
+  "SI": {
+    "country_name": "Slovenie",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 3,
+    "score_observations": 5,
+    "total_score": 18,
+    "risk_class": "A"
+  },
+  "RS": {
+    "country_name": "Serbie",
+    "score_species": 15,
+    "score_climate": 0,
+    "score_disease": 8,
+    "score_observations": 10,
+    "total_score": 33,
+    "risk_class": "B"
+  },
+  "AL": {
+    "country_name": "Albanie",
+    "score_species": 15,
+    "score_climate": 0,
+    "score_disease": 8,
+    "score_observations": 5,
+    "total_score": 28,
+    "risk_class": "B"
+  },
+  "TR": {
+    "country_name": "Turquie",
+    "score_species": 15,
+    "score_climate": 0,
+    "score_disease": 8,
+    "score_observations": 10,
+    "total_score": 33,
+    "risk_class": "B"
+  },
+  "CY": {
+    "country_name": "Chypre",
+    "score_species": 5,
+    "score_climate": 0,
+    "score_disease": 2,
+    "score_observations": 5,
+    "total_score": 12,
+    "risk_class": "A"
+  },
+  "MT": {
+    "country_name": "Malte",
+    "score_species": 5,
+    "score_climate": 0,
+    "score_disease": 2,
+    "score_observations": 2,
+    "total_score": 9,
+    "risk_class": "A"
+  },
+  "BE": {
+    "country_name": "Belgique",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 8,
+    "score_observations": 5,
+    "total_score": 23,
+    "risk_class": "B"
+  },
+  "NL": {
+    "country_name": "Pays-Bas",
+    "score_species": 10,
+    "score_climate": 0,
+    "score_disease": 3,
+    "score_observations": 25,
+    "total_score": 38,
+    "risk_class": "B"
+  },
+  "PL": {
+    "country_name": "Pologne",
+    "score_species": 5,
+    "score_climate": 0,
+    "score_disease": 4,
+    "score_observations": 5,
+    "total_score": 14,
+    "risk_class": "A"
+  },
+  "CZ": {
+    "country_name": "Tchequie",
+    "score_species": 5,
+    "score_climate": 0,
+    "score_disease": 6,
+    "score_observations": 5,
+    "total_score": 16,
+    "risk_class": "A"
+  },
+  "SK": {
+    "country_name": "Slovaquie",
+    "score_species": 5,
+    "score_climate": 0,
+    "score_disease": 3,
+    "score_observations": 10,
+    "total_score": 18,
+    "risk_class": "A"
+  }
+}

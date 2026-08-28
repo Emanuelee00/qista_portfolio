@@ -1,0 +1,9 @@
+city_key,city_name,current_summer_avg_C,projected_2045_avg_C,delta_C
+marseille,Marseille,23.5,25.4,1.9
+stockholm,Stockholm,17.2,17.8,0.6
+paris,Paris,18.9,21.0,2.1
+berlin,Berlin,20.2,20.3,0.1
+rome,Rome,26.7,26.2,-0.5
+athens,Athenes,29.5,29.6,0.1
+barcelona,Barcelona,24.2,25.1,0.9
+lyon,Lyon,21.2,22.6,1.4

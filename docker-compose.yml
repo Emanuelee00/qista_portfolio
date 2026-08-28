@@ -1,0 +1,23 @@
+services:
+  predictor:
+    build: ./predictor
+    ports:
+      - "8000:8000"
+    environment:
+      - PREDICTOR_OPENWEATHER_API_KEY=${PREDICTOR_OPENWEATHER_API_KEY:-}
+
+  server:
+    build: ./server
+    ports:
+      - "3000:3000"
+    environment:
+      - PREDICTOR_URL=http://predictor:8000
+    depends_on:
+      - predictor
+
+  client:
+    build: ./client
+    ports:
+      - "8080:80"
+    depends_on:
+      - server

@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build
+dist/
+build/
+
+# Data pipeline intermediate outputs
+predictor/processed/
+predictor/data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Local run helpers / logs
+.run/

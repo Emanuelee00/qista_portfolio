@@ -1,0 +1,12 @@
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+pydantic==2.*
+pydantic-settings==2.*
+pytest==8.*
+httpx==0.28.*
+
+# Data pipeline (scripts/)
+requests>=2.31.0
+pandas>=2.1.0
+geopandas>=0.14.0
+shapely>=2.0.0

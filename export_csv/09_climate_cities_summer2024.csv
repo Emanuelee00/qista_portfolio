@@ -1,0 +1,9 @@
+city_key,city_name,country,lat,lon,avg_temp_max,avg_temp_min,avg_humidity,total_precip_mm,mosquito_favorability,high_fav_days
+marseille,Marseille,FR,43.3,5.37,26.7,18.4,63.3,155.6,40.5,29
+hyeres,Hyeres,FR,43.12,6.13,28.5,18.8,60.5,152.1,41.9,31
+lyon,Lyon,FR,45.76,4.83,25.1,15.2,71.3,463.3,42.3,34
+toulouse,Toulouse,FR,43.6,1.44,25.5,15.6,71.0,330.3,42.3,33
+rome,Rome,IT,41.9,12.5,31.5,20.1,63.1,220.0,45.2,36
+athens,Athenes,EL,37.98,23.73,33.3,23.2,43.6,89.9,31.7,9
+barcelona,Barcelone,ES,41.39,2.17,27.0,19.2,72.8,225.0,50.5,65
+munich,Munich,DE,48.14,11.58,22.7,13.4,78.3,656.1,45.0,40

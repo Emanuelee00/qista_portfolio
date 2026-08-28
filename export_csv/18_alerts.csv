@@ -1,0 +1,16 @@
+nuts3_id,name,country,score,risk_class,alert_type,message
+ITH35,Venezia,IT,85,E,critical,Risque critique (85/100) — action recommandee
+HU110,Budapest,HU,80,E,critical,Risque critique (80/100) — action recommandee
+ITI43,Roma,IT,80,E,critical,Risque critique (80/100) — action recommandee
+ITH20,Trento,IT,79,E,critical,Risque critique (79/100) — action recommandee
+ITI14,Firenze,IT,78,E,critical,Risque critique (78/100) — action recommandee
+ITC4C,Milano,IT,77,E,critical,Risque critique (77/100) — action recommandee
+AT130,Wien,AT,76,E,critical,Risque critique (76/100) — action recommandee
+ITC42,Como,IT,75,E,critical,Risque critique (75/100) — action recommandee
+ITH31,Verona,IT,74,D,warning,Risque eleve en hausse (74/100) — surveillance renforcee
+ITH34,Treviso,IT,74,D,warning,Risque eleve en hausse (74/100) — surveillance renforcee
+AT221,Graz,AT,73,D,warning,Risque eleve en hausse (73/100) — surveillance renforcee
+ITC41,Varese,IT,73,D,warning,Risque eleve en hausse (73/100) — surveillance renforcee
+HU120,Pest,HU,72,D,warning,Risque eleve en hausse (72/100) — surveillance renforcee
+ITH36,Padova,IT,71,D,warning,Risque eleve en hausse (71/100) — surveillance renforcee
+ITH55,Bologna,IT,70,D,warning,Risque eleve en hausse (70/100) — surveillance renforcee
