@@ -1625,7 +1625,7 @@ function BornePanel({ borne, onClose }) {
       <button className="close-btn" onClick={onClose}>x</button>
 
       <div className="borne-image-wrap">
-        <img src="/wc-libertin.png" alt="Borne Qista" className="borne-image" />
+        <img src={`${import.meta.env.BASE_URL}wc-libertin.png`} alt="Borne Qista" className="borne-image" />
       </div>
 
       <div className="borne-header">
@@ -2051,17 +2051,17 @@ export default function App() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/nuts3_europe_10m.geojson').then(r => r.json()),
-      fetch('/data/risk_score_by_nuts3.json').then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/nuts3_europe_10m.geojson`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/risk_score_by_nuts3.json`).then(r => r.json()),
     ]).then(([geo, nuts]) => {
       setGeojson(geo); setBaseNutsData(nuts); setNutsData(nuts)
       setTimeout(() => setLoaded(true), 100)
     })
     // Lazy load observation points + bornes
-    fetch('/data/observation_points.json').then(r => r.json()).then(setObsPoints).catch(() => {})
-    fetch('/data/gbif_points.json').then(r => r.json()).then(setGbifPoints).catch(() => {})
-    fetch('/data/mosquito_forecast_weekly.json').then(r => r.json()).then(setForecastData).catch(() => {})
-    fetch('/data/qista_bornes.json').then(r => r.json()).then(setBornesData).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/observation_points.json`).then(r => r.json()).then(setObsPoints).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/gbif_points.json`).then(r => r.json()).then(setGbifPoints).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/mosquito_forecast_weekly.json`).then(r => r.json()).then(setForecastData).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/qista_bornes.json`).then(r => r.json()).then(setBornesData).catch(() => {})
   }, [])
 
   useEffect(() => {
@@ -2300,7 +2300,7 @@ export default function App() {
     <div className={`app ${loaded ? 'loaded' : ''}`}>
       <div className="stats-bar">
         <div className="stats-left">
-          <img src="/logoqista.webp" alt="Qista" className="header-logo" />
+          <img src={`${import.meta.env.BASE_URL}logoqista.webp`} alt="Qista" className="header-logo" />
           <span className="header-subtitle">Surveillance du risque moustique en Europe</span>
           {liveMode && <span className="live-indicator">LIVE</span>}
         </div>

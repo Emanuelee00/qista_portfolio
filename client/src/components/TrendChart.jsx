@@ -6,7 +6,7 @@ export default function TrendChart({ country }) {
   const [trends, setTrends] = useState(null)
 
   useEffect(() => {
-    fetch('/data/risk_trends.json').then(r => r.json()).then(setTrends).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/risk_trends.json`).then(r => r.json()).then(setTrends).catch(() => {})
   }, [])
 
   if (!trends || !country) return null

@@ -6,7 +6,7 @@ export default function AlertsPanel({ onSelectRegion }) {
   const [alerts, setAlerts] = useState([])
 
   useEffect(() => {
-    fetch('/data/alerts.json').then(r => r.json()).then(setAlerts).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/alerts.json`).then(r => r.json()).then(setAlerts).catch(() => {})
   }, [])
 
   if (!alerts.length) return null

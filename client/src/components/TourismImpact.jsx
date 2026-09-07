@@ -11,7 +11,7 @@ export default function TourismImpact({ nutsId, riskClass, total }) {
   const [tourism, setTourism] = useState(null)
 
   useEffect(() => {
-    fetch('/data/tourism_nuts2.json').then(r => r.json()).then(setTourism).catch(() => {})
+    fetch(`${import.meta.env.BASE_URL}data/tourism_nuts2.json`).then(r => r.json()).then(setTourism).catch(() => {})
   }, [])
 
   if (!tourism || !nutsId) return null
